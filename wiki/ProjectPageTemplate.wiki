@@ -1,0 +1,63 @@
+#labels ProgrammeDocumentation
+
+_NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database PIMS at the end of your project and must be accurate).  I would encourage you to help me fill it in as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.
+
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns="http://usefulinc.com/ns/doap#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:admin="http://webns.net/mvcb/"> 
+
+= Project Overview =
+  * *Full Name of Project*: 
+    * *Project Tag*: 
+  * *Project Descriptions* (how would you describe this project to your neighbour?):
+    * *short*: >120 characters
+    * *long*: 3 x Sentences
+    * *problem it solves?*:
+  * *Project Outputs/Products/Deliverables* (what thing are you producing?):
+    * (tangible reusable items)
+    * (intangible inert things)
+
+= Project Details =
+  * *Name of Host Institution*: 
+    * *Department*: 
+  * *JISC Programme/Strand*: 
+  * *Length of Project*:
+    * *Project Start Date*:
+    * *Project End Date*:
+  * *Grant Awarded to Project*:
+
+= Project Team =
+  * *Project Director*: 
+  * *Project Manager*: 
+  * *Developer*:
+  * *Institutional Budget Manager*: 
+  * *Partners*:
+    * *Consultants*:
+    * *Users*:
+  * *OTHER* (please describe their role and function in the project)
+    * 1
+    * 2
+
+= Documentation =
+
+Latest project blog posts (to expand click the "+" symbol):
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * Project Blog:
+    * Feed: 
+  * Code Repository: 
+  * Technical Documentation: 
+  * End User Documentation: 
+  * Analytics Engine: 
+  * Project Website:  
+  * PIMS listing:
+  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Plan:
+  * Final Project Post: 
+  * Final Budget:
+  * Sign-off Form:
+  * License used for code:
+  * License used for database content:
+  * License used for blog and other project website content:
+
+= Correspondence (below as comments) =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
