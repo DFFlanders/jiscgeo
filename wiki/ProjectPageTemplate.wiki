@@ -1,13 +1,13 @@
 #labels ProgrammeDocumentation
-_NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database PIMS at the end of your project and must be accurate).  I would encourage you to help me fill it in as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.
+_NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database PIMS at the end of your project and must be accurate).  I would encourage you to help me fill it in as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.  Please do not delete the code blocks as this is what makes this page machine readable.
 
 {{{
 <Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns="http://usefulinc.com/ns/doap#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:admin="http://webns.net/mvcb/"> 
 }}}
 
 = Project Overview =
-  * *Full Name of Project*: 
-    * *Project Tag*: 
+  * *Full Name of Project*: '<name>' Enter full human readable name of project here '</name>'
+    * *Project Tag*:  enter n
   * *Project Descriptions* (how would you describe this project to your neighbour?):
     * *short*: >120 characters
     * *long*: 3 x Sentences
