@@ -1,5 +1,5 @@
 #labels ProgrammeDocumentation
-_NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database PIMS at the end of your project and must be accurate).  I would encourage you to help me fill it in as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.  Please do not delete the code blocks as this is what makes this page machine readable.
+_NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database (PIMS) at the end of your project and must be accurate).  I would encourage you to help me fill it in, as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.  Please do not delete the code blocks as this is what makes this page machine readable!
 
 {{{
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -16,24 +16,24 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
   * *Full Name of Project*: <doap:name> Enter full human readable name of project here </doap:name>
     * *Project Tag*: <doap:shortname> enter the tag of your project here </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your neighbour?):
-    * *short*: >120 characters
-    * *long*: 3 x Sentences
-    * *problem it solves?*:
-  * *Project Outputs/Products/Deliverables* (what thing are you producing?):
+    * *short*: <doap:shortdesc> less than 120 characters
+    * *long*: <doap:description> 3 x Sentences
+    * *keywords*: <doap:category>
+  * *Project Outputs/Products/Deliverables* (what things are you producing?):
     * (tangible reusable items)
-    * (intangible inert things)
+    * (intangible inert practices)
 
 = Project Details =
-  * *Name of Host Institution*: 
-    * *Department*: 
-  * *JISC Programme/Strand*: 
-  * *Length of Project*:
-    * *Project Start Date*:
+  * *Name of Host Institution*: <foaf:???>
+    * *Department*: <openorg:???>
+  * *JISC Programme/Strand/Theme*: <doap:category>
+  * *Length of Project*: 
+    * *Project Start Date*: <doap:created> W3C-DTF </doap:created> 
     * *Project End Date*:
   * *Grant Awarded to Project*:
 
 = Project Team =
-  * *Project Director*: 
+  * *Project Director*: <foaf:name> </foaf:name>, <foaf:_phone, skype, email, webpage...>
   * *Project Manager*: 
   * *Developer*:
   * *Institutional Budget Manager*: 
@@ -49,22 +49,22 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
 Latest project blog posts (to expand click the "+" symbol):
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * Project Blog:
+  * Project Blog: '<doap:old-homepage>'
     * Feed: 
-  * Code Repository: 
+  * Code Repository: <doap:repository>
   * Technical Documentation: 
-  * End User Documentation: 
+  * Instructional End User Documentation: 
+  * Listserv: <doap:mailing-list>
   * Analytics Engine: 
-  * Project Website:  
-  * PIMS listing:
-  * Core Project Resources: http://bit.ly/doapSS-jiscEXPO
+  * Project Website: <doap:homepage>
+  * PIMS listing: 
   * Project Plan:
   * Final Project Post: 
   * Final Budget:
   * Sign-off Form:
-  * License used for code:
-  * License used for database content:
-  * License used for blog and other project website content:
+  * License used for code: <doap:license>
+  * License used for database content: <doap:license>
+  * License used for blog and other project website content: <doap:license>
 
 = Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
