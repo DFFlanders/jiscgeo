@@ -22,6 +22,8 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
   * *Project Outputs/Products/Deliverables* (what things are you producing?):
     * (tangible reusable items)
     * (intangible inert practices)
+  * *Primary Audience the deliverable of this project will be for:
+    * (teachers, researchers, etc) <doap:audience>
 
 = Project Details =
   * *Name of Host Institution*: <foaf:???>
@@ -34,12 +36,12 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
 
 = Project Team =
   * *Project Director*: <foaf:name> </foaf:name>, <foaf:_phone, skype, email, webpage...>
-  * *Project Manager*: 
-  * *Developer*:
-  * *Institutional Budget Manager*: 
+  * *Project Manager*: <doap:maintainer> OR <doap:documenter>
+  * *Developer*: <doap:developer>
+  * *Institutional Budget Manager*: <doap:helper> OR <doap:documenter>
   * *Partners*:
-    * *Consultants*:
-    * *Users*:
+    * *Consultants*: <doap:vendor>
+    * *Users*: <doap:audience>
   * *OTHER* (please describe their role and function in the project)
     * 1
     * 2
@@ -49,22 +51,25 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
 Latest project blog posts (to expand click the "+" symbol):
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * Project Blog: '<doap:old-homepage>'
+  * Project Blog: <doap:blog>
     * Feed: 
   * Code Repository: <doap:repository>
-  * Technical Documentation: 
-  * Instructional End User Documentation: 
+  * Technical Documentation: <doap:browse>
+  * Instructional End User Documentation: <doap:browse>
   * Listserv: <doap:mailing-list>
   * Analytics Engine: 
   * Project Website: <doap:homepage>
   * PIMS listing: 
   * Project Plan:
-  * Final Project Post: 
+  * Final Project Post: <doap:screenshots>
   * Final Budget:
-  * Sign-off Form:
+  * Sign-off Form: 
   * License used for code: <doap:license>
   * License used for database content: <doap:license>
   * License used for blog and other project website content: <doap:license>
+  * Programming Languages used: <doap:programming-language>
+  * Types of software tools used: <doap:platform>
+  * Operating System used (if applicable): <doap:os>
 
 = Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
