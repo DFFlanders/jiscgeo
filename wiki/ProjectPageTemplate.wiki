@@ -6,7 +6,7 @@ _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts
 }}}
 
 = Project Overview =
-  * *Full Name of Project*: '<name>' Enter full human readable name of project here '</name>'
+  * *Full Name of Project*: <doap:name> Enter full human readable name of project here </doap:name>
     * *Project Tag*:  enter n
   * *Project Descriptions* (how would you describe this project to your neighbour?):
     * *short*: >120 characters
