@@ -2,12 +2,19 @@
 _NOTE TO PROJECT ON THIS PAGE: This is my notebook page on your project, it acts as my list of must have items from the project (this will be imported into the JISC project database PIMS at the end of your project and must be accurate).  I would encourage you to help me fill it in as your project is not completed until I have all the following information (as per your grant funding).  You can edit this page by sending your gmail or hotmail accunt to d.flanders at jisc.ac.uk who will give you access to edit it.  Please do not delete the code blocks as this is what makes this page machine readable.
 
 {{{
-<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns="http://usefulinc.com/ns/doap#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:admin="http://webns.net/mvcb/"> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:doap="http://usefulinc.com/ns/doap#"
+> 
 }}}
 
 = Project Overview =
   * *Full Name of Project*: <doap:name> Enter full human readable name of project here </doap:name>
-    * *Project Tag*:  enter n
+    * *Project Tag*: <doap:shortname> enter the tag of your project here </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your neighbour?):
     * *short*: >120 characters
     * *long*: 3 x Sentences
