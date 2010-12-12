@@ -1,4 +1,4 @@
-#summary This page describes what things (services) the Programme Manager can do for you!
+#summary This page describes what things (services) the Programme Manager will provide for your project.
 #labels ProgrammeDocumentation
 
 = Service Level Agreement =
@@ -35,29 +35,24 @@ Some principles that guide your programme manager in working with your project a
 === Your Programme Manager's Dislikes ===
 Things your programme manager does NOT like (though I always welcome challenges on my likes/dislikes):
 
-    * And please don't just tell me about your project, think about the overall primary aim and audience of the project (which should be to the end user and community, NOT the JISC Executive).
-  # A Programme Manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  So please make sure to read over the ProjectDocumentationInstructions.
-    * Deadlines for project documentation will be articulated well in advance of the due date and stated as part of the documentation instructions on this wiki.
-    * Communication on expected delivery of project documentation is required (if you are late with any documentation notice should be early and often!!!)
-    * _Failure to actively communicate with the Programme Manager on documentation can result in stoppage and even pulling back of your funding._ <- please make my life easy by just staying in touch!
-  # A programme manager wants to help with the learning curve that is inherent in all innovation projects.  Even if you have been a project manager before or done development projects you will still need to see the project as an opportunity for learning so that you will be even more skilled next time around, i.e. make mistakes and make them fast!
-    * Ideas for any training event for project managers, developers or user activities are much welcome and will be paid for by JISC if we decide to put on an event.
-  # A programme manager primarily enjoys being there to help _support projects_ by providing advice on: development practices, IPR, evaluation techniques, dissemination plan and business case (sustainability) strategy. 
-    * Projects can be very lonely work at times and decisions are sometimes made without consulting community members outside of the inner project circle, your programme manager should be able to provide advice and more importantly connect you will people in the community who have been through it before! Don't be a victim to the "not built here" syndrome!
-  # Last but certainly not least is the essential service of helping create a community, which of course requires the wisdom of crowds so we can find commonalities to jointly exploit!  
-    * Any ideas for how to enable shared commonalties between communities is greatly appreciated (and please do think outside of the JISC community box, there is a World Wild Web out there to utilise!).  
+  * Please talk to the community not me: in writing your project blog posts they should be for peers in your community, not pandering to the JISC Executive.
+  * The most laborious part of my job is keeping track of the documentation projects are _*required*_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project. 
+  * Please don't make continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
+  * I will articulate deadlines for project documentation well in advance of the due date and projects are expected to adhere to them (if you are late you should expect to sit down for a risk assessment audit).
+  * Failure to actively communicate with me or via our project blog will result in the JISC policy office contacting senior managers in your institution to discuss what procedures we will need to put in place to assure that this does occur.
+  * Project who do not attempt to reach out to other likeminded JISC projects is frowned, upon.  I don't expect formal agreements between projects but I do expect a friendly and welcoming attitude of sharing to be provided between all JISC funded projects.  
 
-= Chronological examples of service rendered by Programme Manager to individual projects =
+== Chronological examples of service rendered by Programme Manager to individual projects ==
 
-From a typical 6 month project the following can be expected from the Programme Manager:
-  * A F2F visit to the host project institution to meet and greet the project team (project manager, developers and bonus points if we can meet a real end user!)
+From a typical 6-12 month project the following can be expected from the Programme Manager:
+  * A face-to-face SiteVisit to the host project institution to meet and greet the project team (project manager, developers and bonus points if we can meet a real end user!)
   * A Programme Meeting with all projects in attendance
     * Guidance and knowledge sharing on what skills need to be developed as an effective project manager and innovation development team.
     * Getting you to know other projects <- projects do better when they find other projects to informally talk about things.
-    * Having you meet 'critical friends' in the JISC community: devCSI community, UKOLN Support Centre, CETIS Support Centre, IPR Consultancy, Marketing and Advertisement support, etc.
+    * Having you meet 'critical friends' in the JISC community: jiscGECO community, UKOLN Support Centre, CETIS Support Centre, IPR Consultancy, Marketing and Advertisement support, etc.
     * You usually get a nice meal out of it, let alone the networking opportunities :)
-  * Regular email updates on when Project Documentation is due
-    * Feedback on how we can make documentation better for other community members enjoyment always appreciated.
+  * Quarterly Executive Newsletter updates on status of the programme as a whole
+    * Also reminders for when your next project documentation is due.
   * Notifying you of any support projects or training events that might be applicable to the programme
     * e.g. developer community days, support team projects, evaluation and IPR workshops, etc.
   * Support for any project events of significance
@@ -65,7 +60,7 @@ From a typical 6 month project the following can be expected from the Programme 
     * Any multi-developer gathering: talkShop, barcamp, pair-programming, etc.
   * On call (twitter, skype, email, etc.) support on any queries.
     * Preference for asynchronous short messages if possible (e.g. twitter, skype, etc.)
-    * Always glad to have a quick chat on the phone/skype (david.flanders), I usually try and work from home on Monday and Friday and welcome ad hoc calls on those days.
+    * Always glad to have a quick chat on the phone/skype (david.flanders), I usually try and work from home on Mondays and welcome ad hoc calls on those days.
   * Attendance at final project events
     * Meetings with senior management
     * Final evaluation lunches 
@@ -77,7 +72,7 @@ From a typical 6 month project the following can be expected from the Programme 
     * Acquiring expert advice to advise or sit on JISC working groups
 
 = Transparency and Licensing =
-Please note any communications with the JISC Programme manager are subject to the Freedom and Information Act.  To assure that FoI is met your Programme Manager will attempt to publish as much information as possible online and in the open.  Accordingly, please know that than any email or communication with your Programme Manager will be made available online unless otherwise requested or if it contains personally sensitive data (otherwise the default is open).  As each JISC project is also spending tax payer money I would encourage you to keep everything in the open and transparent for anyone to comment upon.  The default license used for all information created by the Programme Manager is Creative Common Attribution Share Alike, as specified in the licensing section of this website.
+Please note any communications with the JISC Programme manager are subject to the Freedom and Information Act.  To assure that FoI is met your Programme Manager will attempt to publish as much information as possible online and in the open.  Accordingly, please know that than any email or communication with your Programme Manager will be made available online unless otherwise requested or if it contains personally sensitive data (otherwise the default is open).  As each JISC project is also spending tax payer money I would encourage you to keep everything in the open and transparent for anyone to comment upon.  The default license used for all information created by the Programme Manager is Creative-Common-Attribution-ShareAlike, as specified in the licensing section of this website.
 
 = Project Manager / Primary Investigator SLA Sign-Off =
 PLEASE MAKE SURE TO ACKNOWLEDGE THE READING OF THIS DOCUMENT BY LEAVING YOUR NAME AND A COMMENT, for example:
