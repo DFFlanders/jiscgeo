@@ -4,24 +4,37 @@
 = Service Level Agreement =
 _*The following is a list of services that the Programme Manager will provide for your project (please note: each individual Programme Manager has a different style of management and so please get to know your project manager by having frequent correspondence and conversation with him/her).*_
 
-AIM of Your JISC Programme Manager: To enable and understand how your project along with the other projects in the programme can have the most impact collectively as is possible.
+== Aims and Objectives of Your Programme Manager ==
+*AIM of Your JISC Programme Manager*: To enable and understand how your project along with the other projects in the programme can have the most impact collectively as is possible.
 
-Objectives:
+*Objectives*:
   * To assure projects distribute the outputs and products of their project (both tangible and intangible) to the Higher Education and Further Education communities here in the UK and further abroad.
   * To acquire the themes and future trends so as to explain the future as it is in the process of changing and to help guide future funding endeavours by synthesising the theme's...
   * To audit the project's activities to assure the Grant funding is optimised on behalf of all Higher and Further Education instituions and on behalf of the UK tax payer who is the ultimate benefactor of these projects.
 
-
-Or in more poetical terms:
+Or in more poetical terms,
 http://farm4.static.flickr.com/3536/3465474060_c2b0604246.jpg?v=0
-The general metaphor for 'what a programme manager does' can be surmised as a "lightning rod": existing in the HE/FE 'ether' so as to try and take advantage of the patterns across all the projects ('in the clouds') and bring their ideas down to earth so we can organise around the significant memes as a community (the other analogy is that of a "mutualistic communal organism", but that is not as cool as a "lightning rod" <zap!> ;-)
+the general metaphor for 'what a programme manager does' can be surmised as a "lightning rod": existing in the HE/FE 'ether' so as to try and take advantage of the patterns across all the projects ('in the clouds') and bring their ideas down to earth so we can organise around the significant memes as a community (the other analogy is that of a "mutualistic communal organism", but that is not as cool as a "lightning rod" <zap!> ;-)
 
-Some principles that guide your programme manager in trying to help your project as a collective of projects:
+=== Principles of Your Programme Manager ===
+Some principles that guide your programme manager in working with your project as a collective of projects (having overseen 200+ projects as a programme manager there are some common patterns that emerge that I have to continually re-assert):
 
-    * Programme Managers are interested in WINS and FAILS equally, and of course there is "no penalty for learning" (personally I feel the 'fails' are often more valuable for the community than the 'wins') <-- we don't want to fund mistakes twice!
-    * _Help me help you_, by feeding back EARLY and OFTEN: please tell the world in real time when you solve a bug or inspire a user.
-  # Primarily _the job of the Programme Managers is to get know you_ and the "thing" (outputs) the project is producing, be that code, reports or guides aka "project products".  Once the Programme Manager can effectively describe the project product they can help advertise your project to the wider world as well as help guide further funding initiatives!  
-    * As a pragmatic word of advice, the project should know that JISC has over ~200 hundred projects on the go at any one time, which usually means a programme manager only has about 120 characters to explain what your project is producing; so, helping you construct a brief synopsis of your project is essential in helping the programme manager in promoting the projects existence, e.g. think "Argos catalogue advertisement", a couple of sentences and a memorable image of your projects product.  
+  * I value your WINs as much as your FAILs
+    * I _must_ be told about the physical/digital outputs (tangible products) of your project as well as the lessons learned (intangible products) as they are both valuable to the community, e.g. a intangible learned failure can stop another project from making the same mistake, which can lead to another project producing a (tangible) product for the community (ying/yang).
+
+  * _Help me help you_, by feeding back _EARLY and OFTEN_
+    * All documentation I require from the project is designed to tell the community (not me) about the things your projects is doing and producing.
+
+  * “Paradoxically, the best way for a group to be smart is for each person in it to think and act as independently as possible.”  Or rather the wisdom of the group is in the aggregated ideas and thoughts of each individual.
+    * You're the expert, and the funding JISC is providing you is making you more of an expert; accordingly you have a responsibility to share that expertise with the community in an aggregated form, so start blogging and enabling events to happen that share that expertise.
+
+  * Make it SIMPLZ or KISS (Keep It Simple Stupid)
+    * Using acronyms and scholarly language has its place, but your programme manager must communicate the idea of your project in less than ten second with a sentence or two to multiple audiences (including the powers that be) which will make or break future funding in your area so it behoves you to keep it simple and poignant so I can do likewise. Remember JISC has over 200 projects on the go at any given time so you are competing for attention and often brevity and wit are the best ways to get the attention your project needs to succeed. 
+
+
+=== Your Programme Manager's Dislikes ===
+Things your programme manager does NOT like (though I always welcome challenges on my likes/dislikes):
+
     * And please don't just tell me about your project, think about the overall primary aim and audience of the project (which should be to the end user and community, NOT the JISC Executive).
   # A Programme Manager must audit the accomplishments of the project via supporting documentation.  The most laborious part of the Programme Manager's job is keeping track of the documentation projects are _*required*_ to produce throughout the life of the project.  So please make sure to read over the ProjectDocumentationInstructions.
     * Deadlines for project documentation will be articulated well in advance of the due date and stated as part of the documentation instructions on this wiki.
