@@ -18,6 +18,7 @@ For example, the field for the name of your project should look like:
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:doap="http://usefulinc.com/ns/doap#"
   xmlns:org="http://www.w3.org/ns/org#"
+  xmlns:gr="http://purl.org/goodrelations/v1#"
 > 
 }}}
 
@@ -33,10 +34,10 @@ For example, the field for the name of your project should look like:
       * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
       * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
   * *Project Outputs/Products/Deliverables* (what things / products are you producing?):
-    * <pims:tangibleProduct> (tangible reusable products)
-    * <pims:intangibleProduct> (intangible inert practices)
-  * *Primary Audience the deliverable of this project will be for:
-    * <doap:audience>(teachers, researchers, etc) </doap:audience>
+    * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
+    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products -->
+  * *Primary Audience the deliverable prodcuts of this project will be for:
+    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of the project, whom would that product be for? --> </gr:eligibleCustomerTypes>
 
 = Project Details =
   * *Name of Host Institution*: <org:organization>   </org:organization>
@@ -45,12 +46,14 @@ For example, the field for the name of your project should look like:
   * *Length of Project*: <!-- e.g. 12 months -->
     * *Project Start Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
     * *Project End Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
-  * *Grant Awarded to Project*:
+  * *Grant Awarded to Project*: 
+  * *End Users Working with Projects*: <doap:audience> <!--students, teachers, researchers, etc --> </doap:audience>
 
 = Project Team =
-  * *Project Director*: <foaf:name> </foaf:name>, <foaf:_phone, skype, email, webpage...>
-  * *Project Manager*: <doap:maintainer>
-  * *Developer*: <doap:developer>
+  * *Project Director*: <foaf:name> </foaf:name>, <foaf:_phone, skype, email, webpage...> <vcard:>
+  * *Project Manager*: <doap:maintainer> <!-- name of the person who is responsible for the overall project management <doap:maintainer>
+    * contact details: <vcard:> <!-- email --> </vcard:> <vcard:> <!-- phone --> </vcard:>, <vcard:> <!-- skype --> </vcard:>
+  * *Developer*: <doap:developer> <--! name of developer working on project --></doap:developer> <doap:developer> <!--name of developer working on project --> </doap:developer>
   * *Institutional Budget Manager*: <doap:documenter> <!-- this should be the name of the person based at the institutions who works in the finance department and oversees the grants funding and account structures --> </doap:documenter>
   * *Partners*:
     * *Consultants*: <doap:vendor>
