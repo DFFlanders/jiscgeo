@@ -8,7 +8,7 @@ README:
 For example, the field for the name of your project should look like:
   * "Full Name of Project: <doap:nome> David's project name here in full (without the html ignore tags) </doap:nome>
 
-= This Pages Namespaces =
+=== This Page's Namespaces ===
 This below URIs declare the vocabularies used for each of the terms on this page.
 
 {{{
