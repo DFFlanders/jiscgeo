@@ -21,6 +21,7 @@ The below URIs declare the vocabularies used for each of the terms on this page.
   xmlns:doap="http://usefulinc.com/ns/doap#"
   xmlns:org="http://www.w3.org/ns/org#"
   xmlns:gr="http://purl.org/goodrelations/v1#"
+  xmlns:cf="CERIF data model URIs are still not available" :(
 > 
 }}}
 
@@ -40,18 +41,18 @@ The below URIs declare the vocabularies used for each of the terms on this page.
 By the end of the project (see project dates above) this project hopes to have produced the following products.
   * *Project Outputs/Products/Deliverables* (what things / products are you producing?):
     * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
-    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products -->
+    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise
   * *Primary type of user the deliverable _tangible_ products of this project will be for*:
-    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of the project, whom would that product be for? --> </gr:eligibleCustomerTypes>
+    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. --> </gr:eligibleCustomerTypes>
 
 = Project Details =
-  * *Name of Host Institution*: <org:organization>   </org:organization>
-    * *Department*: <org:OrganizationalUnit>
-  * *JISC Programme/Strand/Theme*: <doap:category>
+  * *Name of Host Institution*: <org:organization> <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
+    * *Department*: <org:OrganizationalUnit> <!-- please insert the URL for the home page of the department in which the project is primarily based -->
+  * *JISC Programme/Strand/Theme*: <doap:category> geospatial </doap:category> ; <doap:category> jiscGEO </doap:category> ; <cf:FundProgId> inf11 </doap:category>
   * *Length of Project*: <!-- e.g. 12 months -->
     * *Project Start Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
-    * *Project End Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
-  * *Grant Awarded to Project*: 
+    * *Project End Date*: <doap:> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
+  * *Grant Awarded to Project*: <cf:Amount> <!-- please use full point float number, e.g. £65000.00 without commas --> </cf:Amount>
   * *End Users Working with Projects*: <doap:audience> <!--students, teachers, researchers, etc --> </doap:audience>
 
 = Project Team =
