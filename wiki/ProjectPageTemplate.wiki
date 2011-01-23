@@ -9,7 +9,7 @@ For example, the field for the name of your project should look like:
   * "Full Name of Project: <doap:nome> David's project name here in full (without the html ignore tags) </doap:nome>
 
 === This Page's Namespaces ===
-This below URIs declare the vocabularies used for each of the terms on this page.
+The below URIs declare the vocabularies used for each of the terms on this page.
 
 {{{
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
