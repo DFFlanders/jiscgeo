@@ -36,7 +36,7 @@ For example, the field for the name of your project should look like:
   * *Project Outputs/Products/Deliverables* (what things / products are you producing?):
     * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
     * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products -->
-  * *Primary Audience the deliverable prodcuts of this project will be for:
+  * *Primary type of user the deliverable _tangible_ products of this project will be for*:
     *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of the project, whom would that product be for? --> </gr:eligibleCustomerTypes>
 
 = Project Details =
