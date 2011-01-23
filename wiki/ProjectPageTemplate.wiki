@@ -91,12 +91,12 @@ Latest project blog posts (to expand click the "+" symbol):
   * *Final Product Post URL*: <doap:screenshots> <!-- This is the URL to your "Final Product Post" outlining the thing you have produced by the end of your project, see ProjectDocumentationInstructions -->
   * *Final Budget URL*: <cf:????> <!-- link to final spend budget for project, please see ProjectDocumenationInstructions for budget template --> <cf:???>
   * *Sign-off Form Completed*: <-- YES / NO - this form will not be made available so as to protect the privacy of the comments -->
-  * License used for code: <doap:license> <!--Please specify which OSS license you are using, please contact OSSWatch if you require guidance or help on deciding which license to use </doap:license>
-  * License used for database content: <doap:license> <!-- Please specify which database license you are going to use, please contact OKF for further guidance regarding which database license to use --> </doap:license>
-  * License used for blog and other project website content: <doap:license> <!-- please specify which creative commons license you will use for all documentation (including blog posts), please note the CC license selected must be visible on all project blog posts and any other document created during the course of the project </doap:license>
-  * Programming Languages used: <doap:programming-language> Please provide the URL to the programming languages you used during the course of your project </doap:programming-language>
-  * Types of software tools used: <doap:platform> Please provide the URLs for any frameworks, patterns, libraries or tools used for programming, e.g. MVC, Rails, Django, JSON, ReST, JSR-168, etc. </doap:platform>
-  * Operating System used (if applicable): <doap:os> <!-- if applicable, please specify which operating systems your product is compatible with, e.g. Win7, Ubuntu, Android, etc. --> </doap:os>
+  * *License used for code*: <doap:license> <!--Please specify which OSS license you are using, please contact OSSWatch if you require guidance or help on deciding which license to use </doap:license>
+  * *License used for database content*: <doap:license> <!-- Please specify which database license you are going to use, please contact OKF for further guidance regarding which database license to use --> </doap:license>
+  * *License used for blog and other project website content*: <doap:license> <!-- please specify which creative commons license you will use for all documentation (including blog posts), please note the CC license selected must be visible on all project blog posts and any other document created during the course of the project </doap:license>
+  * *URLs to Programming Languages used*: <doap:programming-language> Please provide the URL to the programming languages you used during the course of your project </doap:programming-language>
+  * *URLs for types of software tools used*: <doap:platform> Please provide the URLs for any frameworks, patterns, libraries or tools used for programming, e.g. MVC, Rails, Django, JSON, ReST, JSR-168, etc. </doap:platform>
+  * *Operating System used* (if applicable): <doap:os> <!-- if applicable, please specify which operating systems your product is compatible with, e.g. Win7, Ubuntu, Android, etc. --> </doap:os>
 
 = Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
