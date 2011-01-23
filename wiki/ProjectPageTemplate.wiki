@@ -17,6 +17,7 @@ The below URIs declare the vocabularies used for each of the terms on this page.
   xmlns:owl="http://www.w3.org/2002/07/owl#"
   xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:v="http://www.w3.org/2006/vcard/ns#"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:doap="http://usefulinc.com/ns/doap#"
   xmlns:org="http://www.w3.org/ns/org#"
@@ -48,15 +49,18 @@ By the end of the project (see project dates above) this project hopes to have p
 = Project Details =
   * *Name of Host Institution*: <org:organization> <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
     * *Department*: <org:OrganizationalUnit> <!-- please insert the URL for the home page of the department in which the project is primarily based -->
+    * *Postcode*: <v:postal-code> <!-- please insert the postcode for the above department where the project is primarily based --> </v:postal-code>
   * *JISC Programme/Strand/Theme*: <doap:category> geospatial </doap:category> ; <doap:category> jiscGEO </doap:category> ; <cf:FundProgId> inf11 </doap:category>
-  * *Length of Project*: <!-- e.g. 12 months -->
+  * *Length of Project*: <!-- e.g. 12 months --> note: could use cf:fundingPeriod here?
     * *Project Start Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
     * *Project End Date*: <doap:> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
   * *Grant Awarded to Project*: <cf:Amount> <!-- please use full point float number, e.g. £65000.00 without commas --> </cf:Amount>
   * *End Users Working with Projects*: <doap:audience> <!--students, teachers, researchers, etc --> </doap:audience>
 
 = Project Team =
-  * *Project Director*: <foaf:name> </foaf:name>, <foaf:_phone, skype, email, webpage...> <vcard:>
+  * *Project Director*: <v:fn> <!--Please insert your 'full name', e.g. Firstname MI Lastname --> </v:fn> note: could use cf:director here?
+    *  <foaf:phone> <foaf:skype>
+    * <v:url> <!--Please either provide the contact details above per person or a URI linking to an HTTP URI vcard/foaf contact details page per person --> </v:url>
   * *Project Manager*: <doap:maintainer> <!-- name of the person who is responsible for the overall project management <doap:maintainer>
     * contact details: <vcard:> <!-- email --> </vcard:> <vcard:> <!-- phone --> </vcard:>, <vcard:> <!-- skype --> </vcard:>
   * *Developer*: <doap:developer> <--! name of developer working on project --></doap:developer> <doap:developer> <!--name of developer working on project --> </doap:developer>
@@ -74,10 +78,10 @@ Latest project blog posts (to expand click the "+" symbol):
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
   
   * Project Blog: <doap:blog> <!-- this should be a link to the home page of your blog --> </doap:blog>
-    * About Page for Blog: <!--this should be a link to the "/about" page in your blog where you should consider replicating the information on this page-->
+    * About page for project blog: <!--this should be a link to the "/about" page in your blog where you should consider replicating the information on this page-->
     * Blog Feed: <!-- must be the ATOM or RSS2 feed of the blog - not the RSS1.0 as it does not validate against data crawler, see ProjectDocumentationInstructions -->
-  * Code Repository: <doap:repository> this should be a link to the root/trunk of your code repository, all projects must have revision control in place for all code written during the course of the project, please contact OSSWatch if you need help or support in doing this.--> <doap:repository>
-  * Technical Documentation: <doap:browse>
+  * Code Repository: <doap:repository> this should be a link to the root/trunk of your code repository, all projects must have revision control in place for all code written during the course of the project, please contact OSSWatch if you need help or support in doing this.--> </doap:repository>
+  * Technical Documentation: <doap:browse> <--! should be the technical documentation explaining what code was used and how it is used --> <doap:browse>
   * Instructional End User Documentation: <doap:browse>
   * Listserv: <doap:mailing-list>
   * Analytics Engine: <!-- As per your Grant funding you must set up an Analytics engine (e.g. Google Analytics or Piwik) and share the API access with jiscProjectAnalytics@gmail.com account, this must be done in the first month of the project (very important)! -->
