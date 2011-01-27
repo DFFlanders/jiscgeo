@@ -8,24 +8,6 @@ README:
 For example, the field for the name of your project should look like:
   * "Full Name of Project: <doap:nome> David's project name here in full (without the html ignore tags) </doap:nome>
 
-=== This Page's Namespaces ===
-The below URIs declare the vocabularies used for each of the terms on this page.
-
-{{{
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:owl="http://www.w3.org/2002/07/owl#"
-  xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:v="http://www.w3.org/2006/vcard/ns#"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:doap="http://usefulinc.com/ns/doap#"
-  xmlns:org="http://www.w3.org/ns/org#"
-  xmlns:gr="http://purl.org/goodrelations/v1#"
-  xmlns:cf="CERIF data model URIs are still not available" :(
-> 
-}}}
-
 = Project Overview =
   * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
     * *Project Tag*: <doap:shortname> <--! enter the tag of your project here, this tag CANNOT be changed --> </doap:shortname>
@@ -97,6 +79,24 @@ Latest project blog posts (to expand click the "+" symbol):
   * *URLs to Programming Languages used*: <doap:programming-language> Please provide the URL to the programming languages you used during the course of your project </doap:programming-language>
   * *URLs for types of software tools used*: <doap:platform> Please provide the URLs for any frameworks, patterns, libraries or tools used for programming, e.g. MVC, Rails, Django, JSON, ReST, JSR-168, etc. </doap:platform>
   * *Operating System used* (if applicable): <doap:os> <!-- if applicable, please specify which operating systems your product is compatible with, e.g. Win7, Ubuntu, Android, etc. --> </doap:os>
+
+=== This Page's Namespaces ===
+The below URIs declare the vocabularies used for each of the terms on this page.
+
+{{{
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:v="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:doap="http://usefulinc.com/ns/doap#"
+  xmlns:org="http://www.w3.org/ns/org#"
+  xmlns:gr="http://purl.org/goodrelations/v1#"
+  xmlns:cf="CERIF data model URIs are still not available" :(
+> 
+}}}
 
 = Correspondence (below as comments) =
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
