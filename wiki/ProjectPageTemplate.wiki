@@ -16,7 +16,7 @@ _Project Manager's please see WikiContributorInstructions page for how to work w
       * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
 
 = Project Products =
-By the end of the project (see project dates above) this project hopes to have produced the following products.
+By the end of the project (see project dates below) this project hopes to have produced the following products.
   * *Project Outputs/Products/Deliverables* (what things / products are you producing?):
     * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
     * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise
