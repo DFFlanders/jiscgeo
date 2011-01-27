@@ -1,12 +1,5 @@
 #labels ProgrammeDocumentation
-_NOTE TO PROJECT ON THIS PAGE: This is my informal open notebook (wiki) page on your project aka this should be a meeting place for BOTH of us to take notes on your project, aka *the project isn't complete until I have this form filled out in full*. Any additions you make will be auto emailed to me so this is one of the best ways to communicate with me about your project as it progresses (alongside your project blog). You'll need me to give you edit rights by passing me your gmail or hotmail account /dff_
-
-README:
-  * INSTRUCTIONS FOR WHAT DATA WE NEED ARE ENCAPSULATED IN HTML IGNORE TAGS <!--FOO--> PLEASE DELETE THESE TAGS AND ENTER YOUR "TEXT"
-  * PLEASE DO NOT DELETE <HTTP:URI> TAGS AS THIS IS HOW I TRANSFORM THE DATA TO MOVE TO OUR OTHER SYSTEMS, EG.. PIMS, CMS, ETC
-
-For example, the field for the name of your project should look like:
-  * "Full Name of Project: <doap:nome> David's project name here in full (without the html ignore tags) </doap:nome>
+_Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
 = Project Overview =
   * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
