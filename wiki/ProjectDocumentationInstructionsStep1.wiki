@@ -1,14 +1,9 @@
-#summary Instructions (1 of 6) for creating a *unique* and *memorable* project tag
+#summary Instructions (1 of 7) for creating a *unique* and *memorable* project tag
 #labels ProgrammeDocumentation
 
-= Introduction =
+= Creating a Project Tag =
+The first task of the project (due within the first week of the project) is for you and your team to decide on a unique and memorable project tag.  Regardless of how clever your acronym is, JISC requires a unique tag both for minting records in 
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Description of a Project (DOAP) ==
+  # If your Programme Manager hasn't already contacted you please email him (d.flanders@jisc.ac.uk) and inform him of your unique project tag (please read over this guidance on creating a project tag).  You will also need to inform David of a gmail or hotmail account so he can give you edit rights to this wiki.
+    * Once you have provided this tag, the Programme Manager will pass back a page in this wiki which you will need to fill out throughout the course of your project (things will change so plan on visiting the page often).  Your project is not complete until all the fields have been filled out in full. 
