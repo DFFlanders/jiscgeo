@@ -1,4 +1,4 @@
-#summary Instructions for providing regular updates on your project (using tags!)
+#summary Instructions for turning your project bid into a project plan (and how to create a community conversation from the start of your project)
 #labels ProgrammeDocumentation
 
 = Introduction =
