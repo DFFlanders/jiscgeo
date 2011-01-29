@@ -1,4 +1,4 @@
-#summary Instructions (2 of 6) for turning your project bid into a project plan (and how to create a community conversation from the start of your project)
+#summary Instructions (2 of 7) for turning your project bid into a project plan (and how to create a community conversation from the start of your project)
 #labels ProgrammeDocumentation
 
 = Introduction =
