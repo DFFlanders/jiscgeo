@@ -21,7 +21,7 @@ A video overview of the documentation timeline:
 = Overview of jiscGEO Project Documentation =
 Below is a list of documentation you will need to complete so as to fulfil your Grant obligations as a JISC funded project.
 
-  # Step 1: *Project Tag* - Creation of a _unique_ and _memorable_ project tag, please see: http://bit.ly/uniqueTag 
+  # Step 1: *Project Tag* - [ProjectDocumentationInstructionsStep1 Creation of a _unique_ and _memorable_ project tag.]
   # Step 2: *The Project Plan* - 7 posts copy/pasted (and shortened) from your project bid outlining your project plan.
   # Step 3: *Progress Posts* - A minimum of one post per month should be posted _with appropriate tags_
   # Step 4: *Final Product Post* - This post lists the final _reusable product_ delivered by the project.  
