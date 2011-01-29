@@ -1,5 +1,14 @@
 #summary This is the table of content page for each project page
 #labels ProgrammeDocumentation
 
-  * All projects are required by their grant funding to complete the ProjectDocumentationInstructions 
-  * Any questions please email d.flanders at jisc.ac.uk
+All projects are required by their grant funding to complete the ProjectDocumentationInstructions 
+
+  # Step 1: [ProjectDocumentationInstructionsStep1 Project Tag]
+  # Step 2: [ProjectDocumentationInstructionsStep2 The Project Plan]
+  # Step 3: [ProjectDocumentationInstructionsStep3 Progress Posts]
+  # Step 4: [ProjectDocumentationInstructionsStep4 Product Post]  
+  # Step 5: [ProjectDocumentationInstructionsStep5 Project Spend Budget]
+  # Step 6: [ProjectDocumentationInstructionsStep6 Sign-off Survey Form] 
+  # Step 7: [ProjectDocumentationInstructionsStep7 Project Completion & Archiving]
+
+Questions? - please email d.flanders@jisc.ac.uk
