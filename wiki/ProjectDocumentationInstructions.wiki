@@ -8,6 +8,10 @@ All JISC projects are *required* to complete documentation.  All documentation m
 
 *Aim of documentation, aka 'why am I using a blog'*:  To engage a group of likeminded peers in the 'wins' and 'fails' of your project as it progresses.
 
+An video overview of the documentation timeline:
+
+<wiki:video url="http://www.youtube.com/watch?v=Kumsj5s9lhY"/>
+
 Below is a list of documentation you will need to complete so as to fulfil your remit as a JISC funded project.
 
 = Overview of jiscGEO Project Documentation =
