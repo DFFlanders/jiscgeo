@@ -2,19 +2,22 @@
 #labels ProgrammeDocumentation
 
 = Introduction to Project Documentation =
-All JISC projects are *required* to complete documentation.  All documentation must go through a project blog.
+All JISC projects are _required_ to complete documentation as per their Grant obligations.  
 
-*Aim of documentation, aka 'why am I using a blog'*:  To engage a group of likeminded peers in a conversation on how the sector is changing with regards to geospatial.
+What you'll need to publish your documentation:
+  # A Project Blog: all documentation must go through a project blog, i.e. posts in feeds with tags. See the DocumenationTools page for how to set up your blog and analytics engine.
+  # An Analytics Engine: all online resources produced by the project (blog, code repository, website, etc) must be monitored via analytics (e.g. Google Analytics or Piwik).  See the DocumenationTools page for how to set up your blog and analytics engine.
+  # A decision on which set of licenses you are going to use for your projects blog. See the DocumenationTools page for how to set up your blog and analytics engine.
+
+*Aim of documentation*, aka _'why am I using a blog'_:  To engage the community in an open conversation on how your project is changing geospatial for the sector.
 
 An video overview of the documentation timeline:
 
 <wiki:video url="http://www.youtube.com/watch?v=Kumsj5s9lhY"/>
 
-Below is a list of documentation you will need to complete so as to fulfil your remit as a JISC funded project.
-
 = Overview of jiscGEO Project Documentation =
-_*Below are the seven steps you must complete as part of your :*_
-All projects must have a blog and communicate all project information through it (i.e. posts in feeds with tags).
+Below is a list of documentation you will need to complete so as to fulfil your Grant obligations as a JISC funded project.
+
   # Step 1: *Project Tag* - Creation of a _unique_ and _memorable_ project tag, please see: http://bit.ly/uniqueTag 
   # Step 2: *The Project Plan* - 7 posts copy/pasted (and shortened) from your project bid outlining your project plan.
   # Step 3: *Progress Posts* - A minimum of one post per month should be posted _with appropriate tags_
