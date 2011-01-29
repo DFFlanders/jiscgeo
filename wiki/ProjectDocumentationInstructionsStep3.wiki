@@ -1,4 +1,4 @@
-#summary Instructions for reporting on the progress of your project (especially how to use tags!)
+#summary Instructions (3 of 6) for reporting on the progress of your project (especially how to use tags!)
 #labels ProgrammeDocumentation
 
 = Introduction =
