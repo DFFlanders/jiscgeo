@@ -1,4 +1,5 @@
 #summary Instructions for how to set up a project blog, analytics engine and license declaration.
+#labels ProgrammeDocumentation
 
 You'll need to set up three things (blog platform, analytics engine and license declaration) so you can fulfil your documentation obligations to JISC.  Instructions on how to set these three things up below (please leave comments at bottom of page if you have suggestions for improvements).
 
@@ -19,3 +20,14 @@ Our recommendations for setting up analytics engine:
   * For your projecct blog see instructions above about using blogger.com so you can integrate Google Analytics with blogger.  [http://www.google.co.uk/search?&q=how+to+set+up+google+analytics+on+blogger To set up blogger with analytics see the Web].
 
 == How to declare and set up licenses ==
+There are three types of content that projects need to make a decision upon with regards to licensing:
+  # Project documentation (and any other web resources you create)
+  # Any code produced by the project
+  # And data produced by the project
+  # (and very rarely) the database license
+
+Our recommendations for which open licenses to declare in each case:
+  * For project documentation such as your project blog (and any technical or user instructional documentation you produce) please select a creative commons license, our suggestion is cc-attribution-sharealike.  Please make sure a creative commons logo and embed code are on each page of your blog, i.e. in the right side navigation).  Email your programme manager for further guidance.
+  * For code produced by the project we suggest an Apache license, see OSSWatch for further guidance or your programme manager.
+  * For data license we recommend either a cc-zero license or a PPDL license. See your programme manager for further guidance.
+  * For database license we recommend a ODBL license.  See your programme manager for further guidance.
