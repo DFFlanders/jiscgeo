@@ -4,12 +4,15 @@
 = Introduction to Project Documentation =
 All JISC projects are _required_ to complete documentation as per their Grant obligations.  
 
-What you'll need to publish your documentation:
-  # A Project Blog: all documentation must go through a project blog, i.e. posts in feeds with tags. See the DocumenationTools page for how to set up your blog and analytics engine.
-  # An Analytics Engine: all online resources produced by the project (blog, code repository, website, etc) must be monitored via analytics (e.g. Google Analytics or Piwik).  See the DocumenationTools page for how to set up your blog and analytics engine.
-  # A decision on which set of licenses you are going to use for your projects blog. See the DocumenationTools page for how to set up your blog and analytics engine.
+=== What you'll need to publish your documentation ===
+  # *A Project Blog*: all documentation must go through a project blog, i.e. posts in feeds with tags. 
+  # *An Analytics Engine*: all online resources produced by the project (blog, code repository, website, etc) must be monitored via analytics (e.g. Google Analytics or Piwik).  
+  # A decision on which set of licenses you are going to use for your projects blog.
 
-*Aim of documentation*, aka _'why am I using a blog'_:  To engage the community in an open conversation on how your project is changing geospatial for the sector.
+See the DocumenationTools page for instructions on how to set up your project blog and analytics engine.
+
+== Aim of documentation == 
+aka _'why am I using a blog'_:  To engage the community in an open conversation on how your project is changing geospatial for the sector.
 
 An video overview of the documentation timeline:
 
