@@ -1,7 +1,7 @@
 #summary This is the table of content page for each project page
 #labels ProgrammeDocumentation
 
-All projects are required by their grant funding to complete the ProjectDocumentationInstructions 
+[ProjectDocumentationInstructions Overview of the Documentation Process]
 
   # Step 1: [ProjectDocumentationInstructionsStep1 Project Tag]
   # Step 2: [ProjectDocumentationInstructionsStep2 The Project Plan]
