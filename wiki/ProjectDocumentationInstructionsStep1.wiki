@@ -1,4 +1,4 @@
-#summary Instructions for creating a *unique* and *memorable* project tag
+#summary Instructions (1of6) for creating a *unique* and *memorable* project tag
 #labels ProgrammeDocumentation
 
 = Introduction =
