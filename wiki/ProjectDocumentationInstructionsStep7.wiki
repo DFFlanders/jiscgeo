@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Instructions (7 of 7) on completing Grant obligations and archiving project.
 #labels ProgrammeDocumentation
 
 = Introduction =
