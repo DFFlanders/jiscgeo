@@ -1,4 +1,5 @@
-#summary Instructions for turning your project bid into a project plan
+#summary Instructions for creating a *unique* and *memorable* project tag
+#labels ProgrammeDocumentation
 
 = Introduction =
 
