@@ -12,9 +12,9 @@ All JISC projects are _required_ to complete documentation as per their Grant ob
 _See the DocumenationTools page for instructions on how to set up your project blog, analytics engine and how to select your license._
 
 == Aim of documentation == 
-aka _'why am I using a blog'_:  To engage the community in an open conversation on how your project is changing geospatial for the sector.
+Project Blog Aim, aka _'why am I using a blog'_:  To engage the community in an open conversation on how your project is changing geospatial for the sector.
 
-An video overview of the documentation timeline:
+A video overview of the documentation timeline:
 
 <wiki:video url="http://www.youtube.com/watch?v=Kumsj5s9lhY"/>
 
