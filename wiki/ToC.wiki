@@ -9,6 +9,6 @@ All projects are required by their grant funding to complete the ProjectDocument
   # Step 4: [ProjectDocumentationInstructionsStep4 Product Post]  
   # Step 5: [ProjectDocumentationInstructionsStep5 Project Spend Budget]
   # Step 6: [ProjectDocumentationInstructionsStep6 Sign-off Survey Form] 
-  # Step 7: [ProjectDocumentationInstructionsStep7 Project Completion & Archiving]
+  # Step 7: [ProjectDocumentationInstructionsStep7 Completion & Archive]
 
 Questions? - please email d.flanders@jisc.ac.uk
