@@ -21,13 +21,13 @@ A video overview of the documentation timeline:
 = Overview of jiscGEO Project Documentation =
 Below is a list of documentation you will need to complete so as to fulfil your Grant obligations as a JISC funded project.
 
-  # Step 1: *Project Tag* - [ProjectDocumentationInstructionsStep1 Creation of a _unique_ and _memorable_ project tag.]
-  # Step 2: *The Project Plan* - 7 posts copy/pasted (and shortened) from your project bid outlining your project plan.
-  # Step 3: *Progress Posts* - A minimum of one post per month should be posted _with appropriate tags_
-  # Step 4: *Final Product Post* - This post lists the final _reusable product_ delivered by the project.  
-  # Step 5: *Final Project Spend Budget* - To end your Grant obligations the project must submit and have approved your final spend budget. 
-  # Step 6: *Final Sign-off Survey Form* - You and your team must fill out this final survey that will list all the intangible products produced during your projects (i.e. lessons learned, skills gained, internal processes changed, contacts made, people influenced, etc).  
-  # Step 7: *Project Completion and Archiving* - A completion certificate will be issues alongside a list of the all the resources you have produced which will be archived in the UK Web Archive.
+  # Step 1: *Project Tag* - [ProjectDocumentationInstructionsStep1 Creation of a unique and memorable project tag.]
+  # Step 2: *The Project Plan* - [ProjectDocumentationInstructionsStep2 7 posts copy&pasted (and shortened) from your project bid outlining your project plan.]
+  # Step 3: *Progress Posts* - [ProjectDocumentationInstructionsStep3 A minimum of one post per month should be posted with appropriate tags.]
+  # Step 4: *Final Product Post* - [ProjectDocumentationInstructionsStep4 This post lists the final reusable product delivered by the project.]  
+  # Step 5: *Final Project Spend Budget* - [ProjectDocumentationInstructionsStep5 To end your Grant obligations the project must submit and have approved your final spend budget.]
+  # Step 6: *Final Sign-off Survey Form* - [ProjectDocumentationInstructionsStep6 You and your team must fill out this final survey that will list all the intangible products produced during your projects (i.e. lessons learned, skills gained, internal processes changed, contacts made, people influenced, etc).] 
+  # Step 7: *Project Completion and Archiving* - [ProjectDocumentationInstructionsStep7 A completion certificate will be issues alongside a list of the all the resources you have produced which will be archived in the UK Web Archive.]
 
 *_Please remember all documents you create as part of your project are subject to FOI so best to maintain best practice with regards to transparency and openness throughout your project - and don't forget to display your Creative Commons License on EVERYTHING_*
     
