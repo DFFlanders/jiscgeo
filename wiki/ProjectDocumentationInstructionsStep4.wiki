@@ -1,4 +1,6 @@
+#summary Instructions (4 of 7) on how to write your 'Final Product Post' (and submit for review)
 #labels ProgrammeDocumentation
+
 === Final Product Post === 
 This post if an advertisement for your final project product and outputs (DEADLINE: PROJECT END DATE)
 For this post you are required to address each one of the elements within the below template.
