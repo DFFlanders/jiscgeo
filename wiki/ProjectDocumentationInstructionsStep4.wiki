@@ -1,14 +1,6 @@
-#summary Instructions (4 of 7) for how to write your 'Final Product Post'
 #labels ProgrammeDocumentation
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=== Final Product Post === 
+This post if an advertisement for your final project product and outputs (DEADLINE: PROJECT END DATE)
+For this post you are required to address each one of the elements within the below template.
+    * *Template for Final Progress Post* (please copy and paste the below into the html of your final post and fill out accordingly.  Delete comments inside of HTML ignore tags, e.g. "<!-- lorum ipsum doler -->"):
+      * [THIS TEMPLATE WILL BE POSTED NEARER THE END OF YOUR PROJECTS BASED ON FEEDBACK FROM PROJECTS ON WHAT PRODUCTS NEED TO BE DELIVERED AND IN WHAT WAY TO THE RIGHT AUDIENCES - PLEASE EMAIL D.FLANDERS@JISC.AC.UK FOR LATEST TEMPLATE]
