@@ -1,14 +1,13 @@
 #summary Instructions (5 of 7) for how to write your final project budget and submit for approval
 #labels ProgrammeDocumentation
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+DEADLINE: MONTH DAY DATE (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
+  * 1.) *Final Budget Template* (everyone must fill this out and have it approved by their programme manager prior to being submitted as the final piece of project documentation)
+    * *Instructions for filling out the final budget spreadsheet:* We recommend cloning the following Google Spreadsheet so that it is easy to publish the final budget online once completed.  If you would like to use the Excel version of this template you will be responsible for publishing the budget as a CSV version of the budget on the open web so as to [http://inkdroid.org/journal/2010/06/04/the-5-stars-of-open-linked-data/ make the data open and easily reusable].
+    #.) Make sure you are logged into your googleDocs account.
+    #.) Go to: http://bit.ly/Template-FinalBudget-JISCRI <-- a template spreadsheet should appear.
+    #.) Click on "File" in the upper left hand corner > a drop down menu will appear > click on "Make a copy..." <-- this will bring up a dialog box asking want you want to name the copied spreadsheet.
+    #.) Enter in file name with the following syntax: "[ProjectTag]_FinalBudget_Date[useW3C-DTF]_jiscLMS_inf11_JISC" > tick the box "also copy document collaborators" <-- this will share your version of the template with your Programme Manager. > click "ok"
+    #.) The document will re-appear but copied and saved in your googleDocs account.
+      * To use the Microsoft Excel version of this template, go to http://bit.ly/Template-FinalBudget-JISCRI > "File" > "Download as..." > "CSV" <-- use CSV (excel will still be able to read it, but don't allow Office to turn into an Excel file or it will no longer be in a machine readable format).  You will need to publish the final CSV file in an open and transparent manner.  Please contact your Programme Manager if you have any questions.
+      * If you would like to request that the budget be redacted from being published online you will need to write out a project blog post outlining which parts of the budget will need to be redacted and why, this post must justify to the wider community and to JISC why your publiclly funded projects should not be openly reported along with what data about the budget you will be making available to the wider community for reuse.  This report does not guarantee that any parts of the budget will be redacted and is subject to JISC's decision.
