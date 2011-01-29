@@ -1,4 +1,4 @@
-#summary Instructions (4 of 6) for how to write your 'Final Product Post'
+#summary Instructions (4 of 7) for how to write your 'Final Product Post'
 #labels ProgrammeDocumentation
 
 = Introduction =
