@@ -1,0 +1,21 @@
+#summary Instructions for how to set up a project blog, analytics engine and license declaration.
+
+You'll need to set up three things (blog platform, analytics engine and license declaration) so you can fulfil your documentation obligations to JISC.  Instructions on how to set these three things up below (please leave comments at bottom of page if you have suggestions for improvements).
+
+== How to set up a project blog ==
+There are three options for setting up a project blog:
+  # You use a public blog platform like blogger.com 
+  # You use the JISC blogging platform at jiscinvolve.org
+  # You use your institution's blog farm
+
+Our recommendations for setting up your blog:
+  * We recommend that you use blogger.com to set up your project blog as it comes integrated with an analytics engine (see analytics engine requirements below)
+  * We recommend that the URL of your project blog contain your [ProjectDocumentationInstructionsStep1 project tag], e.g. http://ProjectTagHere.blogger.com or http://projectTagHere.institution.wordpress.ac.uk
+
+== How to set up an analytics engine ==
+An analytics engine must be set up for any all web resources that the project produces including the project blog, your code repository and any other project related web pages (wikis, forums, listserv, etc).
+
+Our recommendations for setting up analytics engine:
+  * For your projecct blog see instructions above about using blogger.com so you can integrate Google Analytics with blogger.  [http://www.google.co.uk/search?&q=how+to+set+up+google+analytics+on+blogger To set up blogger with analytics see the Web].
+
+== How to declare and set up licenses ==
