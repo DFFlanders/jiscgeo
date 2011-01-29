@@ -1,14 +1,21 @@
 #summary Instructions (2 of 7) for turning your project bid into a project plan (and how to create a community conversation from the start of your project)
 #labels ProgrammeDocumentation
 
-= Introduction =
+== Project Blog ==
+  * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses.
+  * The posts are intended to disseminate the knowledge of the project in the now, rather than waiting until the end of the project to share your experiences. 
+  * Please make sure to use the correct tags for each post (including your own project tag) so that our robots can come along and aggregate all posts on various topics into our analytics tools (manyEyes, Google Data, etc).  We are hoping this open data approach helps increase the synchronous-ability in which we communicate with one another.
+  * The posts can be as short or as long as you like so long as you keep your fellow projects and Higher Education community audience in mind, e.g. what would you want to read from another project?  
 
-Add your content here.
+=== Project Plan Posts ===
 
+To get your project blog started we REQUIRE that you publish your project plan as a series of project blog posts.  This should be an easy task as you should be copying and pasting your project bid into the following categories (please shorten as much as possible so it is easy to read for anyone who might encounter it on the Web).  And remember you can always come back to the various posts and update them via the comments sections when things change (and they will change).  Also please do take this opportunity to review and change your plan (things always change, and most likely have since you wrote your bid!).
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+|| *Project Plan Posts* || *Description / Example* || *Required Tags* ||
+|| Project Plan Post 1 of 7: Aims, Objectives and Final Output(s) of the project || This post should clearly list the overall aim, the objectives that will support that aim and what outputs will be achieved if the Objectives are achieved. || doap=project+plan, project+plan=aim, project+plan=objectives, project+plan=outputs, project+plan=product, portfolio=inf11, inf11, programme=jiscgeo, jiscgeo, http://www.w3.org/ns/org#org:Organization=http://www.jisc.ac.uk project=[your+project+tag] <-- and don't forget your project tag! ||
+|| Project Plan Post 2 of 7 Wider Benefits to Sector & Achievements for Host Institution || JISC projects are often a compromise between benefit to the local institution and the wider University sector.  The best projects are able to find a common middle ground that achieve both.  How are you going to achieve success both for your local institution and the wider community? || projectPlan, institutionalBenefits, communityBenefits, jiscGEO, inf11, jisc <-- and don't forget your project tag! ||
+|| Project Plan Post 3 of 7: Risk Analysis and Success Plan || This post should attempt to forecast both the risks or hurdles that might arise as the project progresses as well as how the project will manage sucess if its outputs become extremely popular? || projectPlan, riskAnalysis, successPlan, jiscGEO, inf11, jisc <-- and don't forget your project tag! ||
+|| Project Plan Post 4 of 7: IPR (Creative Commons Use & Open Source Software License) || This post should clearly state what licenses will be applied to all work and outputs throughout the course of the project, most importantly this post can then act as a default link to add to other project web pages so IPR is clearly stated and justified ||projectPlan, copyright, IPR, license, jiscGEO, inf11, jisc <-- and don't forget your project tag! ||
+|| Project Plan Post 5 of 7: Project Team Relationships and End User Engagement. || This post should explain who is on the project team and what responsibilities they have, also information on how engagement with end users should be included. || projectPlan, projectTeam, users, yourUniqueProjectTag, jiscGEO, inf11, jisc <-- and don't forget your project tag!  ||
+|| Project Plan Post 6 of 7: Projected Timeline, Workplan & Overall Project Methodology || A suggested timeline (e.g. gannt or burndown chart should be listed) along with projected workpackages for the project completion.  Also an overall methodology (e.g. Prince, Agile, etc) for how the project deliverables will be achieved should be stated. || projectPlan, timeline, projectMethodology, jiscGEO, inf11, jisc <-- and don't forget your project tag!  ||
+|| Project Plan Post 7 of 7: Budget || This initial project budget should be a forecast for future spending along with a justification for why the money should be spent this way, we realise this will change over the course of the project.  Also please take the opportunity to establish where and how the budget will be managed, e.g. will it be a local department account or will it be a central account, will you have your own budget code and who is the person in the budget department you have sat down with to make sure the spending of the money will go smoothly.  The biggest slow down of a project is budget departments questioning payments which can often be solved by establishing a good relationship with your budget department from the start.|| projectPlan, budget, yourUniqueProjectTag, jiscGEO, inf11, jisc <-- and don't forget your project tag! ||
