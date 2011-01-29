@@ -1,4 +1,4 @@
-#summary Instructions (6 of 6) for how to fill out the final sign-off survey form.
+#summary Instructions (6 of 7) for how to fill out the final sign-off survey form.
 #labels ProgrammeDocumentation
 
 = Introduction =
