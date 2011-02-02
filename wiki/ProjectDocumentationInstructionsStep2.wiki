@@ -1,5 +1,5 @@
 #summary Instructions (2 of 7) for turning your project bid into a project plan (and how to create a community conversation from the start of your project)
-#labels ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 == Project Blog ==
   * So as to make your life easier we are suggesting a series of blog posts be written for the project as it progresses.
