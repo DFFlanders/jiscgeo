@@ -1,5 +1,5 @@
 #summary Instructions for how to set up a project blog, analytics engine and license declaration.
-#labels ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 You'll need to set up three things (blog platform, analytics engine and license declaration) so you can fulfil your documentation obligations to JISC.  Instructions on how to set these three things up below (please leave comments at bottom of page if you have suggestions for improvements).
 
