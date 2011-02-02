@@ -1,5 +1,5 @@
 #summary This page lists the documentation jiscGEO projects are required to submit as per their Grant funding.
-#labels ProgrammeDocumentation
+#labels PageType-ProgrammeDocumentation
 
 = Introduction to Project Documentation =
 All JISC projects are _required_ to complete documentation as per their Grant obligations.  
