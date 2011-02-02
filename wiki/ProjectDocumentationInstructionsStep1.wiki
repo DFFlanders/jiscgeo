@@ -1,5 +1,5 @@
 #summary Instructions (1 of 7) for creating a *unique* and *memorable* project tag
-#labels ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 See this post on why you need to create a _unique_ and _memorable_ project tag: http://bit.ly/uniqueTag
 
