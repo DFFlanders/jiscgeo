@@ -1,5 +1,5 @@
 #summary This page describes what things (services) the Programme Manager will provide for your project.
-#labels PageType-ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 = Service Level Agreement =
 _*The following is a list of services that the Programme Manager will provide for your project (please note: each individual Programme Manager has a different style of management and so please get to know your project manager by having frequent correspondence and conversation with him/her).*_
@@ -38,7 +38,9 @@ Things your programme manager does NOT like (though I always welcome challenges 
   * *Documentation sucks as much for me as it does for you* - The most laborious part of my job is keeping track of the documentation projects are _required_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project.  Your project Grant obligations are not completed until I have an answer for each of the items on your project page.
   * *Are we there yet, are we there yet..."* - Please don't make me continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
   * *Don't make me be the bad guy* - I will articulate deadlines for project documentation well in advance of the due date and projects are expected to adhere to them (if you are late you should expect to sit down for a risk assessment audit).
+  * *'Tis better to Cc than not* - One of the best ways to keep your programme manager in the loop (so you'll get extra help) is to just Cc them into email conversation (I know how to use my spam filter so please default me to Cc an any project emails).
   * *How much easier can you get than a blog!* - Failure to actively communicate with me or via our project blog will result in the JISC policy office contacting senior managers in your institution to discuss what procedures we will need to put in place to assure that this does occur.
+
 
 == Chronological examples of service rendered by Programme Manager to individual projects ==
 
