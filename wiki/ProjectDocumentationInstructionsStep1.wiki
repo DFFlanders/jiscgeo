@@ -1,7 +1,7 @@
 #summary Instructions (1 of 7) for creating a *unique* and *memorable* project tag
 #labels PageType-ProjectInstructions
 
-See this post on why you need to create a _unique_ and _memorable_ project tag: http://bit.ly/uniqueTag
+See this post on what and why you need a _unique_ and _memorable_ project tag: http://bit.ly/uniqueTag
 
 = Creating a Project Tag =
 The first task of the project (due within the first week of the project) is for you and your team to decide on a unique and memorable project tag.  Regardless of how clever your acronym is, JISC requires a unique tag both for minting records in its databases and so that your project is easy to reference and talk about during human conversation.
