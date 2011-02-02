@@ -1,5 +1,5 @@
 #summary Instructions (7 of 7) on completing Grant obligations and archiving project.
-#labels ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 = Introduction =
 
