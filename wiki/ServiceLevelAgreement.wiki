@@ -5,7 +5,7 @@
 _*The following is a list of services that the Programme Manager will provide for your project (please note: each individual Programme Manager has a different style of management and so please get to know your project manager by having frequent correspondence and conversation with him/her).*_
 
 == Aims and Objectives of Your Programme Manager ==
-*AIM of Your JISC Programme Manager*: To enable and understand how your project along with the other projects in the programme can have the most impact on the sector collectively
+*The Aim of Your JISC Programme Manager*: To enable and understand how your project along with the other projects in the programme can have the most impact on the sector collectively.
 
 *Objectives*:
   * To assure projects distribute the products of their project (both tangible and intangible) to the Higher Education and Further Education communities here in the UK and further abroad.
@@ -35,7 +35,7 @@ Some principles that guide your programme manager in working with your project a
 === Your Programme Manager's Dislikes ===
 Things your programme manager does NOT like (though I always welcome challenges on my likes/dislikes):
 
-  * *Documentation sucks as much for me as it does for you* - The most laborious part of my job is keeping track of the documentation projects are _*required*_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project.  Your project Grant obligations are not completed until I have an answer for each of the items on your project page.
+  * *Documentation sucks as much for me as it does for you* - The most laborious part of my job is keeping track of the documentation projects are _required_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project.  Your project Grant obligations are not completed until I have an answer for each of the items on your project page.
   * *Are we there yet, are we there yet..."* - Please don't make me continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
   * *Don't make me be the bad guy* - I will articulate deadlines for project documentation well in advance of the due date and projects are expected to adhere to them (if you are late you should expect to sit down for a risk assessment audit).
   * *How much easier can you get than a blog!* - Failure to actively communicate with me or via our project blog will result in the JISC policy office contacting senior managers in your institution to discuss what procedures we will need to put in place to assure that this does occur.
@@ -44,7 +44,8 @@ Things your programme manager does NOT like (though I always welcome challenges 
 
 From a typical 6-12 month project the following can be expected from the Programme Manager:
   # * A "welcome to the programme" phone/skype call*
-  # *Comments on your "Project Plan" blog posts* about what other projects are doing similar to your and where you might consider collaborating with others (the SynthesisLiaison will also be reading and leaving comments on your blog throughout).
+  # *Comments on your "Project Plan" blog posts*
+    * I'll tell you what other projects are doing similar to yours and where you might consider collaborating with others (the SynthesisLiaison will also be reading and leaving comments on your blog throughout).
   # *A face-to-face SiteVisit to the host project institution to meet the project team* (project manager, developers and bonus points if we can meet a real end user!)
   # *A programme meeting with all projects in attendance*
     * Guidance and knowledge sharing on what skills need to be developed as an effective project manager and innovation development team.
@@ -66,7 +67,7 @@ From a typical 6-12 month project the following can be expected from the Program
     * If you need a quick response SMS me: 07891 50 1194
   # *Encouraging you to come along to community events* 
     * e.g. the JISC conference, other relevant Programme meetings, etc.
-  * *Asking for your advice on other similar projects*
+  # *Asking for your advice on other similar projects*
     * Asking exemplary projects to mark the next round of bids for funding
     * Acquiring expert advice to advise or sit on JISC working groups
 
