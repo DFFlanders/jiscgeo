@@ -1,5 +1,5 @@
 #summary This page describes what things (services) the Programme Manager will provide for your project.
-#labels ProgrammeDocumentation
+#labels PageType-ProgrammeDocumentation
 
 = Service Level Agreement =
 _*The following is a list of services that the Programme Manager will provide for your project (please note: each individual Programme Manager has a different style of management and so please get to know your project manager by having frequent correspondence and conversation with him/her).*_
