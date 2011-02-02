@@ -22,3 +22,8 @@ Please make sure your team is aware of these suggested topics and tags:
 || "Value Add" aka what shifted your thinking in a new direction || What was the most important thing you discovered that brought value to your project, e.g. what was the deciding factor that made you make a specific decision on a what machine technology or human process you were going to use? ||  <!ValueAdd> <!DisruptiveInnovation> <!ChangeFactor> <ProgressPosts> <jiscGEO> <inf11> <JISC> <!YourProjectTag> ||
 || "Project Evaluation" aka iterative reflection || Undertake a quick iterative evaluation process, aka something that can be done when you are  waiting for public transportation (e.g.[http://en.wikipedia.org/wiki/SWOT_analysis SWOT analysis]) of your project.  The key is to truly know thyself or at least your project. ||  <!ProjectEvaluation> <!SwotEvaluation> <ProgressPost> <jiscGEO> <inf11> <JISC> <!YourProjectTag> ||
 || "Small WIN(s") & "FAIL(s)"* aka advice others could benefit from ||  Announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where things went wrong so they don't repeat mistakes is priceless for a thriving community. || <!WIN> <!FAIL> <ProgressPosts> <jiscGEO> <inf11> <JISC> <YourProjectTag> ||
+
+=== Next Step ===
+Ok, I've finished this step what next?
+
+[ProjectDocumentationInstructionsStep4 Go to Step 4 - The Project Product Post (say that five times fast)]
