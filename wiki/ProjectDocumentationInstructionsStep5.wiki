@@ -1,5 +1,5 @@
 #summary Instructions (5 of 7) for how to write your final project budget and submit for approval
-#labels ProgrammeDocumentation
+#labels PageType-ProjectInstructions
 
 DEADLINE: MONTH DAY DATE (BUDGETS MUST BE APPROVED BY PROGRAMME MANAGERS SO PLEASE SUBMIT WITH TIME TO SPARE)
   * 1.) *Final Budget Template* (everyone must fill this out and have it approved by their programme manager prior to being submitted as the final piece of project documentation)
