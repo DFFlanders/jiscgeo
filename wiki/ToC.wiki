@@ -1,5 +1,5 @@
 #summary This is the table of content page for each project page
-#labels ProgrammeDocumentation
+#labels PageType-ProgrammeDocumentation
 
 [ProjectDocumentationInstructions Overview of the Documentation Process]
 
