@@ -36,7 +36,7 @@ Some principles that guide your programme manager in working with your project a
 Things your programme manager does NOT like (though I always welcome challenges on my likes/dislikes):
 
   * *Documentation sucks as much for me as it does for you* - The most laborious part of my job is keeping track of the documentation projects are _*required*_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project.  Your project Grant obligations are not completed until I have an answer for each of the items on your project page.
-  * *Are we there yet, are we there yet..." - Please don't make me continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
+  * *Are we there yet, are we there yet..."* - Please don't make me continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
   * *Don't make me be the bad guy* - I will articulate deadlines for project documentation well in advance of the due date and projects are expected to adhere to them (if you are late you should expect to sit down for a risk assessment audit).
   * *How much easier can you get than a blog!* - Failure to actively communicate with me or via our project blog will result in the JISC policy office contacting senior managers in your institution to discuss what procedures we will need to put in place to assure that this does occur.
 
