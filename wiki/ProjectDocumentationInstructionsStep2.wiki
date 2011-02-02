@@ -8,7 +8,7 @@ Can you first tell me why I am using a project blog?
   * Please make sure to use the correct tags for each post (including your own project tag) so that our robots can come along and aggregate all posts on various topics. 
   * The posts can be as short or as long as you like so long as you keep your fellow projects and Higher Education community audience in mind, e.g. what would you want to read from another project?  
 
-=== "ProjectPlan" Posts ===
+=== "<ProjectPlan>" Posts ===
 To get your project blog started we REQUIRE that you publish your project plan as a series of project blog posts.  This should be an easy task as you should be copying and pasting your project bid into the following categories (please _shorten_ your bid as much as possible so it is easy to read for anyone who might encounter it on the Web).  And remember you can always come back to the various posts and update them via the comments sections when things change (and they will change).  Also please do take this opportunity to review and change your plan (things always change, and most likely have since you wrote your bid!).
 
 || *Project Plan Posts* || *Description / Example* || *Required Tags* (please copy and paste these tags into your blog posts without commas, don't forget your project tag) ||
