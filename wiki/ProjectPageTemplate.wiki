@@ -1,5 +1,5 @@
 #summary template for project documentation progress
-#labels ProgrammeDocumentation
+#labels PageType-ProgrammeDocumentation
 
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
