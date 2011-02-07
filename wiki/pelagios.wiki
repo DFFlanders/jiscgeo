@@ -43,14 +43,14 @@ By the end of the project (see project dates below) this project hopes to have p
     * <foaf:phone> office phone number here </foaf:phone> 
     * <foaf:skype> skype handle, e.g. david.flanders </foaf:skype>
     * <v:url> <!--Please either provide the contact details above per person or a URI linking to an HTTP URI vcard/foaf contact details page per person, e.g. email, address, etc. --> </v:url>
-  * *Project Manager*: <doap:maintainer> <!-- name of the person who is responsible for the overall project management </doap:maintainer>
-    * contact details: <vcard:> <!-- email --> </vcard:> 
-    * phone:
+  * *Project Manager*: <doap:maintainer> Elton Barker </doap:maintainer>
+    * contact details: <vcard:> e.t.e.barker@open.ac.uk </vcard:> 
+    * phone: 
     * skype: <vcard:> <!-- phone number here --> </vcard:>, <vcard:> <!-- skype --> </vcard:>
   * *Developer*: 
     * <doap:developer> <--! name of developer working on project, repeat as needed --></doap:developer> 
     * <doap:developer> <!--name of developer working on project, repeat as needed --> </doap:developer>
-  * *Institutional Budget Manager*: <doap:documenter> <!-- this should be the name of the person based at the institutions who works in the finance department and oversees the grants funding and budget policies for the University--> </doap:documenter>
+  * *Institutional Budget Manager*: <doap:documenter>Suzanne Duncanson-Hunter </doap:documenter>
   * *Partners*:
     * *Consultants*: <doap:vendor> name of person at company and company name </doap:vendor>
     * *Users*: <doap:audience> <!-- name of real end users and what community they are associated with --> <doap:audience>
