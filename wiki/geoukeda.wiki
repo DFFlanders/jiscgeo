@@ -1,4 +1,4 @@
-#summary template for project documentation progress
+#summary tbc
 #labels PageType-Project
 
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
