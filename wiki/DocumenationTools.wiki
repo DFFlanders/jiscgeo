@@ -19,6 +19,8 @@ An analytics engine must be set up for any all web resources that the project pr
 Our recommendations for setting up analytics engine:
   * For your projecct blog see instructions above about using blogger.com so you can integrate Google Analytics with blogger.  [http://www.google.co.uk/search?&q=how+to+set+up+google+analytics+on+blogger To set up blogger with analytics see the Web].
 
+If you are using Google Analytics could you please "share" the analytics with the following account: analytics.jisc@gmail.com
+
 == How to declare and set up licenses ==
 There are three types of content that projects need to make a decision upon with regards to licensing:
   # Project documentation (and any other web resources you create)
