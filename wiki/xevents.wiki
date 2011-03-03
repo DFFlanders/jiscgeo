@@ -5,7 +5,7 @@ _Project Manager's please see WikiContributorInstructions page for how to work w
 
 = Project Overview =
   * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
-    * *Project Tag*: <doap:shortname> <--! enter the tag of your project here, this tag CANNOT be changed --> </doap:shortname>
+    * *Project Tag*: <doap:shortname> xevents </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your Pro Vice Chancellor):
     * *short*: <doap:shortdesc> <!-- please provide a simple 'argos-like' description of the product you are producing, less than 120 characters --> </doap:shortdesc>
     * *long*: <doap:description> <!-- this should be a longer '10 second elevator-pitch' description and should speak of the potential value and impact that the project could have for your end users and the sector </doap:description>
@@ -43,9 +43,9 @@ By the end of the project (see project dates below) this project hopes to have p
     * <foaf:phone> office phone number here </foaf:phone> 
     * <foaf:skype> skype handle, e.g. david.flanders </foaf:skype>
     * <v:url> <!--Please either provide the contact details above per person or a URI linking to an HTTP URI vcard/foaf contact details page per person, e.g. email, address, etc. --> </v:url>
-  * *Project Manager*: <doap:maintainer> <!-- name of the person who is responsible for the overall project management </doap:maintainer>
-    * contact details: <vcard:> <!-- email --> </vcard:> 
-    * phone:
+  * *Project Manager*: <doap:maintainer> David Bourget </doap:maintainer>
+    * contact details: <vcard:> root@dbourget.com </vcard:> 
+    * phone: 
     * skype: <vcard:> <!-- phone number here --> </vcard:>, <vcard:> <!-- skype --> </vcard:>
   * *Developer*: 
     * <doap:developer> <--! name of developer working on project, repeat as needed --></doap:developer> 
@@ -62,11 +62,11 @@ By the end of the project (see project dates below) this project hopes to have p
 = Documentation =
 
 Latest project blog posts (to expand click the "+" symbol):
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://xevents-blog.sas.ac.uk/feeds/posts/default" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * *Project Blog URL*: <doap:blog> <!-- this should be a link to the home page of your blog --> </doap:blog>
+  * *Project Blog URL*: <doap:blog> http://xevents-blog.sas.ac.uk/ </doap:blog>
     * *"About" page URL for project blog*: <!--this should be a link to the "/about" page in your blog where you should consider replicating the information on this page there-->
-    * *Blog Feed URL*: <doap:blog> <!-- must be the ATOM or RSS2 feed of the blog - not the RSS1.0 as it does not validate against data crawler, see ProjectDocumentationInstructions --> </doap:blog>
+    * *Blog Feed URL*: <doap:blog> http://xevents-blog.sas.ac.uk/feeds/posts/default </doap:blog>
   * *Code Repository URL*: <doap:repository> this should be a URL link to the root/trunk of your code repository, all projects must have revision control in place for all code written during the course of the project, please contact OSSWatch if you need help or support in doing this.--> </doap:repository>
   * *Technical Documentation URL*: <doap:browse> <--! should be the technical documentation explaining what code was used and how it is used, don't forget the inline code comments! --> <doap:browse>
   * *Instructional End User Documentation URL*: <doap:browse> <!-- should be the end user guidance for using the project product, e.g. step-by-step instructions, screencast, etc --> </doap:browse>
