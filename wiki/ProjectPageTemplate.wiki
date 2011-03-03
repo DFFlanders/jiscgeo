@@ -1,7 +1,7 @@
 #summary template for project documentation progress
 #labels PageType-ProgrammeDocumentation
 
-_Project Manager's please see WikiContributorInstructions page for how to work with the below code.
+_please see WikiContributorInstructions page for how to work with the below code_
 
 = Project Overview =
   * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
@@ -21,11 +21,12 @@ By the end of the project (see project dates below) this project hopes to have p
     * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
     * <gr:ProductOrService> <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
     * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> editor note: could use cf:SkillsAndExpertise
-    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise
+    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise    
+    * <gr:ProductOrServiceModel> <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise
   * *Primary type of user the deliverable _tangible_ products of this project will be for*:
-    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
-    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
-    *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
+    * <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
+    * <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
+    * <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
 
 = Project Details =
   * *Name of Host Institution*: <org:organization> <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
