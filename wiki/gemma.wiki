@@ -43,12 +43,13 @@ By the end of the project (see project dates below) this project hopes to have p
 
 = Project Team =
   * *Project Director*: <!--Please insert your 'full name', e.g. Firstname MI Lastname --> </v:fn> editor note: could use cf:director here?
-  * *Project Manager*: <!-- name of the person who is responsible for the overall project management </doap:maintainer>
-    * <!-- email --> </vcard:> 
+  * *Project Manager*: Andrew Hudson-Smith </doap:maintainer>
+    * a.hudson-smith@ucl.ac.uk </vcard:email> 
     * <!--phone -->
     * skype: <!-- skype handle here --> </vcard:>
   * *Developer*: 
-    * <--! name of developer working on project, repeat as needed --></doap:developer> 
+    * Steven Gray </doap:developer> 
+    * steven.gray@ucl.ac.uk </vcard:email>
     * <!--name of developer working on project, repeat as needed --> </doap:developer>
   * *Institutional Budget Manager*: <doap:documenter> <!-- this should be the name of the person based at the institutions who works in the finance department and oversees the grants funding and budget policies for the University--> </doap:documenter>
   * *Partners*:
