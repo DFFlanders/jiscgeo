@@ -41,9 +41,9 @@ By the end of the project (see project dates below) this project hopes to have p
 
 = Project Team =
   * *Project Director*: <!--Please insert your 'full name', e.g. Firstname MI Lastname --> </v:fn> editor note: could use cf:director here?
-  * *Project Manager*: <!-- name of the person who is responsible for the overall project management </doap:maintainer>
-    * <!-- email --> </vcard:> 
-    * <!--phone -->
+  * *Project Manager*: David P. Carter </doap:maintainer>
+    * dpc15@leicester.ac.uk </vcard:email> 
+    * 0779 219 2902 </vcard:phone>
     * skype: <!-- skype handle here --> </vcard:>
   * *Developer*: 
     * <--! name of developer working on project, repeat as needed --></doap:developer> 
