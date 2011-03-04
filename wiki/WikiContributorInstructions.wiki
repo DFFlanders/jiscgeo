@@ -1,7 +1,11 @@
 #summary instructions for how to fill out wiki pages on projects.
 #labels PageType-ProjectInstructions
 
-This is my informal open notebook (wiki) page on your project aka this should be a meeting place for BOTH of us to take notes on your project, aka *the project isn't complete until I have this form filled out in full*. Any additions you make will be auto emailed to me so this is one of the best ways to communicate with me about your project as it progresses (alongside your project blog). You'll need me to give you edit rights by passing me your gmail or hotmail account /dff_
+All projects will have their own page in the jiscGEO programme wiki.  This page on the project is intended as a kind of checklist for each project.  This page is intended to be an informal whiteboard space where BOTH of us can take notes on the progress of your project, aka *the project isn't complete until I have this form filled out in full*. 
+
+Any additions you make will be auto emailed to me so this is one of the best ways to communicate with me about your project as it progresses (alongside your project blog). You'll need me to give you edit rights by passing me your gmail or hotmail account 
+
+If you don't like using wiki markup text then you are welcome to use the spreadsheet version of this same checklist.  {https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&hl=en&authkey=CLzanfQL This spreadsheet is available online via a Google Docs spreasheet]. /dff_
 
 README:
   * INSTRUCTIONS FOR WHAT DATA WE NEED ARE ENCAPSULATED IN HTML IGNORE TAGS <!--FOO--> PLEASE DELETE THESE TAGS AND ENTER YOUR "TEXT"
