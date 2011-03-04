@@ -1,4 +1,4 @@
-#summary tbc
+#summary tool for organising events around specific subject areas in various places around the world, working with philosophy community in first instance.
 #labels PageType-Project
 
 _please see WikiContributorInstructions page for how to work with the below code_
