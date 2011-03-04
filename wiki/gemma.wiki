@@ -1,14 +1,87 @@
-#summary One-sentence summary of this page.
+#summary creating a tool for auto-tagging random digital objects with geo tags.
 #labels PageType-Project
 
-= Introduction =
+_please see WikiContributorInstructions page for how to work with the below code_
 
-Add your content here.
+= Project Overview =
+  * *Full Name of Project*: <--! Enter full human readable name of project here --> </doap:name>
+    * *Project Tag*: <--! enter the tag of your project here, this tag CANNOT be changed --> </doap:shortname>
+  * *Project Descriptions* (how would you describe this project to your Pro Vice Chancellor):
+    * *short*: <!-- please provide a simple 'argos-like' description of the product you are producing, less than 120 characters --> </doap:shortdesc>
+    * *long*: <!-- this should be a longer '10 second elevator-pitch' description and should speak of the potential value and impact that the project could have for your end users and the sector </doap:description>
+    * *keywords*: <!--geospatial--> </doap:category>
+      * keyword <!--add as many keywords as accurately describe the project--> </doap:category>
+      * keyword <!--add as many keywords as accurately describe the project--> </doap:category>
+      * keyword <!--add as many keywords as accurately describe the project--> </doap:category>
+      * keyword <!--add as many keywords as accurately describe the project--> </doap:category>
 
+= Project Products =
+By the end of the project (see project dates below) this project hopes to have produced the following products.
+  * *Project Products* (please note the difference between tangible and intangible products):
+    * *Tangible products*:
+      * <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
+      * <--! this should be the actual tangible product produced from the project that other organisations could reuse (e.g. software, apps, guidance reports, infokits, frameworks, standards, etc), repeat this tag as needed for additional products --> <gr:ProductOrService>
+    * *Intangible products*:
+      * <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> editor note: could use cf:SkillsAndExpertise
+      * <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise    
+      * <!-- these are all the intangible products that will be achieve during the course of the project, e.g. new skills, processes, relationships, etc.  Please repeat this tag for multiple intangible products --> <gr:ProductOrServiceModel> note: could use cf:SkillsAndExpertise
+  * *Primary type of user the deliverable _tangible_ products of this project will be for*:
+    * <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
+    * <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
+    * <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
 
-= Details =
+= Project Details =
+  * *Name of Host Institution*: <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
+    * *Department*: <!-- please insert the URL for the home page of the department in which the project is primarily based -->
+    * *Postcode*: <!-- please insert the postcode for the above department where the project is primarily based --> </v:postal-code>
+  * *JISC Programme/Strand/Theme*: <doap:category> geospatial </doap:category> ; <doap:category> jiscGEO </doap:category> ; <cf:FundProgId> inf11 </doap:category>
+  * *Length of Project*: <!-- e.g. 12 months --> editor note: could use cf:fundingPeriod here?
+    * *Project Start Date*: <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
+    * *Project End Date*: <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:ended> 
+  * *Grant Awarded to Project*: <!-- please use full point float number, e.g. £65000.00 without commas --> </cf:Amount>
+  * *What kinds of people working in HE would be interested in this projecct*: <!-- e.g. lab assistants, cataloguers, heads of grant departments, university lawyers, etc. --> </doap:audience>
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Project Team =
+  * *Project Director*: <!--Please insert your 'full name', e.g. Firstname MI Lastname --> </v:fn> editor note: could use cf:director here?
+  * *Project Manager*: <!-- name of the person who is responsible for the overall project management </doap:maintainer>
+    * <!-- email --> </vcard:> 
+    * <!--phone -->
+    * skype: <!-- skype handle here --> </vcard:>
+  * *Developer*: 
+    * <--! name of developer working on project, repeat as needed --></doap:developer> 
+    * <!--name of developer working on project, repeat as needed --> </doap:developer>
+  * *Institutional Budget Manager*: <doap:documenter> <!-- this should be the name of the person based at the institutions who works in the finance department and oversees the grants funding and budget policies for the University--> </doap:documenter>
+  * *Partners*:
+    * *Consultants*: <!--name of person at company and company name--> </doap:vendor>
+    * *Users*: <!-- name of real end users and what community they are associated with --> <doap:audience>
+  * *OTHER* (please describe their role and function in the project)
+    * <!-- e.g. a colleague who gives you advice over coffee? <doap:helper>
+    * <!-- e.g. a user who is volonteering their time to give bug reports? --> <doap:documenter>
+    * <!-- additional project team members, formal or informal-->
+
+= Documentation =
+
+Latest project blog posts (to expand click the "+" symbol):
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
+  
+  * *Project Blog URL*: <!-- this should be a link to the home page of your blog --> </doap:blog>
+    * *"About" page URL for project blog*: <!--this should be a link to the "/about" page in your blog where you should consider replicating the information on this page there-->
+    * *Blog Feed URL*: <!-- must be the ATOM or RSS2 feed of the blog - not the RSS1.0 as it does not validate against data crawler, see ProjectDocumentationInstructions --> </doap:blog>
+  * *Code Repository URL*: <!-- this should be a URL link to the root/trunk of your code repository, all projects must have revision control in place for all code written during the course of the project, please contact OSSWatch if you need help or support in doing this.--> </doap:repository>
+  * *Technical Documentation URL*: <--! should be the technical documentation explaining what code was used and how it is used, don't forget the inline code comments! --> <doap:browse>
+  * *Instructional End User Documentation URL*: <!-- should be the end user guidance for using the project product, e.g. step-by-step instructions, screencast, etc --> </doap:browse>
+  * *Listserv URL*: <!--if you are using a listserv please provide URL for where others can subscribe - please make sure this is open and licensed accordingly. </doap:mailing-list>
+  * *License used for code*: <!--Please specify which OSS license you are using, please contact OSSWatch if you require guidance or help on deciding which license to use --> </doap:license>
+  * *License used for database content*: <!-- Please specify which database license you are going to use, please contact OKF for further guidance regarding which database license to use --> </doap:license>
+  * *License used for blog and other project website content*: <!-- please specify which creative commons license you will use for all documentation (including blog posts), please note the CC license selected must be visible on all project blog posts and any other document created during the course of the project </doap:license>
+  * *Analytics Engine URL*: <!-- As per your Grant funding you must set up an Analytics engine for your blog and other websites (e.g. Google Analytics or Piwik) and share the API access with jiscProjectAnalytics@gmail.com account, this must be done in the first month of the project (very important)! --> </doap:browse>
+  * *PIMS listing URL*: <!-- Your Programme Manager will provide you with this URL --> </cf:FundProgId1>
+  * *Project Plan URL*: <!-- please enter the URL that points to the ProjectPlan tag as specified in the ProjectDocumentationInstructions --> </cf:ProjectPlan>
+  * *Final Product Post URL*: <!-- This is the URL to your "Final Product Post" outlining the thing you have produced by the end of your project, see ProjectDocumentationInstructions --> </doap:screenshots>
+  * *Project Website URL*: <!-- this should be the URL for the page launched once the project has a product to advertise, this could be different than the project blog URL or just the 'Final Product Post' --> </doap:homepage>
+  * *Final Budget URL*: <!-- link to final spend budget for project, please see ProjectDocumenationInstructions for budget template --> <cf:SpendBudget>
+  * *Sign-off Form Completed*: <-- YES / NO - this form will not be made available so as to protect the privacy of the comments -->
+
+= Correspondence (below as comments) =
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.
