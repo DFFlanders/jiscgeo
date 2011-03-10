@@ -2,7 +2,7 @@
 #labels PageType-ProgrammeDocumentation
 
 = PEG Task Description =
-The job of a 'Programme Evidence Gatherer' is similar to that of an anthropologist, except in an online environment. The first half of the job is basically observation and research (specifically reading project blog posts and reports) to gather lesson and themes that are commonly emerging out of the projects as a collective.   The second half of the job is reporting back those themes in a comprehensible and interesting way to the projects as well as significant stakeholders.  
+The job of a 'Programme Evidence Gatherer' (PEG) is similar to that of an anthropologist, except in an online environment. The first half of the job is basically observation and research (specifically reading project blog posts and reports) to gather lesson and themes that are commonly emerging out of the projects as a collective.   The second half of the job is reporting back those themes in a comprehensible and interesting way to the projects as well as significant stakeholders.  
 
 == Overall Context for the PEG activity ==
 The PEG must work within the context of the overall programme programme which includes working with the following people:
