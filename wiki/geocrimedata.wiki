@@ -4,16 +4,15 @@
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
 = Project Overview =
-  * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
-    * *Project Tag*: <doap:shortname> <--! enter the tag of your project here, this tag CANNOT be changed --> </doap:shortname>
+  * *Full Name of Project*: <doap:name> Geospatial Data for Crime Analysis </doap:name>
+    * *Project Tag*: <doap:shortname> geocrimedata </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your Pro Vice Chancellor):
-    * *short*: <doap:shortdesc> <!-- please provide a simple 'argos-like' description of the product you are producing, less than 120 characters --> </doap:shortdesc>
+    * *short*: <doap:shortdesc> The GeoCrimeData project will take existing geospatial data and make it useful for crime analysis. It will create two new spatial datasets at the street and output-area level which will help to provide contextual information for crime analysts. </doap:shortdesc>
     * *long*: <doap:description> <!-- this should be a longer '10 second elevator-pitch' description and should speak of the potential value and impact that the project could have for your end users and the sector </doap:description>
     * *keywords*: <doap:category> <!--geospatial--> </doap:category>
-      * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
-      * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
-      * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
-      * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
+      * <doap:category> spatial data </doap:category>
+      * <doap:category> crime </doap:category>
+      * <doap:category> burglary </doap:category>
 
 = Project Products =
 By the end of the project (see project dates below) this project hopes to have produced the following products.
@@ -28,14 +27,14 @@ By the end of the project (see project dates below) this project hopes to have p
     *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
 
 = Project Details =
-  * *Name of Host Institution*: <org:organization> <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
+  * *Name of Host Institution*: <org:organization> http://www.leeds.ac.uk/  </org:organization>
     * *Department*: <org:OrganizationalUnit> <!-- please insert the URL for the home page of the department in which the project is primarily based -->
-    * *Postcode*: <v:postal-code> <!-- please insert the postcode for the above department where the project is primarily based --> </v:postal-code>
+    * *Postcode*: <v:postal-code> http://geog.leeds.ac.uk/</v:postal-code>
   * *JISC Programme/Strand/Theme*: <doap:category> geospatial </doap:category> ; <doap:category> jiscGEO </doap:category> ; <cf:FundProgId> inf11 </doap:category>
-  * *Length of Project*: <!-- e.g. 12 months --> editor note: could use cf:fundingPeriod here?
-    * *Project Start Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
-    * *Project End Date*: <doap:> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
-  * *Grant Awarded to Project*: <cf:Amount> <!-- please use full point float number, e.g. £65000.00 without commas --> </cf:Amount>
+  * *Length of Project*: 9 months editor note: could use cf:fundingPeriod here?
+    * *Project Start Date*: <doap:created> 2011-02-01 </doap:created> 
+    * *Project End Date*: <doap:> 2011-10-31 </doap:created> 
+  * *Grant Awarded to Project*: <cf:Amount> 62736.82 </cf:Amount>
   * *What kinds of people working in HE would be interested in this projecct*: <doap:audience> <!-- e.g. lab assistants, cataloguers, heads of grant departments, university lawyers, etc. --> </doap:audience>
 
 = Project Team =
