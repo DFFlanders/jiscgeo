@@ -7,7 +7,7 @@ All JISC projects are _required_ to complete documentation as per their Grant ob
 === What you'll need to publish your documentation ===
   # *A Project Blog*: all documentation must go through a project blog, i.e. posts in feeds with tags. 
   # *An Analytics Engine*: all online resources produced by the project (blog, code repository, website, etc) must be monitored via analytics (e.g. Google Analytics or Piwik).  
-  # *A Declaration* on which set of licenses you are going to use for your documenation.
+  # *A Declaration* on which set of licenses you are going to use for anything you create during the course of the project (e.g. content, code, etc)
 
 _See the DocumenationTools page for instructions on how to set up your project blog, analytics engine and how to select your license._
 
