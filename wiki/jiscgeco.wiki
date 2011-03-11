@@ -1,5 +1,5 @@
 #summary jiscGEO community project helping organise training events for jiscGEO projects so they can reach out to the wider Academic community.
-#labels PageType-Project
+#labels PageType-Project,project
 
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
