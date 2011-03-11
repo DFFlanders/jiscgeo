@@ -1,5 +1,5 @@
 #summary vast range of survey data (uk data archive holds), make it clearer to users, provide better metadata...[tbc]
-#labels PageType-Project
+#labels PageType-Project,project
 
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
