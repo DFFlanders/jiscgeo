@@ -1,5 +1,5 @@
 #summary mobile phone app for collecting data in the field about conkers
-#labels PageType-Project
+#labels PageType-Project,project
 
 _please see WikiContributorInstructions page for how to work with the below code_
 
