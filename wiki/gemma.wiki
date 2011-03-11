@@ -1,5 +1,5 @@
 #summary creating a tool for auto-tagging random digital objects with geo tags.
-#labels PageType-Project
+#labels PageType-Project,project
 
 _please see WikiContributorInstructions page for how to work with the below code_
 
