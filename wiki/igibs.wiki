@@ -1,5 +1,5 @@
 #summary to confirm description of project
-#labels PageType-ProjectInstructions
+#labels PageType-Project
 
 _Project Manager's please see WikiContributorInstructions page for how to work with the below code.
 
