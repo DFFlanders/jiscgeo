@@ -5,7 +5,7 @@ _Project Manager's please see WikiContributorInstructions page for how to work w
 
 = Project Overview =
   * *Full Name of Project*: <doap:name> <--! Enter full human readable name of project here --> </doap:name>
-    * *Project Tag*: <doap:shortname> <--! enter the tag of your project here, this tag CANNOT be changed --> </doap:shortname>
+    * *Project Tag*: <doap:shortname> <GeoSciTeach> </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your Pro Vice Chancellor):
     * *short*: <doap:shortdesc> <!-- please provide a simple 'argos-like' description of the product you are producing, less than 120 characters --> </doap:shortdesc>
     * *long*: <doap:description> <!-- this should be a longer '10 second elevator-pitch' description and should speak of the potential value and impact that the project could have for your end users and the sector </doap:description>
