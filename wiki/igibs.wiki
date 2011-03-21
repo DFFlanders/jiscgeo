@@ -7,7 +7,7 @@ For full contact details on this project please see the [https://spreadsheets1.g
 = Tracking Project Progress =
 The purpose of this page is for the JISC Programme Manager and the Project Manager (of this project page) to jointly keep track of the obligations that this project is required to fulfil prior to completion of their Grant funding.  This information is tracked via:
 
-  * The list of contact details and project products as listed in the [https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html #jiscGEO DoaP database].
+  * The list of contact details and project products as listed in the [http://bit.ly/doap-jiscgeo #jiscGEO DoaP database].
   * Correspondence and notes below.
 
 The steps each project are required to complete are listed on the left side nav or on the ProjectDocumentationInstructions page.
