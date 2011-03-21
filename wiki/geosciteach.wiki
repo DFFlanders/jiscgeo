@@ -43,7 +43,7 @@ By the end of the project (see project dates below) this project hopes to have p
   * *Project Director*: <v:fn> <Sara Price> </v:fn> editor note: could use cf:director here?
     * <foaf:phone> 020 7763 2175 </foaf:phone> 
     * <foaf:skype> skype handle, e.g. david.flanders </foaf:skype>
-    * <v:url> <!--Please either provide the contact details above per person or a URI linking to an HTTP URI vcard/foaf contact details page per person, e.g. email, address, etc. --> </v:url>
+    * <v:url> <http://www.lkl.ac.uk/cms/index.php?option=com_comprofiler&task=userProfile&user=115&Itemid=111> </v:url>
   * *Project Manager*: <doap:maintainer> <Sara Price </doap:maintainer>
     * contact details: <vcard:> <!-- email --> </vcard:> 
     * phone:
