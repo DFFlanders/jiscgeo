@@ -8,7 +8,7 @@ _Project Manager's please see WikiContributorInstructions page for how to work w
 orchestrating scientific fieldwork activity> </doap:name>
     * *Project Tag*: <doap:shortname> <GeoSciTeach> </doap:shortname>
   * *Project Descriptions* (how would you describe this project to your Pro Vice Chancellor):
-    * *short*: <doap:shortdesc> <!-- please provide a simple 'argos-like' description of the product you are producing, less than 120 characters --> </doap:shortdesc>
+    * *short*: <doap:shortdesc> <Principles for integrating geo-spatial skills into science teacher training; prototype application on smart phones; exemplary geo-spatial based science teaching activities> </doap:shortdesc>
     * *long*: <doap:description> <!GeoSciTeach aims to increase the use of geospatial tools in teacher training education by designing developing, and evaluating an innovative application, using the advanced sensing functionality of mobile smartphones. It aims to provide a customisable template for teachers to develop and orchestrate geo-spatial based science learning activities, that can be used within the teacher-training curriculum, and be made available as a teaching tool with associated educational resources. </doap:description>
     * *keywords*: <doap:category> <!--geospatial--> </doap:category>
       * <doap:category> <!--add as many keywords as accurately describe the project--> </doap:category>
