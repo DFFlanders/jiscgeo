@@ -65,8 +65,8 @@ By the end of the project (see project dates below) this project hopes to have p
 Latest project blog posts (to expand click the "+" symbol):
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
   
-  * *Project Blog URL*: <doap:blog> <!-- this should be a link to the home page of your blog --> </doap:blog>
-    * *"About" page URL for project blog*: <!--this should be a link to the "/about" page in your blog where you should consider replicating the information on this page there-->
+  * *Project Blog URL*: <doap:blog> <http://geosciteach.wordpress.com/> </doap:blog>
+    * *"About" page URL for project blog*: <http://geosciteach.wordpress.com/>
     * *Blog Feed URL*: <doap:blog> <!-- must be the ATOM or RSS2 feed of the blog - not the RSS1.0 as it does not validate against data crawler, see ProjectDocumentationInstructions --> </doap:blog>
   * *Code Repository URL*: <doap:repository> this should be a URL link to the root/trunk of your code repository, all projects must have revision control in place for all code written during the course of the project, please contact OSSWatch if you need help or support in doing this.--> </doap:repository>
   * *Technical Documentation URL*: <doap:browse> <--! should be the technical documentation explaining what code was used and how it is used, don't forget the inline code comments! --> <doap:browse>
