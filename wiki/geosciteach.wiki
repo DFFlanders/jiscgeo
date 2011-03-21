@@ -29,22 +29,22 @@ By the end of the project (see project dates below) this project hopes to have p
     *   <gr:eligibleCustomerTypes> <--! if the project were selling a product at the end of it, whom would that product be for? e.g. biology researchers, undergraduate students, etc. please repeat as needed--> </gr:eligibleCustomerTypes>
 
 = Project Details =
-  * *Name of Host Institution*: <org:organization> <!-- please insert the URL for official .ac.uk home page of the host institution -->  </org:organization>
-    * *Department*: <org:OrganizationalUnit> <!-- please insert the URL for the home page of the department in which the project is primarily based -->
-    * *Postcode*: <v:postal-code> <!-- please insert the postcode for the above department where the project is primarily based --> </v:postal-code>
+  * *Name of Host Institution*: <org:organization> <http://www.ioe.ac.uk/>  </org:organization>
+    * *Department*: <org:OrganizationalUnit> <www.lkl.ac.uk/>
+    * *Postcode*: <v:postal-code> <WC1N 3QS> </v:postal-code>
   * *JISC Programme/Strand/Theme*: <doap:category> geospatial </doap:category> ; <doap:category> jiscGEO </doap:category> ; <cf:FundProgId> inf11 </doap:category>
-  * *Length of Project*: <!-- e.g. 12 months --> editor note: could use cf:fundingPeriod here?
-    * *Project Start Date*: <doap:created> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
+  * *Length of Project*: <8 months> editor note: could use cf:fundingPeriod here?
+    * *Project Start Date*: <doap:created> <2011-02-01> </doap:created> 
     * *Project End Date*: <doap:> <!-- please use a W3C-DTF syntax, e.g. 2011-12-31 --> </doap:created> 
   * *Grant Awarded to Project*: <cf:Amount> <!-- please use full point float number, e.g. £65000.00 without commas --> </cf:Amount>
   * *What kinds of people working in HE would be interested in this projecct*: <doap:audience> <!-- e.g. lab assistants, cataloguers, heads of grant departments, university lawyers, etc. --> </doap:audience>
 
 = Project Team =
-  * *Project Director*: <v:fn> <!--Please insert your 'full name', e.g. Firstname MI Lastname --> </v:fn> editor note: could use cf:director here?
-    * <foaf:phone> office phone number here </foaf:phone> 
+  * *Project Director*: <v:fn> <Sara Price> </v:fn> editor note: could use cf:director here?
+    * <foaf:phone> 020 7763 2175 </foaf:phone> 
     * <foaf:skype> skype handle, e.g. david.flanders </foaf:skype>
     * <v:url> <!--Please either provide the contact details above per person or a URI linking to an HTTP URI vcard/foaf contact details page per person, e.g. email, address, etc. --> </v:url>
-  * *Project Manager*: <doap:maintainer> <!-- name of the person who is responsible for the overall project management </doap:maintainer>
+  * *Project Manager*: <doap:maintainer> <Sara Price </doap:maintainer>
     * contact details: <vcard:> <!-- email --> </vcard:> 
     * phone:
     * skype: <vcard:> <!-- phone number here --> </vcard:>, <vcard:> <!-- skype --> </vcard:>
