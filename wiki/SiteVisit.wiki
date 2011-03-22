@@ -1,2 +1,29 @@
 #summary this page outlines a generic agenda for the Programme Manager's SiteVisit.
 #labels PageType-ProgrammeDocumentation
+
+#summary This page lists the topics that need to be covered by the Programme Manager in visiting each project face-to-face.
+
+= Why visit each project face-to-face? =
+
+From the Programme Manager's point of view the site visit is the most significant time spent with projects as it gives a chance to find out what each individual project is excited and passionate about.  Why care about excitement and passion? - Because, these are the things that drive change and innovation (well that and a really good user-centric idea). This meeting is an opportunity to find out how and why your passion or excitement for a new way of doing things can not only change your institution but also the wider sector.
+
+== Setting up the site visit ==
+
+Prior to the SiteVisit the project should have completed their "Project Plan Posts", "DoaP d/b entry" and "Project Plan Posts", see ProjectDocumentationInstructions.
+
+=== Preparation for a good site visit: ===
+The site visit will be an open agenda meeting intended to explore any issues the project has in delivering its final project product.
+  * The site visit will be a 2-3 hour meeting (preferably before or after lunch).
+  * If a whiteboard and/or flip chart could be available in the meeting room so that a common diagram of the project can be drawn up during the meeting.
+  * As many of the project team members as possible should attend at some point (not everyone has to be there at the same time, but the Programme Manager has come all that way to see people face-to-face so please do schedule time with all team members accordingly), a tour around campus is nice as well to help contextualise the project team.
+    *  Please make sure to send directions on how to get to your building well in advance of the site visit (as with all good public sector staff your Programme Manager will be coming via public transport, i.e. train).
+  * This is your one and only visit with your programme manager so do take advantage of this meeting, e.g. Programme Manager's are often the most well informed cross-sector person who can make additional resources available for your project.
+  * This meeting is about you and your project so you should do most of the talking; ideally your Programme Manager should be asking questions and taking notes while you provide as much insight as possible.  Please Note: All of this data will help inform the JISC on future spending initiatives.
+
+=== Post site visit ===
+After the site visit the Programme Manager has quite a few tasks they will follow-up on:
+  * The Programme Manager will type up their notes and post them on this website (notifying the project and asking for any corrections)
+  * Actions from the notes will be followed up.
+  * The notes (once approved by the project) will be passed on to other JISC staff for guidance and/or potential networks.
+  * Themes from all the project site visits will be collected and analysed to inform the Programme Meeting (where all project come together to share experiences at the end of the programme)
+  * A 'Strand Definition' document will be drafted to help inform the 'Evaluation' and 'Dissemination' of this Programme as a whole, this will be documented via the ChangeLog.
