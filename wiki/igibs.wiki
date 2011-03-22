@@ -1,4 +1,4 @@
-#summary tbc
+#summary This page is for the JISC ProgM to track progress & correspondence on this project.
 #labels PageType-Project,project
 
 == Project Contact Details ==
@@ -11,6 +11,10 @@ The purpose of this page is for the JISC Programme Manager and the Project Manag
   * Correspondence and notes below.
 
 The steps each project are required to complete are listed on the left side nav or on the ProjectDocumentationInstructions page.
+
+== Project Blog ==
+Latest project blog posts (to expand click the "+" symbol):
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
 === Correspondence (below as comments) ===
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
