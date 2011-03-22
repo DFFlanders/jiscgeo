@@ -1,14 +1,21 @@
-#summary principles for integrating geo-spatial skills into science teacher training; prototype application on smart phones; exemplary geo-spatial based science teaching activities.
+#summary This page is for the JISC ProgM to track progress & correspondence on this project.
 #labels PageType-Project,project
 
 == Project Contact Details ==
 For full contact details on this project please see the [https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html DoaP (Description of a Project) database on all jiscGEO projects].
 
 = Tracking Project Progress =
-The purpose of this page is for the JISC Programme Manager and the Project Manager (of this project page) to jointly keep track of the obligations that this project is required to fulfil prior to completion of their Grant funding.  This information is tracked via:
+The purpose of this page is to provide the programme manager with a space to track the progress and outputs of the projects that make up the jiscGEO programme. This information is tracked via:
 
-  * The list of contact details and project products as listed in the [https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html #jiscGEO DoaP database].
-  * Correspondence and notes below.
+  * The list of contact details and project products as listed in the [http://bit.ly/doap-jiscgeo #jiscGEO DoaP database].
+  * The project blog (see below)
+  * Correspondence and notes (see below)
+
+The steps each project are required to complete are listed on the left side nav or on the ProjectDocumentationInstructions page.
+
+== Project Blog ==
+Latest project blog posts (to expand click the "+" symbol):
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="HTTP RSS FEED HERE" width="700" height="700" border="1" up_showaddbutton="20"/>
 
 === Correspondence (below as comments) ===
 Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
