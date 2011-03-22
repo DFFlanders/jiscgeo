@@ -1,2 +1,2 @@
-#summary tbc
+#summary this page outlines a generic agenda for the Programme Manager's SiteVisit.
 #labels PageType-ProgrammeDocumentation
