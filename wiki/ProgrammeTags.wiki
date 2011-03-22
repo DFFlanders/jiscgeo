@@ -1,0 +1,8 @@
+#summary This is a list of key tags that the programme manager uses to organise projects in the various themes for the programme.
+#labels PageType-ProgrammeDocumentation
+
+= Programme Tagsonomy =
+
+== Digital Infrastructure Tags ==
+  * DIT-Skills
+  * 
