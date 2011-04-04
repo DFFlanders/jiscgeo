@@ -11,4 +11,6 @@
   # Step 6: [ProjectDocumentationInstructionsStep6 Sign-off Survey Form] 
   # Step 7: [ProjectDocumentationInstructionsStep7 Completion & Archive]
 
+This wiki is the personal notebook of the #jiscGEO Programme Manager (David F. Flanders).   As this is David's personal notebook it will only really make sense to the him; however, DFF is glad to share his notes with you in an effort to demonstrate transparency and openness.  In short, feel free to read but please know these are just notes so please email David for further clarification before assuming anything: 
+
 Questions? - please email d.flanders@jisc.ac.uk
