@@ -1,8 +1,6 @@
 #summary this page outlines a generic agenda for the Programme Manager's SiteVisit.
 #labels PageType-ProgrammeDocumentation
 
-#summary This page lists the topics that need to be covered by the Programme Manager in visiting each project face-to-face.
-
 = Why visit each project face-to-face? =
 
 From the Programme Manager's point of view the site visit is the most significant time spent with projects as it gives a chance to find out what each individual project is excited and passionate about.  Why care about excitement and passion? - Because, these are the things that drive change and innovation (well that and a really good user-centric idea). 
