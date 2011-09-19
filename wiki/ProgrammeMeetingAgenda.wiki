@@ -1,0 +1,32 @@
+#summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
+
+= Introduction =
+
+*When*: Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  In summary, the following events are taking place:
+  * Mon (Nov 28) 10am-5pm = JISCgeo Programme Meeting (Geospatial Product Show & Tell) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
+  * Tues (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
+  * Tues (Nov 29) 7pm - 11pm = JISC Geospatial Innovation Awards Party (75ppl max)
+  * Wed (Nov 30) 10am-4pm = SpaceTime Workshop - this is a free and open event that anyone with a .AC.UK email address can attend.
+  * Wed (Nov 30) 11am-5pm = JISCgeo Product Review Panel Meeting - this is an invitation only event.
+  * Thurs (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. 
+
+
+*Where*: Ravensborough College in London (next to the Millenium Dome)
+
+https://docs.google.com/drawings/pub?id=1iJ0HSUQIGKwnLFVQfvNtdkdHKmjWzoWwmEESf1ixCwQ&w=960&h=720
+
+*Who*: This is an open event that anyone is welcome to attend, however this event is specifically for the set of projects that make up the JISCgeo Programme of Work and so the emphasis will be on the products they have produced via their projects.
+
+*What*: The JISCgeo Projects are made up of a dozen projects who have worked for one year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  
+
+
+
+
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
