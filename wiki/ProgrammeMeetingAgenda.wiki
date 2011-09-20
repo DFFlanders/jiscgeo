@@ -1,29 +1,59 @@
 #summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
+#labels event,PageType-ProgrammeDocumentation
 
 = Introduction =
 
 *When*: Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  In summary, the following events are taking place:
   * Mon (Nov 28) 10am-5pm = JISCgeo Programme Meeting (Geospatial Product Show & Tell) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
+    * Mon Night (Nov 29) 7pm - 11pm = JISC Geospatial Innovation Awards Party (75ppl max)
   * Tues (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
-  * Tues (Nov 29) 7pm - 11pm = JISC Geospatial Innovation Awards Party (75ppl max)
-  * Wed (Nov 30) 10am-4pm = SpaceTime Workshop - this is a free and open event that anyone with a .AC.UK email address can attend.
-  * Wed (Nov 30) 11am-5pm = JISCgeo Product Review Panel Meeting - this is an invitation only event.
-  * Thurs (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. 
+  * Wed (Nov 30) 10am-4pm = Space Time Workshop - this is a free and open event that anyone with a .AC.UK email address can attend. (30ppl max)
+  * Wed (Nov 30) 11am-5pm = JISCgeo Product Review Panel Meeting - this is an invitation only event. (15ppl max)
+  * Thurs (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max) 
 
 *Where*: Ravensborough College in London (next to the Millenium Dome). Tube Stop: North Greenwich (see below for picture).
 
-*Who*: This is an open event that anyone is welcome to attend, however this event is specifically for the set of projects that make up the JISCgeo Programme of Work and so the emphasis will be on the products they have produced via their projects.
+*Who*: This is an open event that anyone is welcome to attend, however this event is specifically for the set of projects that make up the JISCgeo Programme of Work and so the emphasis will be on the products they have produced via their projects and how they are usable for students, researchers, lecturers and other University and College staff.  Participants should have an understanding of technical development (have you participated in creating an iPhone App or wanted to?) and also some understanding of geospatial technologies and how they work (i.e. do you know what a KML file is?).
 
-*What*: The JISCgeo Projects are made up of a dozen projects who have worked for one year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  
+*What*: The JISCgeo Projects are made up of a dozen projects who have worked for one year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference".  
 
+= Agenda =
 
+== Monday 28th November ==
+Event Title: JISCgeo Programme Meeting Day 1
+  * Objectives of the Day:  Show and Tell what your project has achieved.
 
+Start: 10am / End: 5pm
 
+=== Mon Evening 28th Nov ===
+Location: Inside the Millennium Dome - Alphabet City Private Club
+  * Objective of the Evening: celebrate the delivery of your project product
 
+Start: 6pm / End: 11pm
 
-= Details =
+== Tuesday 29th November ==
+Event Title: jiscGEO Programme Meeting Day 2
+  * Objectives of the Day:
+    * Sustainability options, finding more funding
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Start: 
+
+== Wednesday 30th November ==
+Event Title: SpaceTime Workshop
+  * Objective of the Day: Discuss the temporal aspects of the Web.  How can we describe the Web's resources in terms of time so that the user can find a resource and know when (the where is implied) that the resources is associated with, be that single points in time (seconds) to expanses of time that are lossy (eras).
+
+Start: 10am / End: 4pm
+
+== Wednesday 30th of November ==
+_note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day_
+Event Title: JISCgeo Product Review Panel 
+
+Start: 11am / End: 5pm
+
+== Thursday 1 December ==
+_note: this is an invite only event_
+Event Title: Geospatial Infrastructure 2012-2015 Workshop
+  * Objective: to list the features and functions that users in the .ac.uk will need in the next three years.
+
+Start: 11am - 4pm
+
