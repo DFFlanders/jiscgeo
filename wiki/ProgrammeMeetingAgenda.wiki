@@ -4,10 +4,10 @@
 = Introduction =
 
 *When*: Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  In summary, the following events are taking place:
-  * Mon (Nov 28) 10am-5pm = JISCgeo Programme Meeting (Geospatial Product Show & Tell) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
+  * Mon (Nov 28) 10am-5pm = JISCgeo Programme Meeting (Geospatial Product Show & Tell) - this is a free and open event that anyone can attend. (75ppl max)
     * Mon Night (Nov 29) 7pm - 11pm = JISC Geospatial Innovation Awards Party (75ppl max)
-  * Tues (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone with a .AC.UK email address can attend. (75ppl max)
-  * Wed (Nov 30) 10am-4pm = Space Time Workshop - this is a free and open event that anyone with a .AC.UK email address can attend. (30ppl max)
+  * Tues (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone can attend. (75ppl max)
+  * Wed (Nov 30) 10am-4pm = Space Time Workshop - this is a free and open event that anyone can attend. (30ppl max)
   * Wed (Nov 30) 11am-5pm = JISCgeo Product Review Panel Meeting - this is an invitation only event. (15ppl max)
   * Thurs (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max) 
 
@@ -56,4 +56,3 @@ Event Title: Geospatial Infrastructure 2012-2015 Workshop
   * Objective: to list the features and functions that users in the .ac.uk will need in the next three years.
 
 Start: 11am - 4pm
-
