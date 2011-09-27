@@ -2,7 +2,11 @@
 #labels PageType-ProjectInstructions
 
 === Final Product Post === 
-This post if an advertisement for your final project product and outputs (DEADLINE: PROJECT END DATE)
-For this post you are required to address each one of the elements within the below template.
-    * *Template for Final Progress Post* (please copy and paste the below into the html of your final post and fill out accordingly.  Delete comments inside of HTML ignore tags, e.g. "<!-- lorum ipsum doler -->"):
-      * [THIS TEMPLATE WILL BE POSTED NEARER THE END OF YOUR PROJECTS BASED ON FEEDBACK FROM PROJECTS ON WHAT PRODUCTS NEED TO BE DELIVERED AND IN WHAT WAY TO THE RIGHT AUDIENCES - PLEASE EMAIL D.FLANDERS@JISC.AC.UK FOR LATEST TEMPLATE]
+This post if an advertisement for your final project product and outputs   
+  * DEADLINE FOR POSTING ON YOUR PROJECT BLOG: MIDNIGHT FRIDAY 11 NOVEMBER 2011
+    * You'll also need to add the link to of your final product post to the DoaP.
+  * The Review Panel will be meeting on Wednesday Nov 30th.
+    * Each Product Post will be reviewed by a minimum of three reviewers with expertise in: technical capability, usability design and institutional value.
+
+For this post you are required to address each one of the following:
+  * TBC
