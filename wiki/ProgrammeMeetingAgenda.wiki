@@ -1,7 +1,7 @@
 #summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
 #labels event,PageType-ProgrammeDocumentation
 
-The twitter hastag for this event is #jiscgeo
+The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscgeo
 
 = Event Overview =
 
@@ -30,37 +30,31 @@ Objectives of the Day:  Show and Tell the new innovative products that students,
   * 9am - coffee, tea.
   * 9.30am - Welcome and orientation.
   * 10.00am - Keynote: Julie Sweetkind-Singer (Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University)
+  * 11am - Future Scope: What Geospatial Technologies will do for Universities and Colleges in the Future.
 
 These sessions will be run in the style of an "unconference" whereby participants are urged to use the "rule of two feet" by wondering around the room to experience each of the different projects and their products.  
-  * 11am - Project product 'show & tell' (session 1)
+  * Noon - Project product 'show & tell' (session 1)
     * Table 1: 
     * Table 2: 
     * Table 3: 
     * Table 4: 
     * Table 5: 
     * Table 6: 
-  * Noon - Project 'show & tell' (session 2)
+  * 1pm - Project 'show & tell' (session 2)
     * Table 1: 
     * Table 2: 
     * Table 3: 
     * Table 4: 
     * Table 5: 
     * Table 6: 
-  * 1pm - Project 'show & tell' (session 3)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
-    * Table 4: 
-    * Table 5: 
-    * Table 6: 
-  * 2pm - Project 'show & tell' (session 4)
+  * 2pm - Project 'show & tell' (session 3)
     * Table 1: 
     * Table 2: 
     * Table 3: 
     * Table 4: 
     * Table 5: 
     * Table 6:  
-  * 3pm - Project 'show & tell' (session 5)
+  * 3pm - Project 'show & tell' (session 4)
     * Table 1: 
     * Table 2: 
     * Table 3: 
@@ -75,18 +69,26 @@ These sessions will be run in the style of an "unconference" whereby participant
     * Table 5: 
     * Table 6: 
   * 5pm - Wrap Up
+    * ballot vote for project of the year.
+    * Directions to dinner and awards venue.
  
 === Mon Evening 28th Nov ===
 Location: Inside the Millennium Dome - Alphabet City Private Club
   * Objective of the Evening: celebrate the delivery of your project product
+  * Start: 6pm / End: 11pm
 
-Start: 6pm / End: 11pm
+Awards to be given to the JISCgeo Community of Projects:
+  * Project Manager of the Year
+  * Project Developer of the Year
+  * Project Blog Post (single entry) of the Year
+  * Project Blog (overall) of the Year
+  * Project of the Year
 
 == Tuesday 29th November ==
 Event Title: jiscGEO Programme Meeting Day 2
 Rooms: 702/703
   * Objectives of the Day:
-    * Sustainability options, finding more funding
+    * Sustainability options, finding more funding, collaboration...
   * Start: 10am / End 4pm
 
   * 11am - Welcome and Orientation
