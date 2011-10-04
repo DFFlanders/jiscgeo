@@ -1,7 +1,9 @@
 #summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
 #labels event,PageType-ProgrammeDocumentation
 
-= Introduction =
+The twitter hastag for this event is #jiscgeo
+
+= Event Overview =
 
 *When*: Please note that there are several Geospatial related events happening the Week of November 28th - December 1st: so we would encourage you to pick and choose individual or groups of days you want to attend.  In summary, the following events are taking place:
   * Mon (Nov 28) 10am-5pm = JISCgeo Programme Meeting (Geospatial Product Show & Tell) - this is a free and open event that anyone can attend. 
