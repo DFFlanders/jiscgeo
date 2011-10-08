@@ -19,7 +19,7 @@ For this post(s) you are required to address each one of the following. Please n
   * A simple "elevator pitch" for your product directed at your user that explain what problem or what situation your product is going to solve for them, e.g. think argos-like catalogue description.
   * 
 
-Instructional Product Information:
+*Instructional Product Information*:
   * What is the use case for how the product is doing to be used, tell a real story for how this product has been used by your user and the real world effect it has had upon them.  Don't be afraid to talk about a real user (with their permission) and provide pictures for context.
   * Links to the actual product.  Depending on how mature your product is this could be to several different "things", for example:
     * If an application for downloading on a computer or phone, a link to where the app can be downloaded, e.g. perhaps create a nice button to click on to signify this is the product.
@@ -27,18 +27,18 @@ Instructional Product Information:
     * If an online web system
   * How will the user actually use this product, explain to them in a step-by-step way for how they actually can start using the product right now.  This could be in the form of a screencast or an ikea-like instructional manual or any other clear guidance for how your intended user can use this product right now.
 
-Contextual Product Information:
+*Contextual Product Information*:
   * Picture of Project Team (ideally it is a friendly picture of the whole team together with names under each face, [http://www.eecs.qmul.ac.uk/~simond/images/JISC-LinkedBrainz.jpg see this picture as an example]). NB this could just be a link to the 'about' section of your project blog.
   * Licensing of final product, this should include both creative commons and any applicable code licenses.  Also a declaration by the team for how their commitment to assuring the product is available for a minimum of three years beyond the life of the product for reuse by other Universities and Colleges.
   * JISC Logo and any other sponsorship logos (this should be on your blog nav as well).
 
-Table of Context for Project Blog:
+*Table of Context for Project Blog*:
   * The project should retrospectively go back and categorise all the project blog posts into a 'Table of Contents' so that the user can understand how categories of posts relate to the final product.
     * It is important to note that this Table of Contents will also act as the documentation that HEFCE requires to demonstrate proof of the project being completed as per their and JISC's Grant Funding guidelines.  Your JISC Programme Manager reserves the right to request additional documentation if the blog does not represent a full spectrum of information on the project that makes it easily understandable by other Universities and Colleges.  Projects should make every effort to present a clear and transparent insight into their project's progress.
     * At a minimum projects should have blog posts on the following: project plans, overall budget information, project progress updates, technical progress and insights, usability progress and insights, overall commentary for other work in area of geospatial innovation, etc.
     * Projects should have been briefed by their JISC Programme Manager at their SiteVisit on the status of their project blog. 
 
-Tags/Labels for the Final Product Post:
+*Tags/Labels for the Final Product Post*:
   * You should add the following tags/labels to the final product post, if you decide to split up the final product post into a couple of sequential posts (1of3 etc), please make sure to add the appropriate label/tag per post.
   * JISCgeo JISCdi JISC Innovation Product ProductDescription FinalProductPost TableOfContents ToC 
 
