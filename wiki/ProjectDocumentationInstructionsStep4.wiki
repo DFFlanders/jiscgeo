@@ -12,7 +12,7 @@ This post if an advertisement for your final project product and outputs
 == Required Elements to Address for Your Final Product Post ==
 For this post(s) you are required to address each one of the following. Please note that while your product post should contain information about each one of the following elements it should do so in the order and format that you think will best market your product - this should be first and foremost an advertisement that is interesting, or rather an "infomercial" that says a lot about your product but in an interesting way).
 
-Introductory Product Information:
+*Introductory Product Information*:
   * The Name of your Product (note: this can be different from the name of your project, especially if the name is more understandable/interesting for the user that the product is intended for)
   * The Strap Line for Your Product, e.g. "every little helps", "I'm loving it", "just do it", etc.
   * The primary University or College user of your product, e.g. teacher, student, researcher, librarian, etc.
