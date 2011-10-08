@@ -42,7 +42,7 @@ For this post(s) you are required to address each one of the following. Please n
 
 *Tags/Labels for the Final Product Post*:
   * You should add the following tags/labels to the final product post, if you decide to split up the final product post into a couple of sequential posts (1of3 etc), please make sure to add the appropriate label/tag per post.
-  * JISCgeo JISCdi JISC Innovation Product ProductDescription FinalProductPost TableOfContents ToC 
+  * JICS JISCgeo JISCdi INF11 DigitalInfrastructure Innovation Product ProductDescription FinalProductPost TableOfContents ToC 
 
 == Examples of previous 'Final Product Posts' ==
 Please note these product posts are from other JISC projects which were addressing innovation topics that were different from the topic of Geospatial, though I have tried to provide a range of examples to demonstrate different methods for encouraging engaging 'final product posts' for different types of 'products':
