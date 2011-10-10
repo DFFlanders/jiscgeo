@@ -15,9 +15,9 @@ The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jis
 
 *Where*: Ravensborough College in London (next to the Millenium Dome). Tube Stop: North Greenwich (see below for picture).
 
-*Who*: This is an open event that anyone is welcome to attend, however this event is specifically for the set of projects that make up the JISCgeo Programme of work and so the emphasis will be on the products they have produced via their projects and how they will improve the use of geospatial technologies for students, researchers, and lecturers.  Participants should have an understanding of understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
+*Who*: This is an open event that anyone is welcome to attend, however this event is specifically for the set of projects that make up the JISCgeo Programme of work and so the emphasis will be on the products they have produced via their year long projects and how they will improve the use of geospatial technologies for students, researchers, and lecturers.  Participants should have an understanding of understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
 
-*What*: The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference".  
+*What*: The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference" to encourage networking and showcase moments.
 
 To Register for this Event, please sign up at this registration form: https://www.eventsforce.net/jisc/147/home  
 
@@ -30,27 +30,28 @@ Objectives of the Day:  Show and Tell the new innovative products that students,
   * 9am - coffee, tea.
   * 9.30am - Welcome and orientation.
   * 10.00am - Keynote: Julie Sweetkind-Singer (Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University)
-  * 11am - Future Scope: What Geospatial Technologies will do for Universities and Colleges in the Future.
+  * 11am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
+  * 
 
-These sessions will be run in the style of an "unconference" whereby participants are urged to use the "rule of two feet" by wondering around the room to experience each of the different projects and their products.  
-  * Noon - Project product 'show & tell' (session 1)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
+These sessions will be run in the style of an "unconference" whereby participants are urged to use the "rule of two feet" by wondering around the room to experience each of the different projects and their products. 
+  * Noon - 2pm Project product 'show & tell' (session 1)
+    * Table 1: #GemmaProject show & tell of their _____________ product for students/researchers/learners
+    * Table 2: #NatureLocator
+    * Table 3: #e3viz
     * Table 4: 
-    * Table 5: 
-    * Table 6: 
+    * Table 5: #jiscG3
+    * Table 6: #GeoSciTeach
   * 1pm - Project 'show & tell' (session 2)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
-    * Table 4: 
-    * Table 5: 
-    * Table 6: 
+    * Table 1: #Wisard project show and tell of their...
+    * Table 2: #GeoCrimeData
+    * Table 3: #xEvents
+    * Table 4: #Halogen2
+    * Table 5: #EloGeo
+    * Table 6: #geoUKDA
   * 2pm - Project 'show & tell' (session 3)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
+    * Table 1: #Pelagios
+    * Table 2: #iGibs
+    * Table 3: #jiscGECO
     * Table 4: 
     * Table 5: 
     * Table 6:  
@@ -73,7 +74,7 @@ These sessions will be run in the style of an "unconference" whereby participant
     * Directions to dinner and awards venue.
  
 === Mon Evening 28th Nov ===
-Location: Inside the Millennium Dome - Alphabet City Private Club
+Location: Inside the Millennium Dome - Alphabet City
   * Objective of the Evening: celebrate the delivery of your project product
   * Start: 6pm / End: 11pm
 
@@ -84,15 +85,17 @@ Awards to be given to the JISCgeo Community of Projects:
   * Project Blog (overall) of the Year
   * Project of the Year
 
+NB: The "Project Product of the Year" (the penultimate award) will be announced after the marks from the review panel are agreed.
+
 == Tuesday 29th November ==
 Event Title: jiscGEO Programme Meeting Day 2
 Rooms: 702/703
   * Objectives of the Day:
-    * Sustainability options, finding more funding, collaboration...
+    * Sustainability options, finding more funding, new projects, collaboration...
   * Start: 10am / End 4pm
 
   * 11am - Welcome and Orientation
-  * 11.30am - Keynote: 
+  * 11.30am - Keynote: Peter Elias (ESRC), Future pathways for geosaptial technologies
   * 
 
 
