@@ -1,7 +1,7 @@
 #summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
 #labels event,PageType-ProgrammeDocumentation
 
-The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscgeo
+The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscGEO
 
 = Event Overview =
 
@@ -33,26 +33,26 @@ Objectives of the Day:  Show and Tell the new innovative products that students,
   * 11am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
   * 
 
-These sessions will be run in the style of an "unconference" whereby participants are urged to use the "rule of two feet" by wondering around the room to experience each of the different projects and their products. 
+These sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as their are demonstrated (a kind of mini trade, show if you will). 
   * Noon - 2pm Project product 'show & tell' (session 1)
-    * Table 1: #GemmaProject show & tell of their _____________ product for students/researchers/learners
-    * Table 2: #NatureLocator
-    * Table 3: #e3viz
+    * Table 1: GemmaProject show & tell of their _____________ product for students/researchers/learners
+    * Table 2: NatureLocator
+    * Table 3: e3viz
     * Table 4: 
-    * Table 5: #jiscG3
-    * Table 6: #GeoSciTeach
+    * Table 5: jiscG3
+    * Table 6: GeoSciTeach
   * 1pm - Project 'show & tell' (session 2)
-    * Table 1: #Wisard project show and tell of their...
-    * Table 2: #GeoCrimeData
-    * Table 3: #xEvents
-    * Table 4: #Halogen2
-    * Table 5: #EloGeo
-    * Table 6: #geoUKDA
+    * Table 1: Wisard project show and tell of their...
+    * Table 2: GeoCrimeData
+    * Table 3: xEvents
+    * Table 4: Halogen2
+    * Table 5: EloGeo
+    * Table 6: geoUKDA
   * 2pm - Project 'show & tell' (session 3)
-    * Table 1: #Pelagios
-    * Table 2: #iGibs
-    * Table 3: #jiscGECO
-    * Table 4: 
+    * Table 1: Pelagios
+    * Table 2: iGibs
+    * Table 3: jiscGECO
+    * Table 4: HistoryPin
     * Table 5: 
     * Table 6:  
   * 3pm - Project 'show & tell' (session 4)
@@ -75,7 +75,7 @@ These sessions will be run in the style of an "unconference" whereby participant
  
 === Mon Evening 28th Nov ===
 Location: Inside the Millennium Dome - Alphabet City
-  * Objective of the Evening: celebrate the delivery of your project product
+  * Objective of the Evening: celebrate the delivery of new geospatial tools and tech for Universities and Colleges!
   * Start: 6pm / End: 11pm
 
 Awards to be given to the JISCgeo Community of Projects:
