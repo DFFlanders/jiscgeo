@@ -1,4 +1,4 @@
-#summary This page lists the agenda for the Programme Meeting that will take place on Mon 28th & Tues the 29th of Nov.
+#summary This page lists the agenda for the geospatial tools and technologies events that will take place on Monday 28th & Tuesday the 29th of November 2011 in London.
 #labels event,PageType-ProgrammeDocumentation
 
 The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscGEO
@@ -6,7 +6,7 @@ The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jis
 = Geospatial Tools & Tech Events Overview =
 
 == When ==
-Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  The main event is happening on the first day with the awards party happening that Monday evening.  
+Please note that there are several Geospatial related events happening the Week of November 28th - December 1st (2011).  The main event is happening on the first day with the awards party happening that Monday evening.  
 
 In summary, the following events are taking place (please see below for detailed agenda):
   * *Monday* (Nov 28) 10am-5pm: JISCgeo Innovation Unconference (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend. 
@@ -32,9 +32,9 @@ To Register for this Event, please sign up at this registration form: https://ww
 This agenda is ALIVE! and will change based on the activities and participation of the people on the day, so please don't waste the paper by printing it (this LIVE agenda will be projected at the venue throughout the day)
 
 == Monday 28th November ==
-Event Title: JISCgeo Innovation Unconference (Day 1)
+Event Day Title: JISCgeo Innovation Unconference (Day 1)
 Rooms: 702/703
-Time: Start 9am / End 5.30pm (not including awards party)
+Time: Start 9am / End 5.30pm (not including evening awards party)
 Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
 
   * 9.30am - Welcome and orientation.
@@ -47,29 +47,29 @@ _NOTE: The afternoon sessions will be run in the style of an [http://en.wikipedi
 
 Tea and Coffee will be available on tap in the 'Kitchenette area' throughout the afternoon - have you had your "water cooler moment" yet?
 
-  * 1pm to 2.30pm - Unconference Session no.1
-    * Table 1: The Gemma Project (#gemmaproject), see: http://gemma.blogs.casa.ucl.ac.uk/ 
-    * Table 2: The Leaf Watch Project (#NaturelLocator), see: http://naturelocator.ilrt.bris.ac.uk/
-    * Table 3: 
-    * Table 4: e3viz
-    * Table 5: jiscG3
-    * Table 6: GeoSciTeach
+  * 1pm to 2.30pm - Unconference Session no.1 
+    * Table 1: The Gemma Project (#gemmaProject), see: http://gemma.blogs.casa.ucl.ac.uk/ 
+    * Table 2: The Leaf Watch Project (#naturelLocator), see: http://naturelocator.ilrt.bris.ac.uk/
+    * Table 3: The GeoSciTeach Project (#geoSciTeach), see: http://geosciteach.wordpress.com 
+    * Table 4: The G3 Project (#jiscG3), see: http://jiscg3.blogspot.com/
+    * Table 5: The ELOgeo Project (#elogeo), see: http://elogeo.blogspot.com 
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
   * 2.30pm to 4pm - Unconference Session no.2
-    * Table 1: Wisard project show and tell of their...
-    * Table 2: GeoCrimeData
-    * Table 3: xEvents
-    * Table 4: Halogen2
-    * Table 5: EloGeo
-    * Table 6: geoUKDA
+    * Table 1: The Pelagios Project (#pelagios), see: http://pelagios-project.blogspot.com/
+    * Table 2: The GeoCrimeData (#geoCrimeData), see: http://geocrimedata.blogspot.com/
+    * Table 3: The Halogen Project (#halogen2), see: http://leicesterhalogen2.blogspot.com/
+    * Table 4: The U-Geo Project (#geoUKDA), see: http://geoukda.wordpress.com/ 
+    * Table 5: The iGibs Project (#iGibs), see: http://igibs.blogs.edina.ac.uk/
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
   * 4pm to 5.30pm - Unconference Session no.3
-    * Table 1: Pelagios
-    * Table 2: iGibs
-    * Table 3: jiscGECO
-    * Table 4: HistoryPin
-    * Table 5: 
-    * Table 6:  
+    * Table 1: The xEvents Project (#xEvents), see: http://xevents-blog.sas.ac.uk/
+    * Table 2: The STEEV Project (#e3viz) http://steev.blogs.edina.ac.uk/
+    * Table 3: Wisard, see: http://www.wiserd.ac.uk/
+    * Table 4: HistoryPin, see: http://www.historypin.com/
+    * Table 5: Advice on Inspire (#jiscGECO), see: http://geco.blogs.edina.ac.uk/category/inspire/
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
   * 5.30pm - Wrap Up
-    * ballot vote for project of the year.
+    * Ballot vote for 'Geospatial Tech/Tool Project of the Year'.
     * Directions to dinner and awards venue.
  
 === Evening of Mon 28th Nov ===
@@ -87,16 +87,55 @@ Awards to be given to the JISCgeo Community of Projects:
 _NB: The "Project *Product* of the Year" (the penultimate award) will be announced in the following weeks after the event once the marking panel has agreed their marks, stay tuned to the [http://geco.blogs.edina.ac.uk/ #jiscGECO blog] for the announcement.
 
 == Tuesday 29th November ==
-Event Title: jiscGEO Programme Meeting Day 2
-Rooms: 702/703
-  * Objectives of the Day:
-    * Sustainability options, finding more funding, new projects, collaboration...
-  * Start: 10am / End 4pm
+*Event Day Title*: JISCgeo Innovation Unconference (Day 2)
+*Objective of the Day*: The Future of Geospatial
+*Rooms*: 702/703
+*Time*: Start 10.30am / End 4pm
+  
+NOTE: The space will be open with tea and coffee available from 9am onwards for anyone who needs to use the wifi, do email, personal tasks, etc.
+  * 11am - Welcome and Orientation: How to participate in this version of an Unconference.
 
-  * 11am - Welcome and Orientation
-  * 11.30am - Keynote: Peter Elias (ESRC), Future pathways for geosaptial technologies
-  * 
+Unconference Session no.1: 
+  * 11.30am to 12.30 - Presentation on Training Non-GIS Experts in the use of Geospatial Tools and Technologies at Stanford University by Patricia Carbajales & Nicole Coleman
+  * 12.30 to 1pm - Breakout Discussion Groups based on Presentation and its Q&A
+    * Table 1 Topic: 
+      * Scribe:
+    * Table 2 Topic:
+      * Scribe: 
+    * Table 3 Topic:
+      * Scribe: 
+    * Table 4 Topic:
+      * Scribe: 
 
+Lunch: 
+  * 1pm to 1.30pm - Serving...
+
+Unconference Session no.2: 
+  * 1.30 to 2.30pm - Presentation on ???
+  * 2.30pm to 3pm - Breakout Discussion Groups
+    * Table 1 Topic: 
+      * Scribe:
+    * Table 2 Topic:
+      * Scribe: 
+    * Table 3 Topic:
+      * Scribe: 
+    * Table 4 Topic:
+      * Scribe: 
+
+Unconference Session no.3: 
+  * 3pm to 3.30pm - Presentation on 'The Myth that is Project Sustainability' and 'Future Strategic Funding Areas for JISC' by David F. Flanders (JISC Programme Manager)
+  * 3.30pm to 4pm - Breakout Discussion Groups
+    * Table 1 Topic: 
+      * Scribe:
+    * Table 2 Topic:
+      * Scribe: 
+    * Table 3 Topic:
+      * Scribe: 
+    * Table 4 Topic:
+      * Scribe: 
+
+Unconference Wrap-up and Close (for those who are staying on for one of the following events on Wednesday or Thursday):
+  *  4pm to 4.15pm - So what is happening the next two days on Wednesday Nov 30th and Thursday Dec 1st?
 
 == Wednesday 30th November ==
 Event Title: SpaceTime Workshop
