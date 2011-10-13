@@ -50,8 +50,8 @@ Tea and Coffee will be available on tap in the 'Kitchenette area' throughout the
   * 1pm to 2.30pm - Unconference Session no.1
     * Table 1: The Gemma Project (#gemmaproject), see: http://gemma.blogs.casa.ucl.ac.uk/ 
     * Table 2: The Leaf Watch Project (#NaturelLocator), see: http://naturelocator.ilrt.bris.ac.uk/
-    * Table 3: e3viz
-    * Table 4: 
+    * Table 3: 
+    * Table 4: e3viz
     * Table 5: jiscG3
     * Table 6: GeoSciTeach
   * 2.30pm to 4pm - Unconference Session no.2
