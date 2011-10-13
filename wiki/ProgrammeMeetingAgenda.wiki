@@ -3,7 +3,7 @@
 
 The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscGEO
 
-= Event Overview =
+= Geospatial Tools & Tech Events Overview =
 
 == When ==
 Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  The main event is happening on the first day with the awards party happening that Monday evening.  
