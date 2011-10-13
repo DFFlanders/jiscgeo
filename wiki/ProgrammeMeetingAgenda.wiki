@@ -39,6 +39,7 @@ This agenda is ALIVE! and will change based on the activities and participation 
 == Monday 28th November ==
 Event Title: JISCgeo Innovation Unconference (Day 1)
 Rooms: 702/703
+Time: Start 9am / End 5.30pm (not including awards party)
 Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
 
   * 9.30am - Welcome and orientation.
@@ -47,36 +48,38 @@ Objectives for the Day:  Launch and demonstrate the new innovative products that
   * 11.30am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
   * Noon - Lunch and Networking
 
-_NOTE: The afternoon sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as their are demonstrated (a kind of mini trade show, if you will)._
+_NOTE: The afternoon sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as they are demonstrated (a kind of mini 'trade show', if you will)._
 
-  * 1pm - 2.30pm Project product 'show & tell' (session 1)
-    * Table 1: GemmaProject show & tell of their _____________ product for students/researchers/learners
-    * Table 2: NatureLocator
+Tea and Coffee will be available on tap in the 'Kitchenette area' throughout the afternoon - have you had your "water cooler moment" yet?
+
+  * 1pm to 2.30pm - Unconference Session no.1
+    * Table 1: The Gemma Project (#gemmaproject), see: http://gemma.blogs.casa.ucl.ac.uk/ 
+    * Table 2: The Leaf Watch Project (#NaturelLocator), see: http://naturelocator.ilrt.bris.ac.uk/
     * Table 3: e3viz
     * Table 4: 
     * Table 5: jiscG3
     * Table 6: GeoSciTeach
-  * 2.30pm - 4pm - Project 'show & tell' (session 2)
+  * 2.30pm to 4pm - Unconference Session no.2
     * Table 1: Wisard project show and tell of their...
     * Table 2: GeoCrimeData
     * Table 3: xEvents
     * Table 4: Halogen2
     * Table 5: EloGeo
     * Table 6: geoUKDA
-  * 4pm - 5.30pm - Project 'show & tell' (session 3)
+  * 4pm to 5.30pm - Unconference Session no.3
     * Table 1: Pelagios
     * Table 2: iGibs
     * Table 3: jiscGECO
     * Table 4: HistoryPin
     * Table 5: 
     * Table 6:  
-  * 5pm - Wrap Up
+  * 5.30pm - Wrap Up
     * ballot vote for project of the year.
     * Directions to dinner and awards venue.
  
-=== Mon Evening 28th Nov ===
+=== Evening of Mon 28th Nov ===
 Location: Inside the Millennium Dome - Alphabet City
-  * Objective of the Evening: celebrate the delivery of new geospatial tools and tech for Universities and Colleges!
+  * Objective of the Evening: celebrate the delivery of new innovative geospatial tools and tech for Universities and Colleges!
   * Start: 6pm / End: 11pm
 
 Awards to be given to the JISCgeo Community of Projects:
@@ -86,7 +89,7 @@ Awards to be given to the JISCgeo Community of Projects:
   * Project Blog (overall) of the Year
   * Project of the Year
 
-NB: The "Project Product of the Year" (the penultimate award) will be announced after the marks from the review panel are agreed.
+_NB: The "Project *Product* of the Year" (the penultimate award) will be announced in the following weeks after the event once the marking panel has agreed their marks, stay tuned to the [http://geco.blogs.edina.ac.uk/ #jiscGECO blog] for the announcement.
 
 == Tuesday 29th November ==
 Event Title: jiscGEO Programme Meeting Day 2
