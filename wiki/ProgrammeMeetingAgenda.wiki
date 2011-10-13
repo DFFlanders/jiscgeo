@@ -5,7 +5,7 @@ The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jis
 
 = Event Overview =
 
-=== When ===
+== When ==
 Please note that there are several Geospatial related events happening the Week of November 28th - December 1st.  The main event is happening on the first day with the awards party happening that Monday evening.  
 
 In summary, the following events are taking place (please see below for detailed agenda):
@@ -21,13 +21,16 @@ In summary, the following events are taking place (please see below for detailed
 
 *Thursday* (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max) 
 
-=== Where ===
+== Where ==
 Ravensborough College in London (next to the Millenium Dome). Tube Stop: North Greenwich (see below for picture).
 
-=== Who === This is an open event that anyone is welcome to attend, however this event is specifically for the set of innovation projects that make up the "JISCgeo Programme" of work and so the emphasis will be on the new geospatial products they have produced via their year long projects and how they will improve the use of these tools and technologies for students, researchers, and lecturers.  Participants should have (at a minimum) an understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
+== Who ==
+This is an open event that anyone is welcome to attend, however this event is specifically for the set of innovation projects that make up the "JISCgeo Programme" of work and so the emphasis will be on the new geospatial products they have produced via their year long projects and how they will improve the use of these tools and technologies for students, researchers, and lecturers.  Participants should have (at a minimum) an understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
 
-*What*: The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference" to encourage networking and showcase products.
+== What == 
+The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference" to encourage networking and showcase products.
 
+== Register ==
 To Register for this Event, please sign up at this registration form: https://www.eventsforce.net/jisc/147/home  
 
 = Agenda =
