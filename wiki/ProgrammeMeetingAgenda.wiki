@@ -29,6 +29,7 @@ The JISCgeo Projects are made up of a dozen projects who have worked for the pas
 To Register for this Event, please sign up at this registration form: https://www.eventsforce.net/jisc/147/home  
 
 ----
+----
 
 = Detailed (Live) Agenda =
 This agenda is ALIVE! and will change based on the activities and participation of the people on the day, so please don't waste the paper by printing it (this LIVE agenda will be projected at the venue throughout the day)
@@ -88,6 +89,12 @@ Awards to be given to the JISCgeo Community of Projects:
 
 _NB: The "Project *Product* of the Year" (the penultimate award) will be announced in the following weeks after the event once the marking panel has agreed their marks, stay tuned to the [http://geco.blogs.edina.ac.uk/ #jiscGECO blog] for the announcement.
 
+
+----
+----
+
+
+
 == Tuesday 29th November ==
 *Event Day Title*: JISCgeo Innovation Unconference (Day 2)
 *Objective of the Day*: The Future of Geospatial
@@ -139,17 +146,35 @@ Unconference Session no.3:
 Unconference Wrap-up and Close (for those who are staying on for one of the following events on Wednesday or Thursday):
   *  4pm to 4.15pm - So what is happening the next two days on Wednesday Nov 30th and Thursday Dec 1st?
 
+
+----
+----
+
+
+
 == Wednesday 30th November ==
 Event Title: SpaceTime Workshop
   * Objective of the Day: Discuss the temporal aspects of the Web.  How can we describe the Web's resources in terms of time so that the user can find a resource and know when (the where is implied) that the resources is associated with, be that single points in time (seconds) to expanses of time that are lossy (eras).
 
 Start: 10am / End: 4pm
 
+
+----
+----
+
+
+
 == Wednesday 30th of November ==
 _note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day_
 Event Title: JISCgeo Product Review Panel 
 
 Start: 11am / End: 5pm
+
+
+----
+----
+
+
 
 == Thursday 1 December ==
 _note: this is an invite only event_
