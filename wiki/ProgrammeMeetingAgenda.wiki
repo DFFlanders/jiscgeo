@@ -33,54 +33,43 @@ The JISCgeo Projects are made up of a dozen projects who have worked for the pas
 == Register ==
 To Register for this Event, please sign up at this registration form: https://www.eventsforce.net/jisc/147/home  
 
-= Agenda =
+= Detailed (Live) Agenda =
+This agenda is ALIVE! and will change based on the activities and participation of the people on the day, so please don't waste the paper by printing it (this LIVE agenda will be projected at the venue throughout the day)
 
 == Monday 28th November ==
-Event Title: JISCgeo Programme Meeting Day 1
+Event Title: JISCgeo Innovation Unconference (Day 1)
 Rooms: 702/703
-Objectives of the Day:  Show and Tell the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
-  * 9am - coffee, tea.
+Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
+
   * 9.30am - Welcome and orientation.
   * 10.00am - Keynote: Julie Sweetkind-Singer (Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University)
-  * 11am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
-  * 
+  * 11am - Tea / Coffee
+  * 11.30am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
+  * Noon - Lunch and Networking
 
-These sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as their are demonstrated (a kind of mini trade, show if you will). 
-  * Noon - 2pm Project product 'show & tell' (session 1)
+_NOTE: The afternoon sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as their are demonstrated (a kind of mini trade show, if you will)._
+
+  * 1pm - 2.30pm Project product 'show & tell' (session 1)
     * Table 1: GemmaProject show & tell of their _____________ product for students/researchers/learners
     * Table 2: NatureLocator
     * Table 3: e3viz
     * Table 4: 
     * Table 5: jiscG3
     * Table 6: GeoSciTeach
-  * 1pm - Project 'show & tell' (session 2)
+  * 2.30pm - 4pm - Project 'show & tell' (session 2)
     * Table 1: Wisard project show and tell of their...
     * Table 2: GeoCrimeData
     * Table 3: xEvents
     * Table 4: Halogen2
     * Table 5: EloGeo
     * Table 6: geoUKDA
-  * 2pm - Project 'show & tell' (session 3)
+  * 4pm - 5.30pm - Project 'show & tell' (session 3)
     * Table 1: Pelagios
     * Table 2: iGibs
     * Table 3: jiscGECO
     * Table 4: HistoryPin
     * Table 5: 
     * Table 6:  
-  * 3pm - Project 'show & tell' (session 4)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
-    * Table 4: 
-    * Table 5: 
-    * Table 6: 
-  * 4pm - Project 'show & tell' (session 5)
-    * Table 1: 
-    * Table 2: 
-    * Table 3: 
-    * Table 4: 
-    * Table 5: 
-    * Table 6: 
   * 5pm - Wrap Up
     * ballot vote for project of the year.
     * Directions to dinner and awards venue.
