@@ -151,15 +151,45 @@ Unconference Wrap-up and Close (for those who are staying on for one of the foll
 
 ----
 ----
-
-
-
 == Wednesday 30th November ==
+----
 First NeDiMAH workshop on Space and Time in the Digital Humanities in collaboration with JISC.
-  * Start: 10am / End: 4pm
+  * Start: 9.30am / End: 4pm
   * Event Title: "Place, Period, Event - approaches to Space and Time"
   * Objective of the Day: Discuss the temporal aspects of the Web.  How can we describe the Web's resources in terms of time so that the user can find a resource and know when (the where is implied) that the resources is associated with, be that single points in time (seconds) to expanses of time that are lossy (eras).
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Although not a requirement, services that provides such conceptual frameworks often provide additional information, such as alternative toponyms, corodinates and categorical information. Topics will include the creation, maintenance and application of spatial and temporal ontologies, gazetteers and other conceptual schemes, including. Papers comparing and contrasting the differing requirements of spatial and temporal information are especially welcome.  The workshop will be held in conjunction with the jiscGEO programme workshop (28-29 November) and the Pelagios2 Workshop (1st December) at the same venue, and participants are warmly invited to attend all of them.
+
+----
+9am - Tea/Coffee 
+  * 9.30am - Orientation and Introductions
+
+Session A on the "Place" of SpaceTime
+  * 10am - first talk on ‘place’
+  * 10.10 - second talk on ‘place’
+  * 10.20 - third talk on ‘place’
+  * 10.30-11.30 - ‘place’ panel
+
+11.30 - 11.50 COFFEE / TEA
+
+Session B on the "Period" of SpaceTime
+  * 11.50 - first talk ‘period’
+  * 12.00 - second talk ‘period’
+  * 12.10 - third talk ‘period’
+  * 12.20-1pm: Panel on "Period"
+
+1pm - 2pm  LUNCH
+
+Session C on the "Event" of SpaceTime
+  * 2pm - first talk event
+  * 2.10 - second talk event
+  * 2.20 - third talk event
+  * 2.30 - 3pm panel
+
+3pm - 3.30 - COFFEE / TEA
+
+Session D - Forum Discussion on Space Time
+  * 3.30 - 4pm - Final sentence from each of the panellists
+  * 4pm to 5pm 5pm - Open Forum Discussion on Space Time
 
 ----
 ----
