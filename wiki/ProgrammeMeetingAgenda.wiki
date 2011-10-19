@@ -1,7 +1,7 @@
 #summary This page lists the agenda for the geospatial tools and technologies events that will take place on Monday 28th & Tuesday the 29th of November 2011 in London.
 #labels event,PageType-ProgrammeDocumentation
 
-The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jiscGEO
+The [http://twitter.com/#!/search/jiscgeo twitter hashtag] for this event is #jiscGEO
 
 = Geospatial Tools & Tech Events Overview =
 
