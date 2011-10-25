@@ -9,7 +9,7 @@ The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jis
 Please note that there are several Geospatial related events happening the Week of November 28th - December 1st (2011).  The main event is happening on the first day with the awards party happening that Monday evening.  
 
 In summary, the following events are taking place (please see below for detailed agenda):
-  * *Monday* (Nov 28) 10am-5pm: JISCgeo Innovation Unconference (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend. 
+  * *Monday* (Nov 28) 10am-5pm: JISCgeo Innovation Programme Meeting (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend. 
     * Mon Night (Nov 28) 7pm - 11pm = JISC Geospatial Innovation Awards Party 
   * *Tuesday* (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone can attend. 
   * *Wednesday* (Nov 30) 10am-4pm = Space Time Workshop - this is a free and open event that anyone can attend. (30ppl max)
@@ -155,23 +155,25 @@ Unconference Wrap-up and Close (for those who are staying on for one of the foll
 
 
 == Wednesday 30th November ==
-First NeDiMAH Workshop on Space and Time in the Digital Humanities in collaboration with JISC.
+Spacetime Workshop in the Digital Humanities in collaboration hosted by Nedimah and JISC.
   * Start: 9.30am / End: 5pm
   * Event Title: "Place, Period, Event - Entity-based Approaches to Space and Time"
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
 
 Speakers TBC
 
-----
-----
 
+----
+----
 
 
 == Wednesday 30th of November ==
-_note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day_
+jiscGEO Product Review Panel
+_note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day (Wed)
+
 Event Title: JISCgeo Product Review Panel 
 
-Start: 11am / End: 5pm
+Start: 10am - 2pm
 
 
 ----
