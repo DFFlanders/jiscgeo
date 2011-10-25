@@ -37,7 +37,8 @@ This agenda is ALIVE! and will change based on the activities and participation 
 
 
 == Monday 28th November ==
-Event Day Title: JISCgeo Innovation Unconference (Day 1)
+Event Day Title: JISCgeo Programme Meeting
+  * Event Type: Unconference (Day 1)
   * Rooms: 702/703
   * Time: Start 9am / End 5.30pm (not including evening awards party)
   * Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
@@ -98,7 +99,8 @@ _NB: The "Project *Product* of the Year" (the penultimate award) will be announc
 
 
 == Tuesday 29th November ==
-  * *Event Day Title*: JISCgeo Innovation Unconference (Day 2)
+  * *Event Day Title*: JISCgeo Programme Meeting
+  * Event type: Unconference (Day 2)
   * *Objective of the Day*: The Future of Geospatial
   * *Rooms*: 702/703
   * *Time*: Start 10.30am / End 4pm
@@ -155,9 +157,9 @@ Unconference Wrap-up and Close (for those who are staying on for one of the foll
 
 
 == Wednesday 30th November ==
-Spacetime Workshop in the Digital Humanities in collaboration hosted by Nedimah and JISC.
+Spacetime Workshop, hosted by Nedimah and JISC.
   * Start: 9.30am / End: 5pm
-  * Event Title: "Place, Period, Event - Entity-based Approaches to Space and Time"
+  * Event Themes: "Place, Period, Event - Entity-based Approaches to Space and Time"
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
 
 Speakers TBC
@@ -168,20 +170,17 @@ Speakers TBC
 
 
 == Wednesday 30th of November ==
-*jiscGEO Product Review Panel*
-
-_note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day (Wed)
-
-Event Title: JISCgeo Product Review Panel 
-
-Start: 10am - 2pm
+*jiscGEO Product Review Panel* _note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day (see above)_
+   * Start/End Times: 10am-2pm (followed by a sit down lunch at Chiquitos)
+   * Description: Each #jiscGEO project has produced a final product that will be reviewed by a group of panelists.  Each product will be reviewed by three types of panellists: a.) usability expert looking for ease of usability and likelihood of reuse, b.) technical expert reviewing feasibility for improvements by other developers, c.) business expert evaluating the value for Universities and Colleges.  Each of these experts will be asked to provide a recommendation for how mature the product is and the likelihood of the product being further advanced.  JISC will use these recommendations to decide if further follow-on funding would be of value so project can complete their product and deliver it to the wider Universities and Colleges sector for reuse.  
+  * Disclaimer: It is important to note that this review is explicitly looking for the capability of reuse for a single product and is not determining the actual value that the project on the whole has brought to the sector or the host institution.  Most JISC projects are of greatest value to the institution because of their capabilities of improving skills of staff which in turn enable the institution's capabilities.  It is hoped that any and all feedback provided from the panel will be seen in the light in which it is given, which is to help provide a testing mechanism for the project.
 
 
 ----
 ----
 
 == Thursday 1st of December ==
-Pelagios2 Project event (this is a seperate event to the jiscGEO Activities (though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO).  Accordingly, if you want to attend this event you will need to register seperatley at this this link:
+Pelagios2 Project event (this is a seperate event to the jiscGEO Activities - though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO programme).  Accordingly, if you want to attend this event you will need to register seperatley at this link:
 
 Start/Finish Times: 
 
