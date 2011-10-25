@@ -168,7 +168,8 @@ Speakers TBC
 
 
 == Wednesday 30th of November ==
-jiscGEO Product Review Panel
+*jiscGEO Product Review Panel*
+
 _note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day (Wed)
 
 Event Title: JISCgeo Product Review Panel 
@@ -179,6 +180,13 @@ Start: 10am - 2pm
 ----
 ----
 
+== Thursday 1st of December ==
+Pelagios2 Project event (this is a seperate event to the jiscGEO Activities (though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO).  Accordingly, if you want to attend this event you will need to register seperatley at this this link:
+
+Start/Finish Times: 
+
+
+----
 
 
 == Thursday 1 December ==
@@ -187,3 +195,10 @@ Event Title: Geospatial Infrastructure 2012-2015 Workshop
   * Objective: to list the features and functions that users in the .ac.uk will need in the next three years.
 
 Start: 11am - 4pm
+
+----
+----
+
+== Friday 2 December ==
+Pelagios Project Team meeting
+note this is an invite only event, please contact leif if interested in participating...
