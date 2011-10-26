@@ -182,9 +182,29 @@ Speakers TBC
 ----
 
 == Thursday 1st of December ==
-Pelagios2 Project event (this is a seperate event to the jiscGEO Activities - though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO programme).  Accordingly, if you want to attend this event you will need to register seperatley at this link:
+*Pelagios2 Project Workshop* (this is a seperate event to the jiscGEO Activities - though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO programme).  Accordingly, if you want to attend this event you will need to register separately at this link:
 
-Start/Finish Times: 
+The Pelagios2 workshop will focus on the practical aspects of linking together open Humanities resources by means of shared entity URIs. It will take the form of hands-on group work. The ultimate goal of the workshop is to:
+   * Develop scenarios for interconnectivity which may be of interest to the Humanities community
+   * Identify which scenarios could be “quick wins” that are easy to achieve, and those which are challenging and could be part of a longer-term vision
+   * Identify the pain points involved in connecting online humanities data
+
+In order to facilitate interaction and communication between participants, group work will be carried out in two groups (“humanities” and “tech”), in three parallel working sessions, with communication and discussion in between. Groups will be chaired in an “inverted management” fashion: i.e. the humanities group will be chaired by a representative of the “tech” community and vice versa, with an additional “mediator” bouncing in between the groups. Common outcomes and results will be discussed, summarized and prioritized in a fourth wrap-up session. 
+ 
+The themes and goals of the “humanities” working sessions will be:
+   * H1)	Data and resources in the digital humanities – the group will document what data they are using right now as part of their research, what other (open) data is available, how it is being used, etc.
+   * H2) 	Informational structure and licensing – for some of the resources identified in H1, the group will document its informational structure: what’s in the data, how it is logically structured (in particular regarding the representation of space, place and time periods). The group should also document data resources’ licensing terms.
+   * H3)	New research avenues– Based on H1, H2 and T2, the group should identify intersection points between data resources which may have the potential to enhance future humanities research.
+ 
+The themes and goals of the “tech” working sessions will be:
+
+   * T1)	Tools and methods – the group should document what digital tools and methods they are using as part of their work with data, visualization, analysis, etc.
+   * T2)	Data Opportunities and Challenges – the group should discuss and document the technical/methodological opportunities and challenges that exist for obtaining and processing the data catalogues in session H1 (e.g. issues of data normalization, data triage, etc.)
+   * T3)	Quick wins – based on the results of T1, T2, and H2, the group will experiment with data intersection scenarios which may provide “quick wins” (e.g. in terms of interoperability, visualization, analysis) from a technical point of view.
+
+The final discussion will compare the list of ‘quick wins’ and research avenues produced by H3 and T3 in order to identify ‘low-hanging fruit’: those points of intersection between independent resources that are both comparatively easy to achieve and could open up new avenues in Humanities research.
+
+Start/Finish Times: 9:00-5:30
 
 
 ----
