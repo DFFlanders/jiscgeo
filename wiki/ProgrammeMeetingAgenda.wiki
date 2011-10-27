@@ -159,7 +159,7 @@ Unconference Wrap-up and Close (for those who are staying on for one of the foll
 
 
 == Wednesday 30th November ==
-Spacetime Workshop, hosted by Nedimah and JISC.
+Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC.
   * Start: 9.30am / End: 5pm
   * Event Themes: "Place, Period, Event - Entity-based Approaches to Space and Time"
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
@@ -181,7 +181,7 @@ Confirmed speakers: Ceri Binding, Tom Elliott, Peter Sefton, Ryan Shaw, Humphrey
 
 
 == Wednesday 30th of November ==
-*jiscGEO Product Review Panel* _note: this event is invitation only and will be run separate to the SpaceTime workshop happening on the same day (see above)_
+*jiscGEO Product Review Panel* _note: this event is invitation only and will be run separate to the NeDiMAH Space and Time workshop happening on the same day (see above)_
    * Start/End Times: 10am-2pm (followed by a sit down lunch at Chiquitos)
    * Description: Each #jiscGEO project has produced a final product that will be reviewed by a group of panelists.  Each product will be reviewed by three types of panellists: a.) usability expert looking for ease of usability and likelihood of reuse, b.) technical expert reviewing feasibility for improvements by other developers, c.) business expert evaluating the value for Universities and Colleges.  Each of these experts will be asked to provide a recommendation for how mature the product is and the likelihood of the product being further advanced.  JISC will use these recommendations to decide if further follow-on funding would be of value so project can complete their product and deliver it to the wider Universities and Colleges sector for reuse.  
   * Disclaimer: It is important to note that this review is explicitly looking for the capability of reuse for a single product and is not determining the actual value that the project on the whole has brought to the sector or the host institution.  Most JISC projects are of greatest value to the institution because of their capabilities of improving skills of staff which in turn enable the institution's capabilities.  It is hoped that any and all feedback provided from the panel will be seen in the light in which it is given, which is to help provide a testing mechanism for the project.
