@@ -164,8 +164,17 @@ Spacetime Workshop, hosted by Nedimah and JISC.
   * Event Themes: "Place, Period, Event - Entity-based Approaches to Space and Time"
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
 
-Speakers TBC
+Confirmed speakers: Ceri Binding, Tom Elliott, Peter Sefton, Ryan Shaw, Humphrey Southall (additional speakers TBC)
 
+  * 9.30am - Orientation and Introductions
+  * 10:00 Panel Session on 'Places'
+  * 11.15 COFFEE / TEA
+  * 11:45 Panel Session on 'Periods'
+  * 1pm LUNCH
+  * 2:00 Panel Session on 'Events'
+  * 3:15 COFFEE / TEA
+  * 3.45 Open Forum Discussion on Space Time
+  * 5.00 Close.
 
 ----
 ----
