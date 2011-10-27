@@ -184,6 +184,8 @@ Speakers TBC
 == Thursday 1st of December ==
 *Pelagios2 Project Workshop* (this is a seperate event to the jiscGEO Activities - though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO programme).  Accordingly, if you want to attend this event you will need to register separately at this link:
 
+http://pelagios2.eventbrite.co.uk/
+
 The Pelagios2 workshop will focus on the practical aspects of linking together open Humanities resources by means of shared entity URIs. It will take the form of hands-on group work. The ultimate goal of the workshop is to:
    * Develop scenarios for interconnectivity which may be of interest to the Humanities community
    * Identify which scenarios could be “quick wins” that are easy to achieve, and those which are challenging and could be part of a longer-term vision
