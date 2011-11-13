@@ -223,10 +223,12 @@ Start/Finish Times: 9:00-5:30
 
 == Thursday 1 December ==
 _note: this is an invite only event_
-Event Title: Geospatial Infrastructure 2012-2015 Workshop
-  * Objective: to list the features and functions that users in the .ac.uk will need in the next three years.
+  * Event Title: Geospatial Resource Review - Services Scoping 2012-2015 Workshop
+  * Objective: to look over geospatial resources that .AC.UK users use and list use cases for each of these geospatial resource types.
+  * Start/End: 11am - 4pm
 
-Start: 11am - 4pm
+Agenda to follow:
+  * 11am welcome/introductions...
 
 ----
 ----
