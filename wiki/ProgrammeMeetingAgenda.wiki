@@ -9,10 +9,10 @@ The [http://twitter.com/#!/search/jiscgeo twitter hastag] for this event is #jis
 Please note that there are several Geospatial related events happening the Week of November 28th - December 1st (2011).  The main event is happening on the first day with the awards party happening that Monday evening.  
 
 In summary, the following events are taking place (please see below for detailed agenda):
-  * *Monday* (Nov 28) 10am-5pm: JISCgeo Innovation Programme Meeting (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend. 
-    * Mon Night (Nov 28) 7pm - 11pm = JISC Geospatial Innovation Awards Party 
-  * *Tuesday* (Nov 29) 10am - 5pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone can attend. 
-  * *Wednesday* (Nov 30) 10am-4pm = Space Time Workshop - this is a free and open event that anyone can attend. (30ppl max)
+  * *Monday* (Nov 28) 9.30am-5.30pm: JISCgeo Innovation Programme Meeting (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend. 
+    * Mon Night (Nov 28) 7pm - 11pm = JISC Geospatial Innovation Awards Dinner
+  * *Tuesday* (Nov 29) 10.30am - 4pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone can attend. 
+  * *Wednesday* (Nov 30) 9.30am-5pm = Space Time Workshop - this is a free and open event that anyone can attend. (30ppl max)
   * *Wednesday* (run separate from above space time workshop) (Nov 30) 10am-2pm = JISCgeo Product Review Panel Meeting - this is an invitation only event. (15ppl max)
   * *Thursday* (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max) 
 
