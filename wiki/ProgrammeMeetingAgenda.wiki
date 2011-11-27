@@ -17,18 +17,18 @@ In summary, the following events are taking place (please see below for detailed
   * *Thursday* (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max) 
 
 == Where ==
-Ravensborough College in London (next to the Millenium Dome). Tube Stop: North Greenwich (see below for picture).
-
-For accommodation see comments section at the bottom of this page.
+Ravensborough College in London (next to the Millenium Dome). 
+  * Tube Stop: North Greenwich (see below for picture).
+  * For accommodation see comments section at the bottom of this page.
 
 == Who ==
 This is an open event that anyone is welcome to attend, however this event is specifically for the set of innovation projects that make up the "JISCgeo Programme" of work and so the emphasis will be on the new geospatial products they have produced via their year long projects and how they will improve the use of these tools and technologies for students, researchers, and lecturers.  Participants should have (at a minimum) an understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
 
 == What == 
-The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as "open technology" or "unconference" to encourage networking and showcase products.
+The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as an "unconference" event to encourage networking and showcasing of products.
 
 == Register ==
-To Register for this Event, please sign up at this registration form: https://www.eventsforce.net/jisc/147/home  
+REGISTRATION IS NOW CLOSED, PLEASE EMAIL D.FLANDERS@JISC.AC.UK IF YOU WOULD LIKE TO ATTEND ONE OR MORE OF THE DAYS AD HOC.
 
 ----
 ----
@@ -42,7 +42,7 @@ This agenda is ALIVE! and will change based on the activities and participation 
 Event Day Title: JISCgeo Programme Meeting
   * Event Type: Unconference (Day 1)
   * Rooms: 702/703
-  * Time: Start 9am / End 5.30pm (not including evening awards party)
+  * Time: Start 9am / End 5.30pm (not including evening awards party which starts at 6pm)
   * Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
 
 Day 1 Agenda:
