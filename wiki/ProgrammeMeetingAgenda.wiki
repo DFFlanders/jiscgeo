@@ -49,7 +49,7 @@ Day 1 Agenda:
   * 9.30am - Welcome and orientation.
   * 10.00am - Keynote: Julie Sweetkind-Singer (Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University)
   * 11am - Tea / Coffee
-  * 11.30am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial)
+  * 11.30am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial Innovation)
   * Noon - Lunch and Networking
 
 _NOTE: The afternoon sessions will be run in the style of an [http://en.wikipedia.org/wiki/Unconference "unconference"] whereby participants are urged to use the [http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet "rule of two feet"] by circulating around the room to experience each of the different projects and their products as they are demonstrated (a kind of mini 'trade show', if you will)._
