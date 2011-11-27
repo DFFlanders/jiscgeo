@@ -259,115 +259,114 @@ note this is an invite only event, please contact leifuss@googlemail.com if inte
 -----
 -----
 Attending:
-
-Daniel	Alves
-Gabriel	Amable
-Suchith	Anand
-Tom	Armitage
-Chris	Bailey
-Angela	Baker
-Elton	Barker
-Julia	Barrett
-Robert	Berry
-Ceri	Binding
-Andrew	Bradley
-Rob	Bristow
-Olly	Butters
-Kate	Byrne
-Patricia	Carbajales
-David	Carter
-Nicole	Coleman
-Ian	Cooper
-Paul	Davies
-Shawn	Day
-Matthew	Dovey
-Steve	Dunn
-Stuart	Dunn 
-Alastair	Dunning
-Alexander	Dutton
-Jason	Dykes
-Øyvind	Eide
-Tom	Elliott
-Tom	Ensom
-William	Farr
-Elizabeth	Fitzgerald
-David F.	Flanders
-Dan	Fower
-Richard	Fry
-Steven	Gray
-Muki	Haklay
-Mark	Hedges
-Chris	Higgins
-Alexander	Hirschfield
-Simon	Hodson
-Mark	Holton
-Andrew	Hudson-Smith
-Eero	Hyvonen
-Leif	Isaksen
-Mike	Jackson
-Neil	Jakeman
-Krzysztof	Janowicz
-Mike	Jones
-Dave	Kilbey
-Kamie	Kitmitto
-Kimberly	Kowal
-Rasmus	Krempel
-Peter	Lakin
-Simon	Lannon
-Didier	Leibovici
-Stuart	Macdonald
-Eetu	Mäkelä
-Nick	Malleson
-Glauco	Mantegari
-Gregory	Marler
-Keith	May
-Guy	McGarva
-Andy	McGregor
-Alison	McLeod
-Gail	Millin-Chalabi
-Jeremy	Morley
-Jan-Peter	Muller
-Andrew	Newton
-Franco	Niccolucci
-Abiodun	Obafemi
-Oliver	O'Brien
-Dominic	Oldman
-Scott	Orford
-Nicola	Osborne
-Addy	Pope
-Amir	Pourabdollah
-Mark	Power
-Sara	Price
-Simon	Price
-Sebastian	Rahtz
-Gethin	Rees
-Cindy	Regalado
-James	Reid
-Patrick	Rickles
-Mia	Ridge
-Jason	Sawle
-Ash	Scheder Black
-Simon	Scheider
-Peter	Sefton
-Ryan	Shaw
-Ben	Showers
-Luis	Silveira
-Rainer	Simon
-Jeanie	Sinclair
-Mark	Smith
-Teresa	Smith
-Conor	Smyth
-Humphrey	Southall
-Laura	Spinsanti
-Julie	Sweetkind-Singer
-James Stuart	Taylor
-Jonathan	Tedds
-Jasper	Tredgold
-Richard	Tyler
-Veerle	Van den Eynden
-Steve	Walsh
-Gary	Watmough
-Patrick	Weber
-Jonathan	Whitson Cloud
-Rebecca	Wilson
-Sofia	Zoitou
+  * Prof Dr	Daniel	Alves	Auxiliary Professor	Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa
+  * Dr	Gabriel	Amable	Geomatics Officer	University of Cambridge
+  * Dr	Suchith	Anand	Research Fellow	University of Nottingham
+  * Tom	Armitage	Geoservices Support	EDINA
+  * Chris	Bailey	Senior Technical Researcher	ILRT, University of Bristol
+  * Mrs	Angela	Baker	Community Programmes Manager	Esri UK
+  * Dr	Elton	Barker	Lecturer	The Open University
+  * Julia	Barrett	Liaison Librarian	University College Dublin
+  * Dr	Robert	Berry	Researcher	WISERD/University of Glamorgan
+  * Mr	Ceri	Binding	Research Fellow	University of Glamorgan
+  * Dr	Andrew	Bradley	REsearch Associate	University of Leicester
+  * Rob	Bristow	Programme Manager	JISC
+  * Dr	Olly	Butters	Scientist	University of Leicester
+  * Dr	Kate	Byrne	Research fellow	University of Edinburgh
+  * Ms	Patricia	Carbajales	Geospatial Manager	Stanford University
+  * David	Carter	Project Manager	University of Leicester
+  * Nicole	Coleman	Research Lab	Stanford Humanities Center
+  * Dr	Ian	Cooper	Manager	JISC Monitoring Unit
+  * Dr	Paul	Davies	Science Lecturer	Institute of Education
+  * Mr	Shawn	Day	Project Manager	Royal Irish Academy
+  * Matthew	Dovey	Programme Director, Digital Infrastructures (Research)	JISC  
+  * Mr	Steve	Dunn	Geography teacher	GSAL
+  * Dr	Stuart	Dunn 	Research Fellow	King's College London
+  * Alastair	Dunning	Digitisation Programme Manager	JISC
+  * Mr	Alexander	Dutton	Data Wrangler and Developer	Oxford University Computing Services
+  * Prof	Jason	Dykes	Professor	City University London
+  * Øyvind	Eide	PhD student	King's College London, Department of Digital Humanities
+  * Dr	Tom	Elliott	Assoc. Director for Digital Programs	Institute for the Study of the Ancient World (NYU)
+  * Mr	Tom	Ensom	Project Officer	UK Data Archive
+  * Dr	William	Farr	Research Fellow	Institute of Education
+  * Dr	Elizabeth	Fitzgerald	Research Fellow	The Open University (Institute of Educational Technology)
+  * Mr	David F.	Flanders	Programme Manager	JISC
+  * Mr	Dan	Fower	Researcher	University of Portsmouth
+  * Dr	Richard	Fry	Researcher	WISERD
+  * Mr	Steven	Gray	Research Associate	UCL
+  * Prof	Muki	Haklay	Professor of GIScience	UCL
+  * Dr	Mark	Hedges	Deputy Director, Centre for e-Research	King's College London
+  * Mr	Chris	Higgins	Workgroup Leader	EDINA, University of Edinburgh
+  * Prof	Alexander	Hirschfield	Professor of Criminology	University of Huddersfield
+  * Dr	Simon	Hodson	Programme Manager	JISC Executive
+  * Mr	Mark	Holton	PhD student	University of Portsmouth
+  * Dr	Andrew	Hudson-Smith	Director	CASA
+	Eero	Hyvonen	Professor	Aalto University
+  * Mr	Leif	Isaksen	Research Fellow	University of Southampton
+  * Prof	Mike	Jackson	Prof.	Centre for Geospatial Science, Univ. of Nottingham
+  * Mr	Neil	Jakeman	Research Developer	Kings College Digital Humanities
+  * Krzysztof	Janowicz	Professor	University of California, Santa Barbara
+  * Mike	Jones	Senior Technical Researcher	ILRT, University of Bristol
+  * Mr	Dave	Kilbey	Nature Locator Project Manager	University of Bristol
+  * Dr	Kamie	Kitmitto	Geodata Specialist	Mimas
+  * Kimberly	Kowal	Lead Curator, Digital Mapping	The British Library
+  * Rasmus	Krempel	Research fellow	CoDArchLab
+  * Mr	Peter	Lakin	Senior Lecturer in Engineering Surveying	University of East London
+  * Mr	Simon	Lannon	Senior Research Associate	Cardiff University
+  * Didier	Leibovici	Research Fellow	Nottingham Geospatial Institute, University of Nottingham
+  * Stuart	Macdonald	Associate Data Librarian	University of Edinburgh
+  * Dr	Eetu	Mäkelä	Researcher	Aalto University
+  * Dr	Nick	Malleson	Research Fellow	University of Leeds
+  * Dr	Glauco	Mantegari	Researcher and consultant	University of Milano - Bicocca
+  * Mr	Gregory	Marler	PEG	No More Grapes
+  * Mr	Keith	May	Information Strategy Advisor	English Heritage
+  * Guy	McGarva	Geoservices Project Officer	EDINA
+  * Andy	McGregor	Programme manager	JISC
+  * Ms	Alison	McLeod	Analyst	JISC Monitoring Unit
+  * Mrs	Gail	Millin-Chalabi	Geodata Services Development Officer	Mimas
+  * Mr	Jeremy	Morley	Director	Centre for Geospatial Science
+  * Prof	Jan-Peter	Muller	Head of Imaging	UCL Mullard Space Science Laboratory
+  * Dr	Andrew	Newton	Senior Research Fellow	The University of Huddersfield
+  * Franco	Niccolucci	Professor	PIN
+  * Dr	Abiodun	Obafemi	Services Relationship Manager	JISC
+  * Mr	Oliver	O'Brien	Research Associate	UCL CASA
+  * Dominic	Oldman	deputy head of IS	British Museum
+  * Dr	Scott	Orford	WISERD Data Co-ordinator	WISERD, Cardiff University
+  * Ms	Nicola	Osborne	Social Media Officer	EDINA
+  * Addy	Pope	GoGeo Content Officer	EDINA
+  * Dr	Amir	Pourabdollah	Research Fellow	The University of Nottingham
+  * Mr	Mark	Power	Researcher	University of Bolton
+  * Dr	Sara	Price	Senior Lecturer	Institute of Education
+  * Simon	Price	Acting Deputy Director	ILRT, University of Bristol
+  * Sebastian	Rahtz	Information and Support Group Manager	University of Oxforc
+  * Gethin	Rees	Research Associate	Faculty of Divinity, University of Cambridge
+  * Miss	Cindy	Regalado	Graduate Researcher	UCL
+  * James	Reid	Geiservices businesss development	EDINA
+  * Mr	Patrick	Rickles	Research Assistant	UCL
+  * Mia	Ridge	Doctoral researcher	Open University
+  * Mr	Jason	Sawle	Schools Education Consultant	Esri UK Ltd
+  * Ash	Scheder Black	Programmer/DBA	Temporal Mapping
+  * Mr	Simon	Scheider	Research associate	Institute for Geoinformatics, Münster
+  * Dr	Peter	Sefton	eResearch Manager	University of Western Sydney
+  * Ryan	Shaw	Assistant Professor	University of North Carolina at Chapel Hill
+  * Mr	Ben	Showers	Programme Manager	JISC
+  * Prof	Luis	Silveira	Associate Professor	Faculdade de Ciencias Sociais e Humanas, Universidade Nova de Lisboa
+  * Rainer	Simon	Scientist	AIT Austrian Institute of Technology
+  * Jeanie	Sinclair	PhD Researcher	University College Falmouth
+  * Mr	Mark	Smith	Head of Science	GSAL
+  * Teresa	Smith	G-STEP ERDF project manager	University of Leicester
+  * Dr	Conor	Smyth	Head of Research and Geodata Services	EDINA, University of Edinburgh
+  * Dr	Humphrey	Southall	Reader in Geography	University of Portsmouth
+  * Mrs	Laura	Spinsanti	Dr.	JRC - Ispra
+  * Ms	Julie	Sweetkind-Singer	Asst. Director: Geospatial, Cartographic and Scientific Data	Stanford University
+  * Mr	James Stuart	Taylor	PhD Student	University of York
+  * Dr	Jonathan	Tedds	Senior Research Liaison Manager	University of Leicester
+  * Jasper	Tredgold	Senior Technical Researcher	ILRT, University of Bristol
+  * Mr	Richard	Tyler	PhD Student	University of Portsmouth
+  * Dr	Veerle	Van den Eynden	Manager Research Data Management Services	UK Data Archive
+  * Mr	Steve	Walsh	Research Associate	Aberystwyth University IGES
+  * Mr	Gary	Watmough	Research Fellow	University of Southampton
+  * Dr	Patrick	Weber	Research Fellow in GIS	Department of Civil, Environmental and Geomatic Engineering, UCL
+  * Mr	Jonathan	Whitson Cloud	Documentation Technical Support Officer	The British Museum
+  * Dr	Rebecca	Wilson	Space Academy Project Scientist	University of Leicester
+  * Sofia	Zoitou	postgraduate student	university of thessaly
