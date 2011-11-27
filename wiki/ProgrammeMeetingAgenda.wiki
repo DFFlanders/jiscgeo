@@ -228,11 +228,29 @@ _note: this is an invite only event_
   * Start/End: 11am - 4pm
 
 Agenda to follow:
-  * 11am welcome/introductions...
+  * 11am: Welcome, Housekeeping, Orientation and Introductions - David
+  * 11:15: Context of this workshop for the service Review - Abi
+  * 11:20: Overview of the Day - how is this going to work? - Ian
+  * 11:30: Use Case (user story) Brainstorm (session no.1): 4 Use Cases: Lecturer, Researcher, Undergrad, Grad - identify 4 different subject disciplines for each and then pick your favourite 
+  * 12:00: Each Group Reports back Favorite Use Case
+  * 12:30 Introduce geospatial resources spreadsheet - Alison
+  * 12:40: Add resource types from spreadsheet to favorite use case, noting any resources not listed
+  * 1pm: Lunch
+  * 1.30pm: Brainstorm further Use Cases (session no.2) > Pick Favorite Use Case > Add Resources from [we now have 8 detailed cases] 
+  * 2.30: Review use cases > Discussion: what is there and what isn't there? (missing geospatial children)
+    * What resources are not in the JISC family? <-- List resources that are missing on its own 
+    * How can we express additional use cases so we can make a case for these missing resources?
+    * Whom else is going to add additional use cases? <-- consultation process during December.
+  * 3pm: Working Tea Break:
+    * add additional missing geospatial resource 
+    * dotmocracy for most needed missing geospatial resource
+  * 3.30: Discussion: Further consultation for both frameworks - Abi
+    * Timeline for consultation and final sign off for frameworks... sign off by JISC bosses... agreemtn for service review.
+  * 4pm - End
 
 ----
 ----
 
 == Friday 2 December ==
-Pelagios Project Team meeting
-note this is an invite only event, please contact leif if interested in participating...
+Pelagios Project Team meeting:
+note this is an invite only event, please contact leifuss@googlemail.com if interested in participating.
