@@ -301,7 +301,7 @@ Attending:
   * Dr	Simon	Hodson	Programme Manager	JISC Executive
   * Mr	Mark	Holton	PhD student	University of Portsmouth
   * Dr	Andrew	Hudson-Smith	Director	CASA
-	Eero	Hyvonen	Professor	Aalto University
+  * Eero	Hyvonen	Professor	Aalto University
   * Mr	Leif	Isaksen	Research Fellow	University of Southampton
   * Prof	Mike	Jackson	Prof.	Centre for Geospatial Science, Univ. of Nottingham
   * Mr	Neil	Jakeman	Research Developer	Kings College Digital Humanities
