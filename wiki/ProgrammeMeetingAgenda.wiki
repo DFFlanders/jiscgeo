@@ -161,6 +161,10 @@ Unconference Wrap-up and Close (for those who are staying on for one of the foll
 
 == Wednesday 30th November ==
 Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC.
+
+Full event details at:
+http://spacetimewg.pbworks.com/
+
   * Start: 9.30am / End: 5pm
   * Event Themes: "Place, Period, Event - Entity-based Approaches to Space and Time"
   * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
