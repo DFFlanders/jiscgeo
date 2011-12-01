@@ -1,6 +1,6 @@
 #summary these were informal awards given by the JISC programme manager to projects who performed above and beyond their project remit.
 
-As Programme Manager of the JISCgeo Programme over the past year, I am very please do give the following awards to projects who particularly impressed me with their above and beyond efforts.  These awards by no means reflect the success of the projects, as I am happy to also announce that all projects have delivered their final products on time and to task (I can't tell you how happy I am to have a 100% return rate that is on time!!!)  
+As Programme Manager of the JISCgeo Programme over the past year, I am very pleased to give the following awards to projects who particularly impressed me with their above and beyond efforts.  These awards by no means reflect the success of the projects, as I am happy to also announce that all projects have delivered their final products on time and to task (I can't tell you how happy I am to have a 100% return rate that is on time!)  
 
 Best of all, the recent Programme Meeting demonstrated that every University that had a JISCgeo Project have successfully "upped their game" in how they integrate spatial competency at their institution.  I'm confident we have the foundations for a community of geospatial skills and expertise in these institution that will begin to spread to other institutions (afterall why would a student, teacher or researcher go to a university that doesn't have some kind of spatial competence in the teaching, learning or research?!).
 
@@ -31,21 +31,21 @@ Steven Gray, Oliver O'Brien & Richard Milton
 
 http://farm7.staticflickr.com/6230/6432078523_37b144436e.jpg
 
-I'm also very pleased to give awards to project who achieved particular success in doing documentation via their project blogs.  The ability to make documentation interesting that not only says what the project is doing, but also tell that story in such a way that engages people beyond the scope of the project is truly a unique writing talent (and best of all it makes the inner working of the project open and transparent to the wider world while also keeping everyone up to date).  
+I'm also very pleased to give awards to a project who achieved particular success in documenting their progress and reflections via their project blog.  The ability to make documentation interesting and to not only says what the project is doing, but also tell that story in such a way that engages people beyond the scope of the project is truly a unique writing talent (and best of all it makes the inner working of the project open and transparent to the wider world while also keeping everyone up to date).  
 
-The award for best overall project that continued to churn out posts that were both insightful and enjoyable to read is:
+The award for best overall project that continued to produce posts that were both insightful and enjoyable to read is:
 
 The [jiscg3] aka IIGLU project
 
 http://farm8.staticflickr.com/7160/6432079895_cbc1ac2547.jpg
 
-Finally, is the project (individual) blog post of the year, this award is really a four way tie.  We did pick a winner, because of the ability to take the rather boring (but necessary) topic of "risk management" and turn it into something that was informative and a help to both the project's management as well as explain things to an outside audience so they could understand the risk context for the project:
+Finally, is the project (individual) blog post of the year, this award is really a four way tie.  We did pick a winner, because of the ability to take the rather boring (but necessary) topic of "risk management" and turn it into something that was informative and a help both the project's management as well as explain the risk context for the project to an outside audience in an understandable and interesting way.
 
-The [xevents] project for their post on [http://xevents-blog.sas.ac.uk/2011/02/managing-good-and-bad-risks.html "Good and Bad Risks"]
+The award goes to the [xevents] project for their post on [http://xevents-blog.sas.ac.uk/2011/02/managing-good-and-bad-risks.html "Good and Bad Risks"]
 
 I also wanted to mention the nominations for their blog posts which are equally interesting to read:
 
-  * The [jiscg3] project for their post on 
+  * The [jiscg3] project for their post on [http://jiscg3.blogspot.com/2011/06/reflective-teaching-practice-do-i-need.html "Reflective Teaching Practice: Do I need to know there is such a thing as a map projection?" 
   * The [pelagios] project for their post on:
   * The [gemmaproject] for their post on: 
 
