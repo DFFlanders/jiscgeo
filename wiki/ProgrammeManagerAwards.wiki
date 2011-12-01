@@ -4,7 +4,7 @@ As Programme Manager of the JISCgeo Programme over the past year, I am very plea
 
 For the JISCgeo Project of the Year we took a quick straw poll vote with everyone at the Programme meeting and winner was...
 
-The [NatureLocator] Project!
+The [naturelocator] Project!
 
 http://farm8.staticflickr.com/7153/6432078219_402041602f.jpg
 
@@ -12,3 +12,34 @@ The JISCgeo Project Manager of the Year award went to:
 
 http://farm8.staticflickr.com/7167/6432079137_05e4c29404.jpg
 
+I also gave a special award to a developer who showed particular promise in also doing project management alongside his skills as a developer, from the [geocrimedata] project:
+
+Nick Malleson
+
+http://farm8.staticflickr.com/7027/6432078779_9a577cccf5.jpg
+
+The JISCgeo Developer of the Year award is a particular favourite award of mine to give as I often think developers are the unsung hero/ins of projects, this year it was most certainly the case that these developers coded day and night to get their product ready for real users to interact with and use, accordingly it goes to a team of developers from the [gemmaproject]:
+
+Steven Gray, Oliver O'Brien & Richard Milton
+
+http://farm7.staticflickr.com/6230/6432078523_37b144436e.jpg
+
+I'm also very pleased to give awards to project who achieved particular success in doing documentation via their project blogs.  The ability to make documentation interesting that not only says what the project is doing, but also tell that story in such a way that engages people beyond the scope of the project is truly a unique writing talent (and best of all it makes the inner working of the project open and transparent to the wider world while also keeping everyone up to date).  
+
+The award for best overall project that continued to churn out posts that were both insightful and enjoyable to read is:
+
+The [jiscG3] aka IIGLU project
+
+http://farm8.staticflickr.com/7160/6432079895_cbc1ac2547_z.jpg
+
+Finally, is the project (individual) blog post of the year, this award is really a four way tie.  We did pick a winner, because of the ability to take the rather boring (but necessary) topic of "risk management" and turn it into something that was informative and a help to both the project's management as well as explain things to an outside audience so they could understand the risk context for the project:
+
+The [xevents] project for their post on "Good and Bad Risks"
+
+I also wanted to mention the nominations for their blog posts which are equally interesting to read:
+
+  * The [jiscg3] project for their post on 
+  * The [pelagios] project for their post on:
+  * The [gemmaproject] for their post on: 
+
+http://xevents-blog.sas.ac.uk/2011/02/managing-good-and-bad-risks.html
