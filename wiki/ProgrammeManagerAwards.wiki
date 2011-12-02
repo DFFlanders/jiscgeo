@@ -45,8 +45,8 @@ The award goes to the [xevents] project for their post on [http://xevents-blog.s
 
 I also wanted to mention the nominations for their blog posts which are equally interesting to read:
 
-  * The [jiscg3] project for their post on [http://jiscg3.blogspot.com/2011/06/reflective-teaching-practice-do-i-need.html "Reflective Teaching Practice: Do I need to know there is such a thing as a map projection?" 
-  * The [pelagios] project for their post on:
-  * The [gemmaproject] for their post on: 
+  * The [jiscg3] project for their post on [http://jiscg3.blogspot.com/2011/06/reflective-teaching-practice-do-i-need.html "Reflective Teaching Practice: Do I need to know there is such a thing as a map projection?"] 
+  * The [pelagios] project for their post on [http://pelagios-project.blogspot.com/2011/11/growing-use-of-oac-inventory-no-doubt.html "Growing use of OAC - an inventory (no doubt incomplete) of initiatives"]
+  * The [gemmaproject] for their post on [http://gemma.blogweb.casa.ucl.ac.uk/2011/06/mapping-apis-google-vs-openlayers/ "Mapping APIs – Google vs OpenLayers"]
 
 http://farm7.staticflickr.com/6056/6432080463_22d9080638.jpg
