@@ -1,8 +1,24 @@
-#summary This page is for the JISC ProgM to track progress & correspondence on this project.
+#summary This page is for the JISC Programme Manager to track progress & correspondence on this project.
 #labels PageType-Project,project
 
-== Project Contact Details ==
-For full contact details on this project please see the [https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html DoaP (Description of a Project) database on all jiscGEO projects].
+== Primary Product from the STEEV Project ==
+"The STEEV web tool allows stakeholders to explore varying spatio-temporal patterns of modeled energy use and efficiency outcomes for the period 1990-2050 for area in South Wales"	
+
+The product will be primarily useful to: Policy makers, town planners, urban developers,  (green) energy consultants, landscape architects, environmental/climate change  specialists, carbon energy researchers, etc.
+
+Access and description of the product is here: http://steev.blogs.edina.ac.uk/2011/11/11/steev-final-product-post/	
+
+== Description of this Project (DoaP) ==
+
+=== Where & Who ===
+The project Grant was awarded to the the University of Edinburgh <http://www.ed.ac.uk/>, the department the project is hosted within is the Edinburgh National Data Centre (EDINA) <http://edina.ac.uk/> whose postcode is EH9 1PR.  The project director is Peter Burnhill <p.burnhill@ed.ac.uk>, the Project Manager is Stuart Macdonald <stuart.macdonald@ed.ac.uk>.  You can call the project manager on 0131 651 1744 or skype them via estuardito2. For more information on the project manager please see: https://www.census.ac.uk/CensusExperts/SMacdonald.aspx	Other project staff and participants include: George Hamilton, george.hamilton@ed.ac.uk, Johhny Hay, Ingrid Earp, Simon Lannon from Welsh School of Architecture at Cardiff University, Herbert Van de Sompel from Los Alamos National Laboratory (T&S only), Simon Lannon who is a user of the product because he is an academic researcher, David Hamill (usability expert), Fiona Hemsley-Flint, Tim Urwin, Herbert Van de Sompel, Nicola Osborne, Lasma Sietinsone, t.urwin@ed.ac.uk, fiona.flint@ed.ac.uk, nicola.osborne@ed.ac.uk, george.hamilton@ed.ac.uk, johnny.hay@ed.ac.uk, lannon@cardiff.ac.uk, hvdsomp@gmail.com, l.sietinsone@ed.ac.uk
+
+=== Keywords ===
+Keywords for this project include: spatial visualisation, geospatial tool, spatial analysis tool, data visualisation, green movement, energy efficiency, green targets, renewable energy, Welsh School of Architecture, RETROFIT 50 project, climate change, carbon dioxide emissions, SAP ratings, carbon management, green energy technology, green engineering, urban planning	
+
+This project was funded as part of JISC's #INF11 Programme of Work. This project ran for 9 months from 1-Feb-2011 to the 31-Oct-2011 at a cost of £96236.  As per the JISC Open Agenda, all code produced by this project is licensed under a GNU General Public License version 3.0; all content (blog posts, reports, etc) are licensed using a Creative Commons Attribution 3.0 Unported License, and; all data (spreadsheets, databases, etc) are licensed using an Open Database License (ODC-ODbL) “Attribution Share-Alike for data/databases”. The official funding Grant information for this project as managed by JISC is available here: https://pims.jisc.ac.uk/projects/view/1977 .  For a link to the original project plan please see: http://steev.blogs.edina.ac.uk/tag/projectplan/
+
+All documentation and updates on the project's progress are availabile via the project blog at: http://steev.blogs.edina.ac.uk/ . Please subscribe to their blog (RSS/ATOM) feed at:  http://steev.blogs.edina.ac.uk/feed/ . Please find development code at: https://devel.edina.ac.uk:51876/steev  . Project correspondence occur on this listserv: http://www.jiscmail.ac.uk/STEEV . Projects analytics are at: https://www.google.com/analytics/web/#dashboard/tc3Eyab3TSmRm53E0pZRww/a18658197w42255033p42172841/ . The project wiki is at: http://devel.edina.ac.uk:7775/projects/steev/wiki/Wiki	
 
 = Tracking Project Progress =
 The purpose of this page is to provide the programme manager with a space to track the progress and outputs of the projects that make up the jiscGEO programme. This information is tracked via:
