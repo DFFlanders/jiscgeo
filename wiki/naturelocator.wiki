@@ -5,9 +5,10 @@
 For full contact details on this project please see the [https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html DoaP (Description of a Project) database on all jiscGEO projects].
 
 = Product Review =
-The Product Maturity was rated a 4.5 out of 5 {{one of the highest scores we have had in a panel for maturity of product}}.
+The Product Maturity was rated a 4.5 out of 5 stars.
 
-== Who do you see as the primary user of this product == Panellists were asked to suggest key audiences demographics whom this app could be further targeted: 
+== Who do you see as the primary user of this product == 
+Panellists were asked to suggest key audiences demographics whom this app could be further targeted: 
   * I guess this is specifically aimed at students and researchers in the life sciences.  However, I know my Dad, for example, would be keen to use and contribute using this app. As someone who owns a small wood, and is very interested in tress he would love it.  He already owns apps for identification of trees, so he would appreciate this one too.  
   * This would be useful for a wide range of scientists working on collecting data that is difficult to gather due to the spread of the study area or the amount of information that needs to be collected.  
   * Researchers and students.  Secondarily, but importantly, the interested general public involved in crowdsourced science.
