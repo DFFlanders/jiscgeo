@@ -39,7 +39,7 @@ The lead developer was George Roussos, g.roussos@dcs.bbk.ac.uk	who supervised Ge
 
 Other staff and participants of the project include: Steff Hazelhurst, science teacher trainees; Ruth Amos - initial teacher training and Sally Johnson teacher/technician CPD. Paul Davies, Carey Jewitt, Will Farr	
 
-To contact the project team please s.price@ioe.ac.uk, g.roussos@dcs.bbk.ac.uk, p.davies@ioe.ac.uk; c.jewitt@ioe.ac.uk; w.farr@ioe.ac.uk; george_sin@hotmail.com	
+To contact the project team please email: s.price@ioe.ac.uk, g.roussos@dcs.bbk.ac.uk, p.davies@ioe.ac.uk; c.jewitt@ioe.ac.uk; w.farr@ioe.ac.uk; george_sin@hotmail.com	
 
 "GeoSciTeach: a teacher-based geo-spatial application for orchestrating scientific fieldwork activity"	
 
