@@ -1,7 +1,7 @@
 #summary This page is for the JISC ProgM to track progress & correspondence on this project.
 #labels PageType-Project,project
 
-= Description of this Project (DoaP)
+= Project Description =
 
 == Final Project Product ==
 [http://geosciteach.wordpress.com/2011/11/11/science-goes-geospatial-with-geosciteach-a-teacher-toolkit-for-integrating-geospatial-concepts-into-science-learning/ Product Advertisement and instructions for using]
