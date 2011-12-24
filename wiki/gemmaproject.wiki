@@ -1,4 +1,4 @@
-#summary This page is for the JISC ProgM to track progress & correspondence on this project.
+#summary The GEMMA web tool allows anyone to make complex map mashups, quickly and simply.
 #labels PageType-Project
 
 == The Project's Primary Product ==
