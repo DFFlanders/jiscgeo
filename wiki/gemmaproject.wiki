@@ -46,8 +46,8 @@ All code the the project produces will be licensed under a GNU General Public Li
 
 All documents, project posts and any other textual cotent produced by the project will be licenses under a Creative Commons Attribution-ShareAlike 3.0 Unported License.	 
 
-All dattabases, spreadsheets or any other tabular data produced by the project will be licensed using an Open Database License (ODC-ODbL) — “Attribution Share-Alike for data/databases” via API's for MapTube, SurveyMapper.  Feeds to be published in future. 
-	
+All dattabases, spreadsheets or any other tabular data produced by the project will be licensed using an Open Database License (ODC-ODbL) — “Attribution Share-Alike for data/databases” via API's for MapTube, SurveyMapper. 
+
 JISCs official record of the project Grant is recorded here: https://pims.jisc.ac.uk/projects/view/1972
 
 The project uses Google Analytics to track and share data from their project here: https://www.google.com/analytics/reporting/?reset=1&id=43602708&pdr=20110604-20110704 
