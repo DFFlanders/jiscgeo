@@ -1,0 +1,82 @@
+# Service Level Agreement #
+_**The following is a list of services that the Programme Manager will provide for your project (please note: each individual Programme Manager has a different style of management and so please get to know your project manager by having frequent correspondence and conversation with him/her).**_
+
+## Aims and Objectives of Your Programme Manager ##
+**The Aim of Your JISC Programme Manager**: To enable and understand how your project along with the other projects in the programme can have the most impact on the sector collectively.
+
+**Objectives**:
+  * To assure projects distribute the products of their project (both tangible and intangible) to the Higher Education and Further Education communities here in the UK and further abroad.
+  * To acquire the themes and trends emerging from the projects so as to re-broadcast them back out to the sector to encourage sector wide change.
+  * To audit the project's activities to assure the Grant funding is optimised on behalf of all Higher and Further Education instituions and on behalf of the UK tax payer who is the ultimate benefactor of these projects :)
+
+Or in more poetical terms,
+http://farm4.static.flickr.com/3536/3465474060_c2b0604246.jpg?v=0
+the general metaphor for 'what a programme manager does' can be surmised as a "lightning rod": existing in the HE/FE 'ether' so as to try and take advantage of the patterns across all the projects ('in the clouds') and bring their ideas down to earth so we can organise around the significant memes as a community (the other analogy is that of a "mutualistic communal organism", but that is not as cool as a "lightning rod" <zap!> ;-)
+
+### Principles of Your Programme Manager ###
+Some principles that guide your programme manager in working with your project as a collective of projects (having overseen 200+ projects as a programme manager there are some common patterns that emerge that I have to continually re-assert):
+
+  * **I value your WINs as much as your FAILs**
+    * While I do need to make sure you deliver the products you said you would produce (i.e. software, apps, infrastructure componets, guides, etc), I also need to know the intangible products like skills, changes in the processes, new relationships formed, etc.  These are often the most valuable "things" that come out of projects so please share them with me on your project blog!
+
+  * **_Help me help you_, by feeding back _EARLY and OFTEN_**
+    * All documentation JISC requires from the projects is designed to tell the community (not me) about the things your projects is doing and producing.  Let me say that again: your audience for writing on your project blog is your community of peers, not the JISC Executive.
+
+  * **“Paradoxically, the best way for a group to be smart is for each person in it to think and act as independently as possible.”**  Or rather the wisdom of the group is in the aggregated ideas and thoughts of each individual.
+    * You're the expert, and the funding JISC is providing you is making you more of an expert; accordingly you have a responsibility to share that expertise with the community by taking every opportunity you can to collaborate with other projects - I can help you facilitate this, so tell me what I should do for you!
+
+  * **Make it SIMPLZ or KISS** (Keep It Simple Stupid)
+    * Using acronyms and scholarly language has its place, but your programme manager must communicate the idea of your project in less than ten second with a sentence or two to multiple audiences (including politicians!) which will make or break future funding in your area so it behoves you to keep it simple and poignant so I can do likewise. Remember JISC has over 200+ projects on the go at any given time so you are competing for attention and often brevity and wit are the best ways to get the attention your project needs to succeed.
+
+
+### Your Programme Manager's Dislikes ###
+Things your programme manager does NOT like (though I always welcome challenges on my likes/dislikes):
+
+  * **Documentation sucks as much for me as it does for you** - The most laborious part of my job is keeping track of the documentation projects are _required_ to produce, I keep a page for each individual project within this wiki so please help me make sure I have all the names, URLs and information about your project.  Your project Grant obligations are not completed until I have an answer for each of the items on your project page.
+  * **Are we there yet, are we there yet..."** - Please don't make me continually remind you of deadlines and documentation as it is all clearly articulated via the ProjectDocumentationInstructions page, though I welcome questions and slight amendments as it suites the project.
+  * **Don't make me be the bad guy** - I will articulate deadlines for project documentation well in advance of the due date and projects are expected to adhere to them (if you are late you should expect to sit down for a risk assessment audit).
+  * **'Tis better to Cc than not** - One of the best ways to keep your programme manager in the loop (so you'll get extra help) is to just Cc them into email conversation (I know how to use my spam filter so please default me to Cc an any project emails).
+  * **How much easier can you get than a blog!** - Failure to actively communicate with me or via our project blog will result in the JISC policy office contacting senior managers in your institution to discuss what procedures we will need to put in place to assure that this does occur.
+
+
+## Chronological examples of service rendered by Programme Manager to individual projects ##
+
+From a typical 6-12 month project the following can be expected from the Programme Manager:
+  1. **A "welcome to the programme" phone/skype call**
+  1. **Comments on your "Project Plan" blog posts**
+    * I'll tell you what other projects are doing similar to yours and where you might consider collaborating with others (the SynthesisLiaison will also be reading and leaving comments on your blog throughout).
+  1. **A face-to-face SiteVisit to the host project institution to meet the project team** (project manager, developers and bonus points if we can meet a real end user!)
+  1. **A programme meeting with all projects in attendance**
+    * Guidance and knowledge sharing on what skills need to be developed as an effective project manager and innovation development team.
+    * Getting you to know other projects <- projects do better when they find other projects to informally talk about things.
+    * Having you meet 'critical friends' in the JISC community: jiscGECO community, UKOLN Support Centre, CETIS Support Centre, IPR Consultancy, Marketing and Advertisement support, etc.
+    * You usually get a nice meal out of it, let alone the networking opportunities :)
+  1. **Quarterly Executive Newsletter updates on what common themes are emerging from the project**
+    * Also reminders for when your next project documentation is due.
+  1. **Notifying you of the support/community cetnres that are there to help your project**
+    * i.e. devCSI training,  OSSwatch guidance, IPR legal advice <-- if you don't know about this free support for your project, ask me!
+  1. **Support for any significant events and/or announcements**
+    * I'm good to have along to events where their is Senior Manager in the room, as I can compliment your project and say what kind of good work you are doing in relation to specific strategic issues that JISC is addressing.
+    * I can produce quotes for any press releases about the "value" of the project.
+    * I can participate in code reviews or agile sprint sessions as the "product owner"
+    * I can help you make decisions on what product you should focus on producing (I meet a lot of other institutions and can tell you what they would think of your product).
+  1. **'On call' for any ad hoc queries**
+    * Call me on skype anytime that I am online: david.flanders
+    * If I am not on skype email me: d.flanders at jisc ac uk
+    * If you need a quick response SMS me: 07891 50 1194
+  1. **Encouraging you to come along to community events**
+    * e.g. the JISC conference, other relevant Programme meetings, etc.
+  1. **Asking for your advice on other similar projects**
+    * Asking exemplary projects to mark the next round of bids for funding
+    * Acquiring expert advice to advise or sit on JISC working groups
+
+# Transparency and Licensing #
+**_Please note any communications with the JISC Programme manager are subject to the Freedom and Information Act.  To assure that FoI is met your Programme Manager will attempt to publish as much information as possible online and in the open.  Accordingly, please know that than any email or communication with your Programme Manager will be made available online unless otherwise requested or if it contains personally sensitive data (otherwise the default is open).  As each JISC project is also spending tax payer money I would encourage you to keep everything in the open and transparent for anyone to comment upon.  The default license used for all information created by the Programme Manager is Creative-Common-Attribution-ShareAlike, as specified in the licensing section of this website._**
+
+# Project Manager / Primary Investigator SLA Sign-Off #
+PLEASE MAKE SURE TO ACKNOWLEDGE THE READING OF THIS DOCUMENT BY LEAVING YOUR NAME AND A COMMENT, for example:
+  * If you could let me know how many other JISC projects you have participated in or lead on; or if this is your first JISC project and/or role as a project manager?
+  * Any tips or hints from experienced project managers greatly appreciated?
+  * Any questions from first time project manager on how JISC can help support you in gaining more skills as a project manager?
+
+You'll email me your gmail or hotmail account to sign in and leave a comment (d.flanders at jisc ac uk)

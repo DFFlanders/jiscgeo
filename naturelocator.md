@@ -1,0 +1,65 @@
+## Project Contact Details ##
+For full contact details on this project please see the [DoaP (Description of a Project) database on all jiscGEO projects](https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html).
+
+# Product Review #
+The Product Maturity was rated a 4.5 out of 5 stars.
+
+## Who do you see as the primary user of this product ##
+Panellists were asked to suggest key audiences demographics whom this app could be further targeted:
+  * I guess this is specifically aimed at students and researchers in the life sciences.  However, I know my Dad, for example, would be keen to use and contribute using this app. As someone who owns a small wood, and is very interested in tress he would love it.  He already owns apps for identification of trees, so he would appreciate this one too.
+  * This would be useful for a wide range of scientists working on collecting data that is difficult to gather due to the spread of the study area or the amount of information that needs to be collected.
+  * Researchers and students.  Secondarily, but importantly, the interested general public involved in crowdsourced science.
+  * field biologists, naturalists, ecologists, enthusiasts and hobbyists, 'citizen scientist'
+  * other researchers, local authorities, anyone wanting to crowd source a particular type of information with geo-tagging information and a small amount of user processing
+Researchers, Students, People using the app.
+  * Biologists may be interested in the data along with Mappers for the geo spatial distribution of conker trees.  The data if openly released has a lot of potential to attract more users.
+## Product Description ##
+The marking panel was asked to quickly describe the product they experience upon first glance (they may have just copied it from your blog, but that is good as well as it shows what you might highlight):
+  * An app that allows anyone to contribute data on chestnut trees. This might be photos of diseased leafs, submitting an image and location, which helps provide an unparalleled amount of data to scientists on the trees.
+  * This is a product designed to make data collection by the general public easy to do, interactive, and fun.  This gives citizens an easy way to engage in science and help move a research project forward.
+  * Leaf Watch is a smart phone app, for crowd sourced recording of damage to horse chestnut leaves caused by the leaf miner moth.  There are generic features which make this an app platform for gathering and validating geospatially tagged photographic data.
+  * A smartphone app for capturing biological survey records
+  * This is a smart phone App that allows the public at large to participate in the gathering of data about the prevalence of the horse chestnut miner moth. To do this, it leverages the geo-location capabilities of smart phones (iPhones and Android) to allow people to photograph leaves, and then upload the pictures to a central repository, and also to score it on a simple scale of damage. From the reviews on the App Store, it appears that most uses are pleased with the product and are using it.
+  * An iPhone application which crowd sources the state of leaves of conker trees around the UK.  Users provide a rating of a leaf, geolocation and photo of the leaf which can be validated by other users on the website.
+
+## Product Reviews ##
+Panelists were asked to provide a review of the product as they would tell a friend:
+  * I think the idea of crowdsourcing data from anyone is always a strong idea - people are motivated by the thought of contributing to scientific research.  This is an easy idea to grasp and motivates you to want to contribute.
+  * The website for the project is friendly, easy to understand and it is easy to download the app.
+  * Apps are big - visible and popular.  I like that it exploits these benefits and isn't shy about the potential to get a lot of downloads."
+  * This product looks very easy to use.  I like how they have integrated it with the Iphone and Android phones.
+  * This page, http://naturelocator.ilrt.bris.ac.uk/2011/10/31/final-product-post/, is very well done and makes me want to help with the project!"
+  * The project has produced a functioning smart phone app.  The app has attracted some publicity, and has directly enabled an increase in data submissions to the Conker Tree Science Project.
+  * Nice look and feel - although instance specific to this application probably.
+    * Simple and intuitive user flow
+  * Clear and informative help text built into app
+  * Good positioning failover if GPS lock unobtainable
+  * The idea of using smart phones to collect crowd sourced, geo-located material is not new, but this is a really nicely done example. In part helped by the elegance of the iPhone interface, this feels like a really well designed and finished product. As such the general approach and the way of capturing both the interest and engagement of the wider public should be of interest to anyone trying to gather this type of data, where more traditional field work type of approaches. I think it also makes a really nice "good news story" that reflects well on the institutions concerned and the role of JISC funding.
+  * Really like the app, technically and visually appealing.  The system is well designed and works well (as described and intended).  I'd like to see the app repurposed so that other projects could take advantage of the framework used to collect the data as I see it could be useful for other biological implementations.
+
+## Additional Product Features Requested ##
+Panellists were asked to say what else they would like to make this product even more usable:
+  * Could the project make the reason to engage more compelling?  Why not say what would happen if we weren't able to track and deal with leaf miners - would all the trees die? What impact would this have on our natural ecosystem.. etc...
+  * I want to see what the app looks like before I download it - I can see a few screenshots on the app store, but I want a two-minute video.
+  * Is this only for iPhone.. what about tablets, or a mobilised website?"
+  * On the results page, I noticed that the pointers are in a grid format, even when zoomed in.  They must have the exact geographic locations from the smartphones.  I'm not sure why they weren't used.  I think this would be more powerful.  I'm also interested in seeing them create some maps analyzing the data.  This would give people more incentive to participate as they see the results of their work beyond the points on the map.
+  * I hope this is an open source app that others can use and adapt?  Or perhaps more importantly can the team engage other scientists in the natural sciences to reuse this app but for their particular crowd sourcing work?
+  * The blog might have said more about the generic features of the platform.  To what extent has the project team explored other use cases for geospatially tagged photographic data.  It would have been nice to have evidence that the project has thought of alternative use cases and thought about how to get the product into other departments for other uses.  Nevetheless, this is a working app which has received positive attention and is clearly a good thing.
+  * The leaf damage stereotypes are nice but maybe could be supplemented with actual real world leaf photos?
+  * Some update footer at the bottom of the app about the overall project progress and numbers of records already collected in the vicinity as relating to where that person is would be another nice geospatial feature to highlight?
+  * Ultimately the app should have a browse by location function and 'damage assessment maps' at small scale, which would just be passing the long/lat/description to the google map app to show the direct area around the user.
+  * Hints as to the locations where user might pay more attention based on the science - engaging the user beyond one or two uses.
+  * More general info on how this endeavor is assisting scientists and its worth i.e. a more public summary of the why and what of the project as part of the App.
+  * The product is itself it easy to use but as a developer i noticed a few things that could be improved.   It was hard to find the application on the app store as it was named LeafWatch while the project was called NatureLocator so could be confusing to some users.  I would have liked to have seen a link to the project in the app so that I could maybe even rate some other users contributions from inside the app.  As for validation of the photos on the website, it appears that you have make two clicks to validate a photograph, one to select your rating and a button to submit your rating.  So for the user that has rated ~3000 photos, they have had to click ~6000 times.   In my opinion, validating a photo should be a one click process.
+
+## Additional Product Comments ##
+An 'other comments' box was provided to panellists:
+  * I'm not sure how thoroughly this has been tested and so cannot give it a 5 star rating (Deliberately tough marking).  The Leaf Watch app is a product being actively used.  However, what is of interest to HE is the generic platform and - at the risk of being too demanding - I would have liked to have seen more about how the generic platform can be used/adapted for use by other research areas in HEIs.  Clearly a very successful project and product for the institution however.
+  * This is a very nice app. However I am uncertain as to how generalizable it is and how easily customized for other scenarios. Unlike say epi-collect which is intended as  a general survey tool this seems to not be as configurable. That said, as a bespoke app with  a particular purpose in mind it does it very well and serves the intended community admirably. A number of other academic projects are essentially re-enacting the same generic use case (albeit in slightly different contexts) -- there is high potential therefore for redundancy and unnecessary reinvention. Perhaps there needs to be a JISC incubator for apps and 'quick launch' bootstrap dev kits based on re-factored existing codebases that can quickly and cheaply service more generic use cases such as persisting locationally tagged user generated push information.
+  * 62 ratings on the iPhone App store with an average of 4+ show it is a) being used, and b) well received by the wider public. It would be interesting to know how many times this app has been downloaded from the two App stores and see regular quick updates on the blog.
+  * I liked the project but I would like to see the project share the data collected in an open format so that other projects can use the data and so that the citizen scientists could be further engaged. Although users can see the data they provided to the project on the iPhone app, since the data is cc zero licence there is no way of downloading the data for other uses.
+
+
+### Correspondence (below as comments) ###
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

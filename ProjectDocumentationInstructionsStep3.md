@@ -1,0 +1,147 @@
+# Progress Posts #
+The bulk of your documentation should be Progress Posts as outlined below.
+
+The following topics suggest the type of Progress Posts you should consider doing.  Though we welcome any kind of progress post.
+
+## One Rule ##
+JUST ONE RULE: Please be verbose in using the suggested project tags.  If one of the tags below does not describe the type of post you have written please report back in the comments section below on which tags you are using. We'll then add these tags to the below grid so other projects can use the tag.  Self emerging themes!!!
+
+## Suggested Topics for Project Posts ##
+Please make sure your team is aware of these suggested topics and tags:
+  * The mean average is about a post per fortnight (usually a paragraph or two), however we only require that a minimum of a post per month be written (though perhaps a longer post if done monthly).
+  * We would like you or anyone on your team to write a blog post on the following themes during the course of your project, though you are welcome to find variance in the theme as you see fit.  We are not prescriptive here and really want you to write something that people in the community will want to read, i.e. don't write them for JISC alone.
+
+| **Suggested Progress Post Topics** | **Description / Example** | **Suggested Tags** (please remove 
+
+&lt;anglebrackets&gt;
+
+ when using tags in blog) |
+|:-----------------------------------|:--------------------------|:-------------------------------------------------------------------------------------|
+| "User participation" aka use cases | What is the core user case(s) you think of when developing your product; how has this story changed as you have engaged with the end user e.g. "we often talk about Sam the part time working student we met while at...".  Bonus points for actually talking about real end-users you are working with (please note: you nor anyone in your project are end users!) | <UserCase> <EndUser> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| Why the content we are working with is cool | What content or data are you working with, what does it look like, how do users use it, why is it valuable.  Perhaps just a simple description and some pictures or screenshots of the types of resources that are interesting.  Is content king?  You tell us.  | <ProjectContent> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| "Day-to-day work" aka tools, tips and trick that make you productive | What software tools or productivity methods do you use and how do you use them?  How do they make you more productive and why do you see value in using them?  Any and all tools, methodologies or diagrams showing off the way your project is run from an individual or team perspective are welcome. | <ProjectTools> <ProjectMethodology> <ProjectImplementation> <ProjectProductivity> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| "Technical standards" aka stuff you reuse | What technologies, frameworks, standards or anything else that makes your life easier (or harder) in your work.  For example: what programming language (or framework, IDE, pattern, etc) do you use and why do you love it, e.g. "why I love Object Relational Mapping in Ruby or Django" or "why I think JSON is great but could do this...", please remember to provide links for standards and acronyms, etc. | <TechnicalStandards> <TechnicalDevelopment> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| "Value Add" aka what shifted your thinking in a new direction | What was the most important thing you discovered that brought value to your project, e.g. what was the deciding factor that made you make a specific decision on a what machine technology or human process you were going to use? |  <ValueAdd> <DisruptiveInnovation> <ChangeFactor> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| "Project Evaluation" aka iterative reflection | Undertake a quick iterative evaluation process, aka something that can be done when you are  waiting for public transportation (e.g.[SWOT analysis](http://en.wikipedia.org/wiki/SWOT_analysis)) of your project.  The key is to truly know thyself or at least your project. |  <ProjectEvaluation> <SwotEvaluation> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ <YourProjectTag> |
+| "Small WIN(s") & "FAIL(s)"**aka advice others could benefit from**|  Announce small wins for the project, e.g. when you finish a coding sprint or when a user has a 'wow your software is cool' moment.  The more of these short "win" posts the better!  Also don't forget to post the FAIL(s) as well: telling people where things went wrong so they don't repeat mistakes is priceless for a thriving community. | <!WIN> <!FAIL> 
+
+&lt;ProgressPosts&gt;
+
+ 
+
+&lt;jiscGEO&gt;
+
+ 
+
+&lt;inf11&gt;
+
+ 
+
+&lt;JISC&gt;
+
+ 
+
+&lt;YourProjectTag&gt;
+
+ |
+
+### Next Step ###
+Ok, I've finished this step what next?
+
+[Go to Step 4 - The Project Product Post (say that five times fast)](ProjectDocumentationInstructionsStep4.md)

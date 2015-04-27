@@ -1,0 +1,49 @@
+# PEG Task Description #
+The job of a 'Programme Evidence Gatherer' (PEG) is similar to that of an anthropologist, except in an online environment. The first half of the job is basically observation and research (specifically reading project blog posts and reports) to gather lesson and themes that are commonly emerging out of the projects as a collective.   The second half of the job is reporting back those themes in a comprehensible and interesting way to the projects as well as significant stakeholders.
+
+## Overall Context for the PEG activity ##
+The PEG must work within the context of the overall programme programme which includes working with the following people:
+
+  * Programme Manager
+  * Project Managers
+  * Senior Managers and their Teams
+  * Significant sector stakeholders
+
+## Overall Aim of PEG ##
+The aim of this PEG work is to produce two synthesis artefacts (i.e. reports for specific audiences: a.) an evaluation artefact for Senior Management that will help inform where further money should be dedicated and cut, and b.) a dissemination artefact that can be delivered to significant sector stakeholders both in the UK and Abroad that will inform them of the changes that have occurred and why they should join in on these changes.
+
+![http://farm5.static.flickr.com/4023/4717586562_b55fe13140.jpg](http://farm5.static.flickr.com/4023/4717586562_b55fe13140.jpg)
+
+### Getting started / set-up ###
+  * Declare a unique PEG tag, see:
+  * Start up a blog where you can post all of your PEG work (you'll need to follow the same ProjectDocumentationInstructions as the project, but without the project plan as this is your project plan)
+  * Aggregate all of the project blog feeds into a single feed (e.g. use Yahoo Pipes, GoogleDocs or Netvibes <-- ask the Programme Manager if you've not done this before).
+  * Get to know this wiki and all the pages in it so you know what the project have to do and what the Programme Manager has to do.
+    * Each project has a page in this wiki and it is those pages that will be the primary place for you to "check in" the work you are doing on the projects as well as the primary space where you can communicate with the project and programme manager about the status of their project.
+
+### Day-to-day tasks for a synthesis liaison ###
+  * **Read new project blog posts and comment on them** (via blogs, tweets, emails, etc) and then provide short updates back here on this wiki to update the pages on each projects and comment what changes have occured to the project since last time you checked.
+  * **Tweet some of the most interesting links using the #jiscGEO tag** and don't forget to tweet the stuff produced elsewhere in the world (not just the project produced information).
+  * **Create a conversation between the projects** and make lots of comments on their blogs, even if it is just copying and pasting particular quotes from the blogs into common themes.  Using quotes from blogs to support the themes you see emerging is the right way to do your job!
+
+### Fortnightly Tasks ###
+  * Reflect on what has been written over the past two weeks and provide a couple of paragraphs on your PEG blog about
+  * Record the significant emerging themes (where two or more projects are starting to agree on something) and record them in a common sandbox space where you and the Programme Manager can both add emergent themes.
+
+### Quarterly tasks ###
+  * Each month you should publish a newsletter that highlights and quotes significant efforts achieved over the past month (via a "Synthesis Liaison" blog with good use of tags!).  You should be categorising these highlights as common overall themes.  It is very much your job to create the classification system for organising these projects as well as highlighting the successes (no matter how small) as they happen.
+  * You'll need to co-ordinate the dissemination of any newsletters you produce.  This means getting the JISC programme manager to describe the types of audiences you are writing for and how you should be writing it so you can get the powers-that-be interested in what you are saying.  Remember a key part of your work is to provide a high-level view to the politicians so they will want to allocate more resources to the cause.
+
+### Overall task ###
+  * By the end of the programme you will need to go back and look at all your observations and newsletters and do one last summation report that synthesises your own work and declares the most significant themes and helps classify the products produced by the projects (both tangible and intangible) to the themes you have observed.  This final report will feed into both the overall programme evaluation (synthesised themes over all of JISC portfolios of programmes) and into a communication strategy that will help disseminate the products that the project have achieved to other Universities throughout the UK.  An example of this is the JISC Toolshed Newspaper produced for the #jiscRI programme.
+
+## What kind of themes from projects to collect ##
+  * Products (tangible and intangible):
+    * The most significant thing to understand from all projects is/are the products they will have produced by the end of the programme.  There are generally two types of products produced, tangible and intangible.
+    * For example, tangible products are the actual things created that can be passed on or reused after the end of the project.  Examples include reusable software apps, guidance reports, datasets, etc); intangible products include things like skills gained, processes changed, lessons learned, relationships formed, etc.
+  * Themes, themes and more themes
+    * This is really up to you to figure out what the projects are really thinking about and what patterns are emerging between all those themes.  Good luck!  It takes a lot of thinking.
+
+# Characteristics of a good synthesis liaison #
+  * Be thorough and friendly with projects: some of the most intuitive information you collect for synthesising will be via a random skype or phone conversation.  Project like talking about what they do so don't be afraid to ask call/IM and ask projects some quick questions.
+  * It is your job to see past the bias of individual projects and see the programme as a whole.  Individual project always think their work is the most significant, you must see past this. Also, the Programme Manager and their oversight of the programme is just another "project" amongst all the other projects in the programme, i.e. the Programme Manager (no matter what they say) are personally engaged in this work and see things that are not as significant as they think.  Be mindful of your emotions jedi - you must remain neutral so the truth you can see... ;-)

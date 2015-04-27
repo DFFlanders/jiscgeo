@@ -1,0 +1,52 @@
+# Final Product Post #
+This post if an advertisement for your final project product and outputs
+  * DEADLINE FOR POSTING ON YOUR PROJECT BLOG: MIDNIGHT FRIDAY 11 NOVEMBER 2011
+    * You'll also need to add the link of your final product post to the DoaP Spredsheet.
+  * The Review Panel will be meeting on Wednesday Nov 30th.
+    * Each Product Post will be reviewed by a minimum of three reviewers with expertise in: technical capability, usability design and business institutional value.
+    * Anonymous reviews will be posted online as part of this notebook on the projects.
+
+## Required Elements to Address for Your Final Product Post ##
+For this post(s) you are required to address each one of the following. Please note that while your product post should contain information about each one of the following elements it should do so in the order and format that you think will best market your product - this should be first and foremost an advertisement that is interesting, or rather an "infomercial" that says a lot about your product but in an interesting way).
+
+**Introductory Product Information**:
+  * The Name of your Product (note: this can be different from the name of your project, especially if the name is more understandable/interesting for the user that the product is intended for)
+  * The Strap Line for Your Product, e.g. "every little helps", "I'm loving it", "just do it", etc.
+  * The primary University or College user of your product, e.g. teacher, student, researcher, librarian, developer, etc.
+  * A simple "elevator pitch" for your product directed at your user that explain what problem or what situation your product is going to solve for them, e.g. think argos-like catalogue description.
+  * NB be interesting and remember 'less is more'!
+
+**Instructional Product Information**:
+  * What is the use case for how the product is doing to be used, tell a real story for how this product has been used by your user and the real world effect it has had upon them.  Don't be afraid to talk about a real user (with their permission) and provide pictures for context.
+  * Links to the actual product.  Depending on how mature your product is this could be to several different "things", for example:
+    * If an application for downloading on a computer or phone, a link to where the app can be downloaded, e.g. perhaps create a nice button to click on to signify this is the product.
+    * If a report a link to the various versions of the report, e.g. a PDF, HTML and/or ePUB version.
+    * If an online web system
+  * How will the user actually use this product, explain to them in a step-by-step way for how they actually can start using the product right now.  This could be in the form of a screencast or an ikea-like instructional manual or any other clear guidance for how your intended user can use this product right now.
+  * Don't forget pictures or (simple) diagrams intended for 'selling' the product to the user.  NB this post is not academic research and any tactics for engaging the user in why they should want to use this product (so long as ethical) are encouraged.
+
+**Contextual Product Information**:
+  * Picture of Project Team (ideally it is a friendly picture of the whole team together with names under each face, [see this picture as an example](http://www.eecs.qmul.ac.uk/~simond/images/JISC-LinkedBrainz.jpg)). NB this could just be a link to the 'about' section of your project blog.
+  * Licensing of final product, this should include both creative commons and any applicable code licenses.  Also a declaration by the team for how their commitment to assuring the product is available for a minimum of three years beyond the life of the product for reuse by other Universities and Colleges.
+  * JISC Logo and any other sponsorship logos (this should be on your blog nav as well).
+  * This contextual information of the product should convey TRUST so that the user understand they are using something that is for the public good.  Clear and honest effort should be made to state the status of the product, if the product is BETA say so, it if is still a prototype state that clearly as well.
+
+**Table of Context for Project Blog**:
+  * The project should retrospectively go back and categorise all the project blog posts into a 'Table of Contents' so that the user can understand how categories of posts relate to the final product (see examples at the end of this page as well).
+    * It is important to note that this Table of Contents will also act as the documentation that HEFCE requires to demonstrate proof of the project being completed as per their and JISC's Grant Funding guidelines.  Your JISC Programme Manager reserves the right to request additional documentation if the blog does not represent a full spectrum of information on the project that makes it easily understandable by other Universities and Colleges.  Projects should make every effort to present a clear and transparent insight into their project's progress.
+    * At a minimum projects should have blog posts on the following: project plans, overall budget information, project progress updates, technical progress and insights, usability progress and insights, overall commentary and insight for other work in the area of geospatial innovation, etc.
+    * Projects should have been briefed by their JISC Programme Manager at their SiteVisit on the status of their project blog.  If there are further questions please contact your JISC Programme Manager immediately.
+
+**Tags/Labels for the Final Product Post**:
+  * You should add the following tags/labels to the final product post, if you decide to split up the final product post into a couple of sequential posts (1of3 etc), please make sure to add the appropriate label/tag per post.
+  * JICS JISCgeo JISCdi INF11 DigitalInfrastructure Innovation Product ProductDescription FinalProductPost TableOfContents ToC
+
+## Examples of previous 'Final Product Posts' ##
+Please note these product posts are from other JISC projects which were addressing innovation topics that were different from the topic of Geospatial, though I have tried to provide a range of examples to demonstrate different methods for encouraging engaging 'final product posts' for different types of 'products':
+  * This ['final product post' of an iPhone App](http://walkingthroughtime.eca.ac.uk/?p=268) was eventually developed into [its own product website](http://www.walkingthroughtime.co.uk/).
+  * This [project was delivering a dataset as its final product](http://code.google.com/p/shuffl/wiki/20091130_JISCRI_ProjectFinalProgressReport) (rather than a piece of software, document or guide) along with a set of principles for how more data could be opened up.  Coincidentally, [all European Libraries have voted to open up their bibliographic data](http://openbiblio.net/2011/10/04/did-you-hear-that-loud-bang-that-was-cenl-releasing-their-data-under-cc0/) three months after the end of this project.
+  * This project [delivered a new metadata application profile including a transformation for that data](http://www.blogs.ukoln.ac.uk/locah/2011/07/01/final-product-post-ead2rdf/) which because it was targetted at a very specific 'Archivist' group was very well received.
+  * [This was a technical project developing a tool for researcher](http://code.google.com/p/shuffl/wiki/20091130_JISCRI_ProjectFinalProgressReport), which while very text heavy was a good clear description of what was created:
+  * An example of a [Table of Content that is done as more of a kind of overall story](http://sailsproject.cerch.kcl.ac.uk/2011/06/sails-project-blog-table-of-contents/) (naturally as your project should be), or another example of a ToC that is more traditional (but also easy to understand where to find what about the project)
+  * This final [product was a shopping list along with advice on what equipment to buy for doing digital field work](http://projects.kmi.open.ac.uk/era/vowlan/?p=327) which is still going as a project (and still using their blog) to this day :)
+  * For those of you planning to close your blog after the end of the project (though of course we encourage you to keep on blogging if the project team is carrying on) then [this post that is a kind of 'final credits' that you would see at the end of a movie](http://walkingthroughtime.eca.ac.uk/?p=315) is a nice way to sum it all up.

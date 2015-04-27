@@ -1,0 +1,380 @@
+The [twitter hastag](http://twitter.com/#!/search/jiscgeo) for this event is #jiscGEO
+
+# Geospatial Tools & Tech Events Overview #
+
+## When ##
+Please note that there are several Geospatial related events happening the Week of November 28th - December 1st (2011).  The main event is happening on the first day with the awards party happening that Monday evening.
+
+In summary, the following events are taking place (please see below for detailed agenda):
+  * **Monday** (Nov 28) 9.30am-5.30pm: JISCgeo Innovation Programme Meeting (New Geospatial Tech & Tool Product Launch) - this is a free and open event that anyone from the Academic sector can attend.
+    * Mon Night (Nov 28) 7pm - 11pm = JISC Geospatial Innovation Awards Dinner
+  * **Tuesday** (Nov 29) 10.30am - 4pm = JISCgeo Programme Meeting (Pathways to Sustainability) - this is a free and open event that anyone can attend.
+  * **Wednesday** (Nov 30) 9.30am-5pm = Space Time Workshop - this is a free and open event that anyone can attend. (30ppl max)
+  * **Wednesday** (run separate from above space time workshop) (Nov 30) 10am-2pm = JISCgeo Product Review Panel Meeting - this is an invitation only event. (15ppl max)
+  * **Thursday** (Dec 1) 11am-4pm = Geospatial Services Review Workshop - this is an invitation only event. (20ppl max)
+
+## Where ##
+Ravensborough College in London (next to the Millenium Dome).
+  * Tube Stop: North Greenwich (see below for picture).
+  * For accommodation see comments section at the bottom of this page.
+
+## Who ##
+This is an open event that anyone is welcome to attend, however this event is specifically for the set of innovation projects that make up the "JISCgeo Programme" of work and so the emphasis will be on the new geospatial products they have produced via their year long projects and how they will improve the use of these tools and technologies for students, researchers, and lecturers.  Participants should have (at a minimum) an understanding of technology (e.g. do you own an iPhone and/or Android and know the difference?) and also some understanding of geospatial technologies and how they work (e.g. do you know the difference between Google Earth and Google Maps?).
+
+## What ##
+The JISCgeo Projects are made up of a dozen projects who have worked for the past year on demonstrating the value of geospatial technologies in the UK Higher and Further Education (University) sector.  This meeting is their opportunity to show off what they have created and demonstrate its value for students, researchers and lecturers.  Some of the events will use a organising strategy known as an "unconference" event to encourage networking and showcasing of products.
+
+## Register ##
+REGISTRATION IS NOW CLOSED, PLEASE EMAIL D.FLANDERS@JISC.AC.UK IF YOU WOULD LIKE TO ATTEND ONE OR MORE OF THE DAYS AD HOC.
+
+
+---
+
+
+---
+
+
+# Detailed (Live) Agenda #
+This agenda is ALIVE! and will change based on the activities and participation of the people on the day, so please don't waste the paper by printing it (this LIVE agenda will be projected at the venue throughout the day)
+
+---
+
+
+
+## Monday 28th November ##
+Event Day Title: JISCgeo Programme Meeting
+  * Event Type: Unconference (Day 1)
+  * Rooms: 702/703
+  * Time: Start 9am / End 5.30pm (not including evening awards party which starts at 6pm)
+  * Objectives for the Day:  Launch and demonstrate the new innovative products that students, researchers and teacher use to enhance use of geospatial technologies.
+
+Day 1 Agenda:
+  * 9.30am - Welcome and orientation.
+  * 10.00am - Keynote: Julie Sweetkind-Singer (Assistant Director of Geospatial, Cartographic and Scientific Data & Services, Stanford University)
+  * 11am - Tea / Coffee
+  * 11.30am - Introduction to the products on display for the day, by David F. Flanders (JISC Programme Manager for Geospatial Innovation)
+  * Noon - Lunch and Networking
+
+_NOTE: The afternoon sessions will be run in the style of an ["unconference"](http://en.wikipedia.org/wiki/Unconference) whereby participants are urged to use the ["rule of two feet"](http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_Two_Feet) by circulating around the room to experience each of the different projects and their products as they are demonstrated (a kind of mini 'trade show', if you will)._
+
+Tea and Coffee will be available on tap in the 'Kitchenette area' throughout the afternoon - have you had your "water cooler moment" yet?
+
+  * 1pm to 2.30pm - Unconference Session no.1
+    * Table 1: The Gemma Project (#gemmaProject), see: http://gemma.blogs.casa.ucl.ac.uk/
+    * Table 2: The Leaf Watch Project (#naturelLocator), see: http://naturelocator.ilrt.bris.ac.uk/
+    * Table 3: The GeoSciTeach Project (#geoSciTeach), see: http://geosciteach.wordpress.com
+    * Table 4: The G3 Project (#jiscG3), see: http://jiscg3.blogspot.com/
+    * Table 5: The ELOgeo Project (#elogeo), see: http://elogeo.blogspot.com
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
+  * 2.30pm to 4pm - Unconference Session no.2
+    * Table 1: The Pelagios Project (#pelagios), see: http://pelagios-project.blogspot.com/
+    * Table 2: The GeoCrimeData (#geoCrimeData), see: http://geocrimedata.blogspot.com/
+    * Table 3: The Halogen Project (#halogen2), see: http://leicesterhalogen2.blogspot.com/
+    * Table 4: The U-Geo Project (#geoUKDA), see: http://geoukda.wordpress.com/
+    * Table 5: The iGibs Project (#iGibs), see: http://igibs.blogs.edina.ac.uk/
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
+  * 4pm to 5.30pm - Unconference Session no.3
+    * Table 1: The xEvents Project (#xEvents), see: http://xevents-blog.sas.ac.uk/
+    * Table 2: The STEEV Project (#e3viz) http://steev.blogs.edina.ac.uk/
+    * Table 3: Wisard, see: http://www.wiserd.ac.uk/
+    * Table 4: HistoryPin, see: http://www.historypin.com/
+    * Table 5: Advice on Inspire (#jiscGECO), see: http://geco.blogs.edina.ac.uk/category/inspire/
+    * Table 6: Geospatial community events (#jiscGECO), see: http://geco.blogs.edina.ac.uk/
+  * 5.30pm - Wrap Up
+    * Ballot vote for 'Geospatial Tech/Tool Project of the Year'.
+    * Directions to dinner and awards venue.
+
+### Evening of Mon 28th Nov ###
+Location: Inside the Millennium Dome - Alphabet City
+  * Objective of the Evening: celebrate the delivery of new innovative geospatial tools and tech for Universities and Colleges!
+  * Start: 6pm / End: 11pm
+
+Awards to be given to the JISCgeo Community of Projects:
+  * Project Blog Post (single entry) of the Year - xEvents (nominees: #gemma #jiscG3 #naturelocator)
+  * Project Blog (overall) of the Year - #jiscG3 (nominees: #pelagios #naturelocator #GeoSciTeach)
+  * Project Manager of the Year - Amir #ELOgeo (nominees: #iGibs #STEEV #pelagios)
+  * Hybrid Project Manger / Developer of the Year: Nick Malleson #geoCrimeData
+  * Project Developer of the Year - The #gemma developer team (#halogen #pelagios)
+  * Project of the Year - #NatureLocator (from the straw pole taken at the end of the year)
+
+_NB: The "Project **Product** of the Year" (the penultimate award) will be announced in the following weeks after the event once the marking panel has agreed their marks, stay tuned to the [#jiscGECO blog](http://geco.blogs.edina.ac.uk/) for the announcement._
+
+
+
+---
+
+
+---
+
+
+
+
+## Tuesday 29th November ##
+  * **Event Day Title**: JISCgeo Programme Meeting
+  * Event type: Unconference (Day 2)
+  * **Objective of the Day**: The Future of Geospatial
+  * **Rooms**: 702/703
+  * **Time**: Start 10.30am / End 4pm
+
+NOTE: The space will be open with tea and coffee available from 9am onwards for anyone who needs to use the wifi, do email, personal tasks, etc.
+  * 11am - Welcome and Orientation: How to participate in this version of an Unconference.
+
+Unconference Session no.1:
+  * 11.30am to 12.30 - Presentation on Training Non-GIS Experts in the use of Geospatial Tools and Technologies at Stanford University by Patricia Carbajales & Nicole Coleman
+  * 12.30 to 1pm - Breakout Discussion Groups based on Presentation and its Q&A
+  * 1pm to 1.30pm - Lunch
+
+Unconference Session no.2:
+  * 1.30 to 2pm - Presentation of an 'Emerging Geospatial Innovation Themes Map for UK Universties and Colleges' by Gregory Marler (Programme Evidence Gatherer for the JISCgeo Programme), No More Grapes Ltd.
+  * 2pm to 2.30pm - Breakout Discussion Groups
+
+Unconference Session no.3:
+  * 2.30pm to 3pm - Presentation on 'The Myth that is Project Sustainability' and 'Future Strategic Funding Areas for JISC' by David F. Flanders (JISC Programme Manager)
+
+Unconference Wrap-up and Close (for those who are staying on for one of the follow up events on Wednesday or Thursday):
+  * 3.30pm to 4pm - So what is happening the next two days on Wednesday Nov 30th and Thursday Dec 1st?
+
+
+
+---
+
+
+---
+
+
+
+
+## Wednesday 30th November ##
+Space and Time in the Digital Humanities Workshop, hosted by NeDiMAH and JISC.
+
+Full event details at:
+http://spacetimewg.pbworks.com/
+
+  * Start: 9.30am / End: 5pm
+  * Event Themes: "Place, Period, Event - Entity-based Approaches to Space and Time"
+  * Description: This workshop will focus on conceptual approaches to space and time, as opposed to geometric and coordinate based-methods. Such approaches have proven useful in contexts in which exact spatial location is either unknown, uncertain or irrelevant, and can also prove powerful catalysts for establishing connections between heterogeneous data (Linked Open Data). Services that provide such conceptual frameworks can also provide useful additional information, such as alternative toponyms, coordinates and categorical information. Three panel sessions will be dedicated to applying these methods to Places, Periods and Events.  A fourth session will open up these topics to discussion by all participants. The workshop will be held in conjunction with the Pelagios2 Workshop on Connecting Ancient World Data (1st December) at the same venue, and participants are warmly invited to attend both of them.
+
+Confirmed speakers: Ceri Binding, Tom Elliott, Peter Sefton, Ryan Shaw, Humphrey Southall (additional speakers TBC)
+
+  * 9.30am - Orientation and Introductions
+  * 10:00 Panel Session on 'Places'
+  * 11.15 COFFEE / TEA
+  * 11:45 Panel Session on 'Periods'
+  * 1pm LUNCH
+  * 2:00 Panel Session on 'Events'
+  * 3:15 COFFEE / TEA
+  * 3.45 Open Forum Discussion on Space Time
+  * 5.00 Close.
+
+
+---
+
+
+---
+
+
+
+## Wednesday 30th of November ##
+**jiscGEO Product Review Panel** _note: this event is invitation only and will be run separate to the NeDiMAH Space and Time workshop happening on the same day (see above)_
+  * Boardroom (8th Floor)
+  * Start/End Times: 10am-2pm (followed by a sit down lunch at Chiquitos)
+  * Description: Each #jiscGEO project has produced a final product that will be reviewed by a group of panelists.  Each product will be reviewed by three types of panellists: a.) usability expert looking for ease of usability and likelihood of reuse, b.) technical expert reviewing feasibility for improvements by other developers, c.) business expert evaluating the value for Universities and Colleges.  Each of these experts will be asked to provide a recommendation for how mature the product is and the likelihood of the product being further advanced.  JISC will use these recommendations to decide if further follow-on funding would be of value so project can complete their product and deliver it to the wider Universities and Colleges sector for reuse.
+  * Disclaimer: It is important to note that this review is explicitly looking for the capability of reuse for a single product and is not determining the actual value that the project on the whole has brought to the sector or the host institution.  Most JISC projects are of greatest value to the institution because of their capabilities of improving skills of staff which in turn enable the institution's capabilities.  It is hoped that any and all feedback provided from the panel will be seen in the light in which it is given, which is to help provide a testing mechanism for the project.
+
+
+
+---
+
+
+---
+
+
+## Thursday 1st of December ##
+**Pelagios2 Project Workshop** (this is a seperate event to the jiscGEO Activities - though we fully support this project as it continues to grow beyond its humble beginning as part of the jiscGEO programme).  Accordingly, if you want to attend this event you will need to register separately at this link:
+
+http://pelagios2.eventbrite.co.uk/
+
+The Pelagios2 workshop will focus on the practical aspects of linking together open Humanities resources by means of shared entity URIs. It will take the form of hands-on group work. The ultimate goal of the workshop is to:
+  * Develop scenarios for interconnectivity which may be of interest to the Humanities community
+  * Identify which scenarios could be “quick wins” that are easy to achieve, and those which are challenging and could be part of a longer-term vision
+  * Identify the pain points involved in connecting online humanities data
+
+In order to facilitate interaction and communication between participants, group work will be carried out in two groups (“humanities” and “tech”), in three parallel working sessions, with communication and discussion in between. Groups will be chaired in an “inverted management” fashion: i.e. the humanities group will be chaired by a representative of the “tech” community and vice versa, with an additional “mediator” bouncing in between the groups. Common outcomes and results will be discussed, summarized and prioritized in a fourth wrap-up session.
+
+The themes and goals of the “humanities” working sessions will be:
+  * H1)	Data and resources in the digital humanities – the group will document what data they are using right now as part of their research, what other (open) data is available, how it is being used, etc.
+  * H2) 	Informational structure and licensing – for some of the resources identified in H1, the group will document its informational structure: what’s in the data, how it is logically structured (in particular regarding the representation of space, place and time periods). The group should also document data resources’ licensing terms.
+  * H3)	New research avenues– Based on H1, H2 and T2, the group should identify intersection points between data resources which may have the potential to enhance future humanities research.
+
+The themes and goals of the “tech” working sessions will be:
+
+  * T1)	Tools and methods – the group should document what digital tools and methods they are using as part of their work with data, visualization, analysis, etc.
+  * T2)	Data Opportunities and Challenges – the group should discuss and document the technical/methodological opportunities and challenges that exist for obtaining and processing the data catalogues in session H1 (e.g. issues of data normalization, data triage, etc.)
+  * T3)	Quick wins – based on the results of T1, T2, and H2, the group will experiment with data intersection scenarios which may provide “quick wins” (e.g. in terms of interoperability, visualization, analysis) from a technical point of view.
+
+The final discussion will compare the list of ‘quick wins’ and research avenues produced by H3 and T3 in order to identify ‘low-hanging fruit’: those points of intersection between independent resources that are both comparatively easy to achieve and could open up new avenues in Humanities research.
+
+Start/Finish Times: 9:00-5:30
+
+
+
+---
+
+
+
+## Thursday 1 December ##
+_note: this is an invite only event_
+  * Event Title: Geospatial Resource Review - Services Scoping 2012-2015 Workshop
+  * Objective: to look over geospatial resources that .AC.UK users use and list use cases for each of these geospatial resource types.
+  * Start/End: 11am - 4pm
+
+Agenda to follow:
+  * 11am: Welcome, Housekeeping, Orientation and Introductions - David
+  * 11:15: Context of this workshop for the service Review - Abi
+  * 11:20: Overview of the Day - how is this going to work? - Ian
+  * 11:30: Use Case (user story) Brainstorm (session no.1): 4 Use Cases: Lecturer, Researcher, Undergrad, Grad - identify 4 different subject disciplines for each and then pick your favourite
+  * 12:00: Each Group Reports back Favorite Use Case
+  * 12:30 Introduce geospatial resources spreadsheet - Alison
+  * 12:40: Add resource types from spreadsheet to favorite use case, noting any resources not listed
+  * 1pm: Lunch
+  * 1.30pm: Brainstorm further Use Cases (session no.2) > Pick Favorite Use Case > Add Resources from [now have 8 detailed cases](we.md)
+  * 2.30: Review use cases > Discussion: what is there and what isn't there? (missing geospatial children)
+    * What resources are not in the JISC family? <-- List resources that are missing on its own
+    * How can we express additional use cases so we can make a case for these missing resources?
+    * Whom else is going to add additional use cases? <-- consultation process during December.
+  * 3pm: Working Tea Break:
+    * add additional missing geospatial resource
+    * dotmocracy for most needed missing geospatial resource
+  * 3.30: Discussion: Further consultation for both frameworks - Abi
+    * Timeline for consultation and final sign off for frameworks... sign off by JISC bosses... agreemtn for service review.
+  * 4pm - End
+
+
+---
+
+
+---
+
+
+## Friday 2 December ##
+Pelagios Project Team meeting:
+note this is an invite only event, please contact leifuss@googlemail.com if interested in participating.
+
+
+---
+
+
+---
+
+Attending:
+  * Prof Dr	Daniel	Alves	Auxiliary Professor	Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa
+  * Dr	Gabriel	Amable	Geomatics Officer	University of Cambridge
+  * Dr	Suchith	Anand	Research Fellow	University of Nottingham
+  * Tom	Armitage	Geoservices Support	EDINA
+  * Chris	Bailey	Senior Technical Researcher	ILRT, University of Bristol
+  * Mrs	Angela	Baker	Community Programmes Manager	Esri UK
+  * Dr	Elton	Barker	Lecturer	The Open University
+  * Julia	Barrett	Liaison Librarian	University College Dublin
+  * Dr	Robert	Berry	Researcher	WISERD/University of Glamorgan
+  * Mr	Ceri	Binding	Research Fellow	University of Glamorgan
+  * Dr	Andrew	Bradley	REsearch Associate	University of Leicester
+  * Rob	Bristow	Programme Manager	JISC
+  * Dr	Olly	Butters	Scientist	University of Leicester
+  * Dr	Kate	Byrne	Research fellow	University of Edinburgh
+  * Ms	Patricia	Carbajales	Geospatial Manager	Stanford University
+  * David	Carter	Project Manager	University of Leicester
+  * Nicole	Coleman	Research Lab	Stanford Humanities Center
+  * Dr	Ian	Cooper	Manager	JISC Monitoring Unit
+  * Dr	Paul	Davies	Science Lecturer	Institute of Education
+  * Mr	Shawn	Day	Project Manager	Royal Irish Academy
+  * Matthew	Dovey	Programme Director, Digital Infrastructures (Research)	JISC
+  * Mr	Steve	Dunn	Geography teacher	GSAL
+  * Dr	Stuart	Dunn 	Research Fellow	King's College London
+  * Alastair	Dunning	Digitisation Programme Manager	JISC
+  * Mr	Alexander	Dutton	Data Wrangler and Developer	Oxford University Computing Services
+  * Prof	Jason	Dykes	Professor	City University London
+  * Øyvind	Eide	PhD student	King's College London, Department of Digital Humanities
+  * Dr	Tom	Elliott	Assoc. Director for Digital Programs	Institute for the Study of the Ancient World (NYU)
+  * Mr	Tom	Ensom	Project Officer	UK Data Archive
+  * Dr	William	Farr	Research Fellow	Institute of Education
+  * Dr	Elizabeth	Fitzgerald	Research Fellow	The Open University (Institute of Educational Technology)
+  * Mr	David F.	Flanders	Programme Manager	JISC
+  * Mr	Dan	Fower	Researcher	University of Portsmouth
+  * Dr	Richard	Fry	Researcher	WISERD
+  * Mr	Steven	Gray	Research Associate	UCL
+  * Prof	Muki	Haklay	Professor of GIScience	UCL
+  * Dr	Mark	Hedges	Deputy Director, Centre for e-Research	King's College London
+  * Mr	Chris	Higgins	Workgroup Leader	EDINA, University of Edinburgh
+  * Prof	Alexander	Hirschfield	Professor of Criminology	University of Huddersfield
+  * Dr	Simon	Hodson	Programme Manager	JISC Executive
+  * Mr	Mark	Holton	PhD student	University of Portsmouth
+  * Dr	Andrew	Hudson-Smith	Director	CASA
+  * Eero	Hyvonen	Professor	Aalto University
+  * Mr	Leif	Isaksen	Research Fellow	University of Southampton
+  * Prof	Mike	Jackson	Prof.	Centre for Geospatial Science, Univ. of Nottingham
+  * Mr	Neil	Jakeman	Research Developer	Kings College Digital Humanities
+  * Krzysztof	Janowicz	Professor	University of California, Santa Barbara
+  * Mike	Jones	Senior Technical Researcher	ILRT, University of Bristol
+  * Mr	Dave	Kilbey	Nature Locator Project Manager	University of Bristol
+  * Dr	Kamie	Kitmitto	Geodata Specialist	Mimas
+  * Kimberly	Kowal	Lead Curator, Digital Mapping	The British Library
+  * Rasmus	Krempel	Research fellow	CoDArchLab
+  * Mr	Peter	Lakin	Senior Lecturer in Engineering Surveying	University of East London
+  * Mr	Simon	Lannon	Senior Research Associate	Cardiff University
+  * Didier	Leibovici	Research Fellow	Nottingham Geospatial Institute, University of Nottingham
+  * Stuart	Macdonald	Associate Data Librarian	University of Edinburgh
+  * Dr	Eetu	Mäkelä	Researcher	Aalto University
+  * Dr	Nick	Malleson	Research Fellow	University of Leeds
+  * Dr	Glauco	Mantegari	Researcher and consultant	University of Milano - Bicocca
+  * Mr	Gregory	Marler	PEG	No More Grapes
+  * Mr	Keith	May	Information Strategy Advisor	English Heritage
+  * Guy	McGarva	Geoservices Project Officer	EDINA
+  * Andy	McGregor	Programme manager	JISC
+  * Ms	Alison	McLeod	Analyst	JISC Monitoring Unit
+  * Mrs	Gail	Millin-Chalabi	Geodata Services Development Officer	Mimas
+  * Mr	Jeremy	Morley	Director	Centre for Geospatial Science
+  * Prof	Jan-Peter	Muller	Head of Imaging	UCL Mullard Space Science Laboratory
+  * Dr	Andrew	Newton	Senior Research Fellow	The University of Huddersfield
+  * Franco	Niccolucci	Professor	PIN
+  * Dr	Abiodun	Obafemi	Services Relationship Manager	JISC
+  * Mr	Oliver	O'Brien	Research Associate	UCL CASA
+  * Dominic	Oldman	deputy head of IS	British Museum
+  * Dr	Scott	Orford	WISERD Data Co-ordinator	WISERD, Cardiff University
+  * Ms	Nicola	Osborne	Social Media Officer	EDINA
+  * Addy	Pope	GoGeo Content Officer	EDINA
+  * Dr	Amir	Pourabdollah	Research Fellow	The University of Nottingham
+  * Mr	Mark	Power	Researcher	University of Bolton
+  * Dr	Sara	Price	Senior Lecturer	Institute of Education
+  * Simon	Price	Acting Deputy Director	ILRT, University of Bristol
+  * Sebastian	Rahtz	Information and Support Group Manager	University of Oxforc
+  * Gethin	Rees	Research Associate	Faculty of Divinity, University of Cambridge
+  * Miss	Cindy	Regalado	Graduate Researcher	UCL
+  * James	Reid	Geiservices businesss development	EDINA
+  * Mr	Patrick	Rickles	Research Assistant	UCL
+  * Mia	Ridge	Doctoral researcher	Open University
+  * Mr	Jason	Sawle	Schools Education Consultant	Esri UK Ltd
+  * Ash	Scheder Black	Programmer/DBA	Temporal Mapping
+  * Mr	Simon	Scheider	Research associate	Institute for Geoinformatics, Münster
+  * Dr	Peter	Sefton	eResearch Manager	University of Western Sydney
+  * Ryan	Shaw	Assistant Professor	University of North Carolina at Chapel Hill
+  * Mr	Ben	Showers	Programme Manager	JISC
+  * Prof	Luis	Silveira	Associate Professor	Faculdade de Ciencias Sociais e Humanas, Universidade Nova de Lisboa
+  * Rainer	Simon	Scientist	AIT Austrian Institute of Technology
+  * Jeanie	Sinclair	PhD Researcher	University College Falmouth
+  * Mr	Mark	Smith	Head of Science	GSAL
+  * Teresa	Smith	G-STEP ERDF project manager	University of Leicester
+  * Dr	Conor	Smyth	Head of Research and Geodata Services	EDINA, University of Edinburgh
+  * Dr	Humphrey	Southall	Reader in Geography	University of Portsmouth
+  * Mrs	Laura	Spinsanti	Dr.	JRC - Ispra
+  * Ms	Julie	Sweetkind-Singer	Asst. Director: Geospatial, Cartographic and Scientific Data	Stanford University
+  * Mr	James Stuart	Taylor	PhD Student	University of York
+  * Dr	Jonathan	Tedds	Senior Research Liaison Manager	University of Leicester
+  * Jasper	Tredgold	Senior Technical Researcher	ILRT, University of Bristol
+  * Mr	Richard	Tyler	PhD Student	University of Portsmouth
+  * Dr	Veerle	Van den Eynden	Manager Research Data Management Services	UK Data Archive
+  * Mr	Steve	Walsh	Research Associate	Aberystwyth University IGES
+  * Mr	Gary	Watmough	Research Fellow	University of Southampton
+  * Dr	Patrick	Weber	Research Fellow in GIS	Department of Civil, Environmental and Geomatic Engineering, UCL
+  * Mr	Jonathan	Whitson Cloud	Documentation Technical Support Officer	The British Museum
+  * Dr	Rebecca	Wilson	Space Academy Project Scientist	University of Leicester
+  * Sofia	Zoitou	postgraduate student	university of thessaly

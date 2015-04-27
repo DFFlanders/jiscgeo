@@ -1,0 +1,55 @@
+As Programme Manager of the JISCgeo Programme over the past year, I am very pleased to give the following awards to projects who particularly impressed me with their efforts.  These awards by no means reflect the success of the projects, as I am very happy to also announce that all projects have delivered their final products on time and to task.
+
+Best of all, the recent Programme Meeting demonstrated that every University that had a JISCgeo Project have successfully "upped their game" in how they integrate spatial competency at their institution.  I am confident we have the foundations for a community of geospatial skills and expertise in these institutions that will begin to gradually spread on to other institutions. After all why would a student, teacher or researcher go to a university that doesn't have some kind of spatial competence in teaching, learning or research?!
+
+
+For the JISCgeo Project of the Year we took a quick straw poll vote with everyone at the Programme Meeting and the winner from that vote was...
+
+The [naturelocator](naturelocator.md) Project!
+
+![http://farm8.staticflickr.com/7153/6432078219_402041602f.jpg](http://farm8.staticflickr.com/7153/6432078219_402041602f.jpg)
+
+
+---
+
+The rest of the awards were given based on my own overall management and observation of the projects as their Programme Manager, and so these rewards really reflect my personal sincere thanks first and foremost:
+
+The JISCgeo Project Manager of the Year award went to (from the [elogeo](elogeo.md) project:
+
+Amir Pourabdollah
+
+![http://farm8.staticflickr.com/7167/6432079137_05e4c29404.jpg](http://farm8.staticflickr.com/7167/6432079137_05e4c29404.jpg)
+
+I also gave a special award to a developer who showed particular promise in also undertaking project management alongside his work as a developer, from the [geocrimedata](geocrimedata.md) project:
+
+Nick Malleson
+
+![http://farm8.staticflickr.com/7027/6432078779_9a577cccf5.jpg](http://farm8.staticflickr.com/7027/6432078779_9a577cccf5.jpg)
+
+The JISCgeo Developer of the Year award is a particular favourite award of mine as I often think developers are the unsung heroes and heroines of project. This year it was most certainly the case that these developers coded day and night to get their product ready for real users to interact with and use, accordingly it goes to a team of developers from the [gemmaproject](gemmaproject.md):
+
+Steven Gray, Oliver O'Brien & Richard Milton
+
+![http://farm7.staticflickr.com/6230/6432078523_37b144436e.jpg](http://farm7.staticflickr.com/6230/6432078523_37b144436e.jpg)
+
+I'm also very pleased to recognise the project who achieved particular success in documenting their progress and reflections via their project blog.  The ability to make documentation interesting and to not only says what the project is doing, but also tell that story in such a way that it engages people beyond the scope of the project is truly a unique talent. And best of all it makes the inner working of the project open and transparent to the wider world while also keeping everyone up to date!
+
+The award for best overall project that continued to produce posts that were both insightful and enjoyable to read is:
+
+The [jiscg3](jiscg3.md) aka the IIGLU project
+
+![http://farm8.staticflickr.com/7160/6432079895_cbc1ac2547.jpg](http://farm8.staticflickr.com/7160/6432079895_cbc1ac2547.jpg)
+
+Finally, is the project (individual) blog post of the year, this award is really a four way tie.  We did pick a winner, because of their ability to take the rather boring (but necessary) topic of "risk management" and turn it into something that was informative and acted as both an aid for the project's management as well as explaining the risk context for the project to an outside audience in an understandable and interesting way.
+
+The award goes to the [xevents](xevents.md) project for their post on ["Good and Bad Risks"](http://xevents-blog.sas.ac.uk/2011/02/managing-good-and-bad-risks.html)
+
+I also wanted to mention the nominations for this individual blog post award as they remain equally interesting to read:
+
+  * The [jiscg3](jiscg3.md) project for their post on ["Reflective Teaching Practice: Do I need to know there is such a thing as a map projection?"](http://jiscg3.blogspot.com/2011/06/reflective-teaching-practice-do-i-need.html)
+  * The [pelagios](pelagios.md) project for their post on ["Growing use of OAC - an inventory (no doubt incomplete) of initiatives"](http://pelagios-project.blogspot.com/2011/11/growing-use-of-oac-inventory-no-doubt.html)
+  * The [gemmaproject](gemmaproject.md) for their post on ["Mapping APIs – Google vs OpenLayers"](http://gemma.blogweb.casa.ucl.ac.uk/2011/06/mapping-apis-google-vs-openlayers/)
+
+![http://farm7.staticflickr.com/6056/6432080463_22d9080638.jpg](http://farm7.staticflickr.com/6056/6432080463_22d9080638.jpg)
+
+Thank you to all of the projects for creating some fantastic geospatial work and products on which we can continue to build. The official review panel will announce further funding based on the products produced from the JISC Geo projects so please do keep a look out for this announcement and for our fantastic projects' work in the near future.

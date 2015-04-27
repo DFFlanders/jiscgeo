@@ -1,0 +1,43 @@
+# Why visit each project face-to-face? #
+
+From the Programme Manager's point of view the site visit is the most significant time spent with projects as it gives a chance to find out what each individual project is excited and passionate about.  Why care about excitement and passion? - Because, these are the things that drive change and innovation (well that and a really good user-centric idea).
+
+_**In short, the goal of this meeting is threefold: 1.) find out what things you are creating, 2.) find out which of those things you are most passionate about, and 3.) agree as a team which one of those things could be reused by other institutions.**
+
+## Setting up the site visit ##_
+
+Prior to the SiteVisit the project should have completed their:
+  * "Project Plan Posts",
+  * "DoaP d/b entry", and
+  * several "progress posts"
+
+see ProjectDocumentationInstructions for clarification.
+
+Please do not prepare any presentations as this session is intended to be interactive so we can discuss where the project is going and what the key value argument are for the product you are producing.  You are welcome to have a slidedeck with diagrams if that helps or even better a prototype of the output your are creating, however a whiteboard and/or flipchart are just as welcome for expressing the ideas of the project.
+
+### Preparation for a good site visit: ###
+The site visit will be an open agenda meeting intended to explore two things:
+
+  * I.) Tangible Product: what is the thing you are creating that people will want to reuse?  While many projects will have several deliverables including things such as software, reports and policies to show for their hard work, it is essential that JISC narrows down to what the primary product is going to be from the project.  This is so we can help support you in telling the rest of the world about product.
+    * Your Programme Manager will review your project blog and send back comments regarding which outputs are most likely to be your primary product.
+
+  * II.) Intangible Products: The "soft" products of the project are things like skills, relationships, observed patterns, shared failures, etc.
+    * Your programme manager will highlight these based on your project blog progress posts along with other things you highlight during the meeting.
+
+## What to expect during the site visit ##
+  * The site visit will be a 2-3 hour meeting (preferably before or after lunch).  An ideal agenda would be the first hour with the entire team followed by an hour with individual team members and finishing off the final hour with a visit around campus including visits with users (scientists, students, etc) and/or senior managers (HoDs, PvCs, etc).
+  * As many of the project team members as possible should attend at the same time as possible - seeing group consensus is a face-to-face-real-time-activity (NB not everyone has to be there at the same time, but the Programme Manager has come all that way to see people face-to-face so please do schedule time with all team members accordingly even if it is disjointed), a short tour around campus is nice as well to help contextualise the project team and its real users (bonus points for interactivity with real users, if applicable).
+    * Please make sure to send directions on how to get to your building well in advance of the site visit (as with all good public sector staff your Programme Manager will be coming via public transport, i.e. train).
+  * This is your one and only visit with your JISC Programme Manager so do take advantage of this meeting, e.g. Programme Manager's are often the most well informed cross-sector person who can make additional resources available for your project.
+  * This meeting is about you and your project so you should do most of the talking; ideally your Programme Manager should be asking questions and taking notes while you provide as much insight as possible.  Please Note: All of this data will help inform the JISC on future spending initiatives.
+
+### Post site visit ###
+After the site visit the Programme Manager has quite a few tasks they will follow-up on:
+  * The Programme Manager will type up their notes on the project and pass them back to colleagues within the Executive.
+  * Actions from the notes will be followed up, usually requests for introductions to other related projects or organisations that can support the project, further guidance / advice and/or request for further information from the project to share with others.
+  * Themes from all the project site visits will be collected and analysed to inform the Programme Meeting (where all project come together to share experiences at the end of the programme)
+  * These notes will be given to the "Programme Evidence Gatherer" who will write up a newsletter telling all the projects of the good things you are doing (along with links back to your project blog).
+  * Dates for when the project will complete and deliver its "final product post" and "final budget" will be agreed, and any no-cost project extensions will be agreed as well.
+
+SiteVisit with the jiscOpenBib and jiscOpenCite Project in Cambridge:
+![http://farm5.static.flickr.com/4085/5020150792_5cc7730a28.jpg](http://farm5.static.flickr.com/4085/5020150792_5cc7730a28.jpg)

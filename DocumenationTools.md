@@ -1,0 +1,32 @@
+You'll need to set up three things (blog platform, analytics engine and license declaration) so you can fulfil your documentation obligations to JISC.  Instructions on how to set these three things up below (please leave comments at bottom of page if you have suggestions for improvements).
+
+## How to set up a project blog ##
+There are three options for setting up a project blog:
+  1. You use a public blog platform like blogger.com
+  1. You use the JISC blogging platform at jiscinvolve.org
+  1. You use your institution's blog farm
+
+Our recommendations for setting up your blog:
+  * We recommend that you use blogger.com to set up your project blog as it comes integrated with an analytics engine (see analytics engine requirements below)
+  * We recommend that the URL of your project blog contain your [project tag](ProjectDocumentationInstructionsStep1.md), e.g. http://ProjectTagHere.blogger.com or http://projectTagHere.institution.wordpress.ac.uk
+
+## How to set up an analytics engine ##
+An analytics engine must be set up for any all web resources that the project produces including the project blog, your code repository and any other project related web pages (wikis, forums, listserv, etc).
+
+Our recommendations for setting up analytics engine:
+  * For your projecct blog see instructions above about using blogger.com so you can integrate Google Analytics with blogger.  [To set up blogger with analytics see the Web](http://www.google.co.uk/search?&q=how+to+set+up+google+analytics+on+blogger).
+
+If you are using Google Analytics could you please "share" the analytics with the following account: analytics.jisc@gmail.com
+
+## How to declare and set up licenses ##
+There are three types of content that projects need to make a decision upon with regards to licensing:
+  1. Project documentation (and any other web resources you create)
+  1. Any code produced by the project
+  1. And data produced by the project
+  1. (and very rarely) the database license
+
+Our recommendations for which open licenses to declare in each case:
+  * For project documentation such as your project blog (and any technical or user instructional documentation you produce) please select a creative commons license, our suggestion is cc-attribution-sharealike.  Please make sure a creative commons logo and embed code are on each page of your blog, i.e. in the right side navigation).  Email your programme manager for further guidance.
+  * For code produced by the project we suggest an Apache license, see OSSWatch for further guidance or your programme manager.
+  * For data license we recommend either a cc-zero license or a PPDL license. See your programme manager for further guidance.
+  * For database license we recommend a ODBL license.  See your programme manager for further guidance.

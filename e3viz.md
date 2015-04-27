@@ -1,0 +1,30 @@
+## Primary Product from the STEEV Project ##
+"The STEEV web tool allows stakeholders to explore varying spatio-temporal patterns of modeled energy use and efficiency outcomes for the period 1990-2050 for area in South Wales"
+
+The product will be primarily useful to: Policy makers, town planners, urban developers,  (green) energy consultants, landscape architects, environmental/climate change  specialists, carbon energy researchers, etc.
+
+Access and description of the product is here: http://steev.blogs.edina.ac.uk/2011/11/11/steev-final-product-post/
+
+### Feedback on the Product ###
+
+  * "The interface is engaging and encourages exploration."
+  * "...of use to government departments both within and beyond the UK"
+
+### What are the keywords for this product? ###
+Keywords for this product include: spatial visualisation, geospatial tool, spatial analysis tool, data visualisation, green movement, energy efficiency, green targets, renewable energy, Welsh School of Architecture, RETROFIT 50 project, climate change, carbon dioxide emissions, SAP ratings, carbon management, green energy technology, green engineering, urban planning
+## Description of the Project that Created this Product (DoaP) ##
+
+### Who was this product created by? ###
+This project was funded as part of JISC's #INF11 Programme of Work. This project ran for 9 months from 1-Feb-2011 to the 31-Oct-2011 at a cost of £96236.  The project Grant was awarded to the the University of Edinburgh <http://www.ed.ac.uk/>, the department the project is hosted within is the Edinburgh National Data Centre (EDINA) <http://edina.ac.uk/> whose postcode is EH9 1PR.  The project director is Peter Burnhill <p.burnhill@ed.ac.uk>, the Project Manager is Stuart Macdonald <stuart.macdonald@ed.ac.uk>.  You can call the project manager on 0131 651 1744 or skype them via estuardito2. For more information on the project manager please see: https://www.census.ac.uk/CensusExperts/SMacdonald.aspx
+
+Other project staff and participants include: George Hamilton, george.hamilton@ed.ac.uk, Ingrid Earp (EDINA Administrator), Simon Lannon from Welsh School of Architecture at Cardiff University (project partner, academic researcher, and user of the product), Herbert Van de Sompel from Los Alamos National Laboratory (T&S only), David Hamill (usability expert), Fiona Hemsley-Flint, Tim Urwin,Nicola Osborne, Lasma Sietinsone, t.urwin@ed.ac.uk, fiona.flint@ed.ac.uk, nicola.osborne@ed.ac.uk, george.hamilton@ed.ac.uk, lannon@cardiff.ac.uk, hvdsomp@gmail.com, l.sietinsone@ed.ac.uk
+
+### Who can use and reuse this product? ###
+As per the JISC Open Agenda, all code produced by this project is licensed under a GNU General Public License version 3.0; all content (blog posts, reports, etc) are licensed using a Creative Commons Attribution 3.0 Unported License, and; all data (spreadsheets, databases, etc) are licensed using an Open Database License (ODC-ODbL) “Attribution Share-Alike for data/databases”. The official funding Grant information for this project as managed by JISC is available here: https://pims.jisc.ac.uk/projects/view/1977 .  For a link to the original project plan please see: http://steev.blogs.edina.ac.uk/tag/projectplan/
+
+### How can I find out more about this product? ###
+All documentation and updates on the project's progress are availabile via the project blog at: http://steev.blogs.edina.ac.uk/ . Please subscribe to their blog (RSS/ATOM) feed at:  http://steev.blogs.edina.ac.uk/feed/ . Please find development code at: https://devel.edina.ac.uk:51876/steev  . Project correspondence occur on this listserv: http://www.jiscmail.ac.uk/STEEV . Projects analytics are at: https://www.google.com/analytics/web/#dashboard/tc3Eyab3TSmRm53E0pZRww/a18658197w42255033p42172841/ . The project wiki is at: http://devel.edina.ac.uk:7775/projects/steev/wiki/Wiki
+
+### Correspondence (below as comments) ###
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

@@ -1,0 +1,58 @@
+## The Project's Primary Product ##
+
+The GEMMA web tool allows anyone to make complex map mashups, quickly and simply. Print and share your map with the world.	GEMMA iPhone Application - Data collector that allows people to collect data from anywhere.	Giving tools to everyone that make the process of making maps fun and enjoyable.
+
+Product Introduction and Instructions: http://gemma.blogweb.casa.ucl.ac.uk/2011/11/say-hello-to-gemma/
+  * Video intro: http://vimeo.com/31969932
+
+Who is this product for: Teachers, Students, Researchers are our main target but the product has been developed for the masses.
+
+Project Keywords: geospatial; open data; data visualisation; tools and techniques, open street map, mobile mapping, linked open data, data store, gemma, geo, iphone, google fusion table, google docs, public mapping, geospatial, open data, data visualisation, tools and techniques
+
+## Find out more about this project ##
+
+All project progress was recorded in the project blog:
+http://gemma.blogs.casa.ucl.ac.uk/
+  * Please subscribe to the RSS/ATOM feed here: http://gemma.blogs.casa.ucl.ac.uk/feed/
+
+The project 'about' page: http://gemma.blogweb.casa.ucl.ac.uk/?p=1
+
+The official project tag is "gemmaproject", i.e. you should be able to use this tag to search on the internet and get back several results on the project.  "GEMMA" stands for Geospatial Engine for Mass Mapping Applications
+
+Short Description: This is what geospatial mapping should be, GEMMA aims to  bring ‘geo’ to the masses and not in a ‘neogeo’ type way, simply find some data, make, mix and display a map, that’s GEMMA in a nutshell.
+
+The original aim of the project was: The ability to create a map without knowing anything about mapping. Simple as, for too long creating a map has been too complicated, there is now a vast amount of geographically tagged information available online, yet to map it you still have to have a considerable amount of computer related knowledge. Not any more, and we are not talking standard pin type maps, we will enable complex spatial mapping to be carried out at the click of mouse and a point at a file.
+
+## Who built this product? ##
+
+The Project Director and Project Manager is [Andrew Hudson-Smith	a.hudson-smith@ucl.ac.uk  / tel: 020 3108 3875 / skype: andrew.hudson.smith](http://casa.ucl.ac.uk/people/person.asp?ID=7)
+
+The lead developers are Steven Gray, <steven.gray@ucl.ac.uk> and Oliver O`Brien
+
+Additional project team members and users include: Sarah Walton, Naomi Lake ( Geography Teacher who is dvising on content and useabilty for high school students), Sonja Curtis (advising on Graphic design) and Richard Milton
+
+To email the project team please use these emails: a.hudson-smith@ucl.ac.uk, steven.gray@ucl.ac.uk, richard.milton@ucl.ac.uk, o.obrien@ucl.ac.uk
+
+This project is based at the [University College London](http://www.ucl.ac.uk) in the [CASA department](http://www.casa.ucl.ac.uk) of whose postcode is W1T 4TJ.
+
+## Terms and Conditions ##
+This project was funded under JISC "inf11" portfolio as part of the JISCGEO strand of work.  It was funded for 9 months starting on 1-Mar-2011 and finishing on the 30-Oct-2011.  The total Grant awarded to the project was £81128.00GBP
+
+All code the the project produces will be licensed under a GNU General Public License version 3.0 (GPLv3).  NB Parts of the code GEMMA will use will remain closed source as dictated by their previous licenses. All open source code will be added into a Google Project code repository.
+  * All project code is versioned in this code repository: https://github.com/sjg/
+
+All documents, project posts and any other textual cotent produced by the project will be licenses under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+All dattabases, spreadsheets or any other tabular data produced by the project will be licensed using an Open Database License (ODC-ODbL) — “Attribution Share-Alike for data/databases” via API's for MapTube, SurveyMapper.
+
+JISCs official record of the project Grant is recorded here: https://pims.jisc.ac.uk/projects/view/1972
+
+The project uses Google Analytics to track and share data from their project here: https://www.google.com/analytics/reporting/?reset=1&id=43602708&pdr=20110604-20110704
+
+[Final project spend budget](https://docs.google.com/spreadsheet/ccc?key=0ArsNASxXZiL6dExVTjFJYWRtcFRVcGlJWk9OYzBCU1E&hl=en_GB#gid=15)
+
+For full contact details on this project please see the [DoaP (Description of a Project) database on all jiscGEO projects](https://spreadsheets1.google.com/pub?hl=en&hl=en&key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&single=true&gid=1&output=html).
+
+### Correspondence (below as comments) ###
+Please see below in comments section for any and all correspondance by Programme Manager with the Projects.  Also all edits that need to be made to this page please place in comments section and the author will correct.
+  * Email, Phone calls, twitters, links sent, etc.

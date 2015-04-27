@@ -1,0 +1,12 @@
+See this post on what and why you need a _unique_ and _memorable_ project tag: http://bit.ly/uniqueTag
+
+# Creating a Project Tag #
+The first task of the project (due within the first week of the project) is for you and your team to decide on a unique and memorable project tag.  Regardless of how clever your acronym is, JISC requires a unique tag both for minting records in its databases and so that your project is easy to reference and talk about during human conversation.
+
+## Why must I have this tag ##
+The Web is distributed and for JISC to keep track accross the Web it needs an easy way to find the various things you will create during the course fo your project on the Web.  By selecting a unique tag we'll be able to use Google and the like to do searches to see what your project is doing.  We'll also be able to aggregate any content on the Web into the UK Web Archive based on that tag so that we make sure to preserve all the things about your project during the course of the project.
+
+### Next Step ###
+Ok I've finished this step, what do I do next?
+
+[Go to step 2](ProjectDocumentationInstructionsStep2.md)

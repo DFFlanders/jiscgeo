@@ -1,0 +1,3 @@
+# Overall themes #
+
+"Hindsight is 20/20" and of course this is the case for this programme of work.  While we adopted a wider strategy at the start of this programme to increase spatial tools and services we did not emphasise the significance of how or if humans are capable of using those geospatial tools.  Naturally, therefore we have come to realise that it is human infrastructure that is the most significant theme for advancing spatial competence in the sector.

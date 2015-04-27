@@ -1,0 +1,46 @@
+All projects will have their own page in the jiscGEO programme wiki.  This page on the project is intended as a kind of checklist for each project.  This page is intended to be an informal whiteboard space where BOTH of us can take notes on the progress of your project, aka **the project isn't complete until I have this form filled out in full**.
+
+Any additions you make will be auto emailed to me so this is one of the best ways to communicate with me about your project as it progresses (alongside your project blog). You'll need me to give you edit rights by passing me your gmail or hotmail account
+
+If you don't like using wiki markup text then you are welcome to use the spreadsheet version of this same checklist.  [This spreadsheet is available online via a Google Docs spreasheet](https://spreadsheets.google.com/ccc?key=0ArsNASxXZiL6dHJzTndIbnNGQU5IemdPMGVoRFNoR0E&hl=en&authkey=CLzanfQL). /dff
+
+README:
+  * INSTRUCTIONS FOR WHAT DATA WE NEED ARE ENCAPSULATED IN HTML IGNORE TAGS <!--FOO--> PLEASE DELETE THESE TAGS AND ENTER YOUR "TEXT"
+  * PLEASE DO NOT DELETE 
+
+&lt;HTTP:URI&gt;
+
+ TAGS AS THIS IS HOW I TRANSFORM THE DATA TO MOVE TO OUR OTHER SYSTEMS, EG.. PIMS, CMS, ETC
+
+For example, the field for the name of your project should look like:
+  * "Full Name of Project: 
+
+&lt;doap:nome&gt;
+
+ David's project name here in full (without the html ignore tags) 
+
+&lt;/doap:nome&gt;
+
+
+
+### This Page's Namespaces ###
+The below URIs declare the vocabularies used for each of the vocabulary terms in the ProjectPageTemplate, i.e. 
+
+&lt;dc:title&gt;
+
+
+
+```
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:vs="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:v="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:doap="http://usefulinc.com/ns/doap#"
+  xmlns:org="http://www.w3.org/ns/org#"
+  xmlns:gr="http://purl.org/goodrelations/v1#"
+  xmlns:cf="CERIF data model URIs are still not available" :(
+> 
+```
